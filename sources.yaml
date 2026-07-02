@@ -1,100 +1,71 @@
 # ASEAN Energy Infrastructure Tracker — source configuration
-#
-# Each entry becomes one Google News RSS query (no API key required).
-# Add / remove / edit entries freely — the fetcher rebuilds the query list
-# from this file on every run. "country" and "topic" are used as filter
-# tags in the website; use short codes for country so the UI stays tidy.
-#
-# Optional extra layer: put direct RSS/Atom feed URLs under `extra_feeds`
-# (e.g. trade-press sites that publish their own feed). These are fetched
-# as-is and tagged with country="ASEAN", topic="General" unless you set
-# per-feed tags below. Feeds that fail to parse are skipped and logged —
-# nothing breaks the run.
 
 queries:
-  - label: "Vietnam HVDC"
-    q: "HVDC Vietnam EVNNPT OR EVN"
-    country: "VN"
-    topic: "HVDC"
-  - label: "Vietnam offshore wind"
-    q: "offshore wind Vietnam"
-    country: "VN"
-    topic: "Offshore Wind"
-  - label: "Vietnam interconnector"
-    q: "Vietnam power grid interconnector cross-border"
-    country: "VN"
-    topic: "Interconnector"
+  # ---------- VIETNAM ----------
+  - { label: "Vietnam HVDC", q: "HVDC Vietnam EVNNPT OR EVN", country: "VN", topic: "HVDC" }
+  - { label: "Vietnam offshore wind", q: "offshore wind Vietnam", country: "VN", topic: "Offshore Wind" }
+  - { label: "Vietnam interconnector", q: "Vietnam power grid interconnector cross-border", country: "VN", topic: "Interconnector" }
+  - { label: "Vietnam PDP8 power plan", q: "Vietnam PDP8 power development plan", country: "VN", topic: "Policy" }
+  - { label: "Vietnam energy policy decision", q: "Vietnam Ministry Industry Trade energy policy decision", country: "VN", topic: "Policy" }
+  - { label: "Vietnam electricity price reform", q: "Vietnam electricity price reform EVN", country: "VN", topic: "Policy" }
+  - { label: "Vietnam grid state of network", q: "Vietnam national grid modernization transmission capacity", country: "VN", topic: "Grid State" }
 
-  - label: "Malaysia HVDC"
-    q: "HVDC Malaysia Sarawak TNB"
-    country: "MY"
-    topic: "HVDC"
-  - label: "Malaysia offshore wind"
-    q: "offshore wind Malaysia"
-    country: "MY"
-    topic: "Offshore Wind"
-  - label: "Malaysia-Singapore interconnector"
-    q: "Malaysia Singapore power interconnector export"
-    country: "MY"
-    topic: "Interconnector"
+  # ---------- MALAYSIA ----------
+  - { label: "Malaysia HVDC", q: "HVDC Malaysia Sarawak TNB", country: "MY", topic: "HVDC" }
+  - { label: "Malaysia offshore wind", q: "offshore wind Malaysia", country: "MY", topic: "Offshore Wind" }
+  - { label: "Malaysia-Singapore interconnector", q: "Malaysia Singapore power interconnector export", country: "MY", topic: "Interconnector" }
+  - { label: "Malaysia NETR roadmap", q: "Malaysia National Energy Transition Roadmap NETR", country: "MY", topic: "Policy" }
+  - { label: "Malaysia Energy Commission decision", q: "Malaysia Energy Commission policy decision electricity", country: "MY", topic: "Policy" }
+  - { label: "Malaysia grid state of network", q: "Malaysia national grid capacity TNB transmission upgrade", country: "MY", topic: "Grid State" }
 
-  - label: "Philippines HVDC"
-    q: "HVDC Philippines NGCP TransCo"
-    country: "PH"
-    topic: "HVDC"
-  - label: "Philippines offshore wind"
-    q: "offshore wind Philippines"
-    country: "PH"
-    topic: "Offshore Wind"
-  - label: "Philippines grid interconnection"
-    q: "Philippines grid interconnection island transmission"
-    country: "PH"
-    topic: "Interconnector"
+  # ---------- PHILIPPINES ----------
+  - { label: "Philippines HVDC", q: "HVDC Philippines NGCP TransCo", country: "PH", topic: "HVDC" }
+  - { label: "Philippines offshore wind", q: "offshore wind Philippines", country: "PH", topic: "Offshore Wind" }
+  - { label: "Philippines grid interconnection", q: "Philippines grid interconnection island transmission", country: "PH", topic: "Interconnector" }
+  - { label: "Philippine Energy Plan", q: "Philippine Energy Plan PEP DOE", country: "PH", topic: "Policy" }
+  - { label: "Philippines energy policy decision", q: "Philippines Department of Energy policy decision", country: "PH", topic: "Policy" }
+  - { label: "Philippines Green Energy Auction", q: "Philippines Green Energy Auction GEA renewable", country: "PH", topic: "Policy" }
+  - { label: "Philippines grid state of network", q: "Philippines national grid capacity NGCP transmission", country: "PH", topic: "Grid State" }
 
-  - label: "Indonesia HVDC"
-    q: "HVDC Indonesia PLN Nusantara grid"
-    country: "ID"
-    topic: "HVDC"
-  - label: "Indonesia offshore wind"
-    q: "offshore wind Indonesia"
-    country: "ID"
-    topic: "Offshore Wind"
-  - label: "Indonesia interconnection"
-    q: "Indonesia interconnection grid islands power"
-    country: "ID"
-    topic: "Interconnector"
+  # ---------- INDONESIA ----------
+  - { label: "Indonesia HVDC", q: "HVDC Indonesia PLN Nusantara grid", country: "ID", topic: "HVDC" }
+  - { label: "Indonesia offshore wind", q: "offshore wind Indonesia", country: "ID", topic: "Offshore Wind" }
+  - { label: "Indonesia interconnection", q: "Indonesia interconnection grid islands power", country: "ID", topic: "Interconnector" }
+  - { label: "Indonesia RUPTL power plan", q: "Indonesia RUPTL PLN power development plan", country: "ID", topic: "Policy" }
+  - { label: "Indonesia energy ministry decision", q: "Indonesia ESDM energy ministry policy decision", country: "ID", topic: "Policy" }
+  - { label: "Indonesia JETP", q: "Indonesia JETP Just Energy Transition Partnership", country: "ID", topic: "Policy" }
+  - { label: "Indonesia grid state of network", q: "Indonesia national grid capacity PLN transmission", country: "ID", topic: "Grid State" }
 
-  - label: "Thailand grid"
-    q: "Thailand EGAT HVDC grid transmission"
-    country: "TH"
-    topic: "HVDC"
-  - label: "Thailand cross-border power trade"
-    q: "Thailand Malaysia Singapore power trade LTMS-PIP"
-    country: "TH"
-    topic: "Interconnector"
+  # ---------- THAILAND ----------
+  - { label: "Thailand grid", q: "Thailand EGAT HVDC grid transmission", country: "TH", topic: "HVDC" }
+  - { label: "Thailand cross-border power trade", q: "Thailand Malaysia Singapore power trade LTMS-PIP", country: "TH", topic: "Interconnector" }
+  - { label: "Thailand Power Development Plan", q: "Thailand Power Development Plan PDP EGAT", country: "TH", topic: "Policy" }
+  - { label: "Thailand energy policy decision", q: "Thailand NEPC energy policy decision", country: "TH", topic: "Policy" }
+  - { label: "Thailand grid state of network", q: "Thailand national grid capacity EGAT transmission", country: "TH", topic: "Grid State" }
 
-  - label: "Singapore power import"
-    q: "Singapore power import interconnector cross-border electricity"
-    country: "SG"
-    topic: "Interconnector"
+  # ---------- SINGAPORE ----------
+  - { label: "Singapore power import", q: "Singapore power import interconnector cross-border electricity", country: "SG", topic: "Interconnector" }
+  - { label: "Singapore energy policy", q: "Singapore Energy Market Authority policy decision", country: "SG", topic: "Policy" }
 
-  - label: "ASEAN Power Grid"
-    q: "ASEAN Power Grid interconnector"
-    country: "ASEAN"
-    topic: "Interconnector"
-  - label: "ASEAN offshore wind"
-    q: "ASEAN offshore wind Southeast Asia"
-    country: "ASEAN"
-    topic: "Offshore Wind"
+  # ---------- LAOS / CAMBODIA / MYANMAR / BRUNEI ----------
+  - { label: "Laos hydropower export", q: "Laos hydropower export power grid EDL", country: "LA", topic: "Grid State" }
+  - { label: "Cambodia grid", q: "Cambodia power grid EDC transmission", country: "KH", topic: "Grid State" }
+  - { label: "Myanmar energy", q: "Myanmar power grid energy policy", country: "MM", topic: "Grid State" }
+  - { label: "Brunei energy transition", q: "Brunei energy transition power grid", country: "BN", topic: "Policy" }
+
+  # ---------- ASEAN-WIDE ----------
+  - { label: "ASEAN Power Grid", q: "ASEAN Power Grid interconnector", country: "ASEAN", topic: "Interconnector" }
+  - { label: "ASEAN offshore wind", q: "ASEAN offshore wind Southeast Asia", country: "ASEAN", topic: "Offshore Wind" }
+  - { label: "ASEAN Centre for Energy report", q: "ASEAN Centre for Energy ACE report", country: "ASEAN", topic: "Policy" }
+  - { label: "ASEAN energy ministers meeting", q: "ASEAN Ministers on Energy Meeting AMEM", country: "ASEAN", topic: "Policy" }
+  - { label: "Asia Clean Energy Forum", q: "Asia Clean Energy Forum ACEF", country: "ASEAN", topic: "Policy" }
+  - { label: "ADB Southeast Asia energy", q: "Asian Development Bank Southeast Asia power grid financing", country: "ASEAN", topic: "Policy" }
+  - { label: "JETP Southeast Asia", q: "Just Energy Transition Partnership Southeast Asia", country: "ASEAN", topic: "Policy" }
+  - { label: "Mekong power trade", q: "Mekong region cross-border power trade", country: "ASEAN", topic: "Interconnector" }
+  - { label: "VTMS power corridor", q: "VTMS Vietnam Thailand Malaysia Singapore power corridor", country: "ASEAN", topic: "Interconnector" }
 
 extra_feeds: []
-# Example of how to add a direct feed once you've confirmed it works:
-# extra_feeds:
-#   - label: "Global Transmission Report — Asia Pacific"
-#     url: "https://globaltransmission.info/category/project-update/asia-pacific-project-update/feed/"
-#     country: "ASEAN"
-#     topic: "General"
 
 settings:
-  max_articles_stored: 600   # trims the archive so the site stays light
-  max_per_query: 12          # how many results to keep per query per run
+  max_articles_stored: 1500
+  max_per_query: 20
