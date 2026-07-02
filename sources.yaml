@@ -1,0 +1,100 @@
+# ASEAN Energy Infrastructure Tracker — source configuration
+#
+# Each entry becomes one Google News RSS query (no API key required).
+# Add / remove / edit entries freely — the fetcher rebuilds the query list
+# from this file on every run. "country" and "topic" are used as filter
+# tags in the website; use short codes for country so the UI stays tidy.
+#
+# Optional extra layer: put direct RSS/Atom feed URLs under `extra_feeds`
+# (e.g. trade-press sites that publish their own feed). These are fetched
+# as-is and tagged with country="ASEAN", topic="General" unless you set
+# per-feed tags below. Feeds that fail to parse are skipped and logged —
+# nothing breaks the run.
+
+queries:
+  - label: "Vietnam HVDC"
+    q: "HVDC Vietnam EVNNPT OR EVN"
+    country: "VN"
+    topic: "HVDC"
+  - label: "Vietnam offshore wind"
+    q: "offshore wind Vietnam"
+    country: "VN"
+    topic: "Offshore Wind"
+  - label: "Vietnam interconnector"
+    q: "Vietnam power grid interconnector cross-border"
+    country: "VN"
+    topic: "Interconnector"
+
+  - label: "Malaysia HVDC"
+    q: "HVDC Malaysia Sarawak TNB"
+    country: "MY"
+    topic: "HVDC"
+  - label: "Malaysia offshore wind"
+    q: "offshore wind Malaysia"
+    country: "MY"
+    topic: "Offshore Wind"
+  - label: "Malaysia-Singapore interconnector"
+    q: "Malaysia Singapore power interconnector export"
+    country: "MY"
+    topic: "Interconnector"
+
+  - label: "Philippines HVDC"
+    q: "HVDC Philippines NGCP TransCo"
+    country: "PH"
+    topic: "HVDC"
+  - label: "Philippines offshore wind"
+    q: "offshore wind Philippines"
+    country: "PH"
+    topic: "Offshore Wind"
+  - label: "Philippines grid interconnection"
+    q: "Philippines grid interconnection island transmission"
+    country: "PH"
+    topic: "Interconnector"
+
+  - label: "Indonesia HVDC"
+    q: "HVDC Indonesia PLN Nusantara grid"
+    country: "ID"
+    topic: "HVDC"
+  - label: "Indonesia offshore wind"
+    q: "offshore wind Indonesia"
+    country: "ID"
+    topic: "Offshore Wind"
+  - label: "Indonesia interconnection"
+    q: "Indonesia interconnection grid islands power"
+    country: "ID"
+    topic: "Interconnector"
+
+  - label: "Thailand grid"
+    q: "Thailand EGAT HVDC grid transmission"
+    country: "TH"
+    topic: "HVDC"
+  - label: "Thailand cross-border power trade"
+    q: "Thailand Malaysia Singapore power trade LTMS-PIP"
+    country: "TH"
+    topic: "Interconnector"
+
+  - label: "Singapore power import"
+    q: "Singapore power import interconnector cross-border electricity"
+    country: "SG"
+    topic: "Interconnector"
+
+  - label: "ASEAN Power Grid"
+    q: "ASEAN Power Grid interconnector"
+    country: "ASEAN"
+    topic: "Interconnector"
+  - label: "ASEAN offshore wind"
+    q: "ASEAN offshore wind Southeast Asia"
+    country: "ASEAN"
+    topic: "Offshore Wind"
+
+extra_feeds: []
+# Example of how to add a direct feed once you've confirmed it works:
+# extra_feeds:
+#   - label: "Global Transmission Report — Asia Pacific"
+#     url: "https://globaltransmission.info/category/project-update/asia-pacific-project-update/feed/"
+#     country: "ASEAN"
+#     topic: "General"
+
+settings:
+  max_articles_stored: 600   # trims the archive so the site stays light
+  max_per_query: 12          # how many results to keep per query per run

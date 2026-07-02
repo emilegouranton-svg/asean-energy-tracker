@@ -1,0 +1,200 @@
+[
+  {
+    "title": "SCORE Guide 2026: Sarawak-Peninsular grid link, Baleh dam and the green/hydrogen pivot",
+    "link": "https://malaysia4u.com/score-guide",
+    "source": "Malaysia4U",
+    "published": "2026-06-11T00:00:00+00:00",
+    "country": "MY",
+    "topic": "HVDC",
+    "id": "f538e49c075ccca1",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Indonesia's Wind Breakthrough: Batam Hosts First Wind Energy Conversion Facilities",
+    "link": "https://batamnewsasia.com/2026/06/02/indonesias-wind-breakthrough-batam-hosts-first-wind-energy-conversion-facilities/",
+    "source": "Batam News Asia",
+    "published": "2026-06-02T00:00:00+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "id": "84aae0bdd10fad67",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Export Offshore Wind Cable Market in Indonesia",
+    "link": "https://www.indexbox.io/store/indonesia-export-offshore-wind-cable-market-analysis-forecast-size-trends-and-insights/",
+    "source": "IndexBox",
+    "published": "2026-05-01T00:00:00+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "id": "d74361776586e9ed",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "2026 Update: Offshore Wind in the Philippines",
+    "link": "https://www.wfw.com/articles/2026-update-offshore-wind-in-the-philippines/",
+    "source": "Watson Farley & Williams",
+    "published": "2026-04-20T00:00:00+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "id": "1940193f6c726090",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "To meet strong electricity demand: HVDC to become Vietnam grid's new backbone",
+    "link": "https://en.vneconomy.vn/to-meet-strong-electricity-demand.htm",
+    "source": "VnEconomy",
+    "published": "2026-04-14T00:00:00+00:00",
+    "country": "VN",
+    "topic": "HVDC",
+    "id": "cf217792cc551a73",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "EVN and Quang Tri provincial people's committee review progress of power source and grid projects",
+    "link": "https://vietnamenergy.vn/evn-and-quang-tri-provincial-peoples-committee-review-progress-of-power-source-and-grid-projects-35900.html",
+    "source": "Vietnam Energy",
+    "published": "2026-04-11T00:00:00+00:00",
+    "country": "VN",
+    "topic": "HVDC",
+    "id": "0a4a4deb4535ffa0",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "ADB Launches Fund to Accelerate ASEAN Power Grid",
+    "link": "https://www.hvdcworld.com/news/adb-launches-fund-to-accelerate-asean-power-grid",
+    "source": "HVDC World",
+    "published": "2026-04-07T00:00:00+00:00",
+    "country": "ASEAN",
+    "topic": "Interconnector",
+    "id": "90fdbcecadef15c5",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Ensuring transmission grid infrastructure serves the socio-economic development of the country",
+    "link": "https://www.vietnam.vn/en/bao-dam-ha-tang-luoi-dien-truyen-tai-phuc-vu-phat-trien-kinh-te-xa-hoi-dat-nuoc",
+    "source": "Vietnam.vn",
+    "published": "2026-03-23T00:00:00+00:00",
+    "country": "VN",
+    "topic": "General",
+    "id": "6570ef956d4f5391",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Philippines' Grid Expansion: NGCP focuses on renewables' integration",
+    "link": "https://reglobal.org/philippines-grid-expansion-ngcp-focuses-on-renewables-integration/",
+    "source": "REGlobal",
+    "published": "2026-03-12T00:00:00+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "id": "8898030f59b29f9c",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Two ultra-high voltage direct current transmission lines will be operational in 2031",
+    "link": "https://www.vietnam.vn/en/hai-duong-day-truyen-tai-dien-mot-chieu-sieu-cao-ap-se-van-hanh-nam-2031",
+    "source": "Vietnam.vn",
+    "published": "2026-02-24T00:00:00+00:00",
+    "country": "VN",
+    "topic": "HVDC",
+    "id": "e8cedcc0883746e2",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Grid Enhancement: The Philippines' focus on transmission and RES interconnection",
+    "link": "https://reglobal.org/grid-enhancement-the-philippines-focus-on-transmission-and-res-interconnection/",
+    "source": "REGlobal",
+    "published": "2026-02-19T00:00:00+00:00",
+    "country": "PH",
+    "topic": "Interconnector",
+    "id": "0d2a7cd2f167817b",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "TNB finalising consortium partners for Sarawak-Peninsular interconnection",
+    "link": "https://thesun.my/news/malaysia-news/tnb-finalising-consortium-partners-for-sarawak-peninsular-interconnection-bf15101451/",
+    "source": "The Sun (Malaysia)",
+    "published": "2026-02-16T00:00:00+00:00",
+    "country": "MY",
+    "topic": "HVDC",
+    "id": "8f72856dd10ae6c7",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "NGCP to complete 7 key projects in 2026",
+    "link": "https://www.ngcp.ph/article?cid=18056",
+    "source": "National Grid Corporation of the Philippines",
+    "published": "2026-02-12T00:00:00+00:00",
+    "country": "PH",
+    "topic": "General",
+    "id": "ddcfdfe26cc5db99",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "EVNNPT, northern Vietnam province Son La to speed up power transmission projects",
+    "link": "https://theinvestor.vn/evnnpt-northern-vietnam-province-son-la-to-speed-up-power-transmission-projects-d17477.html",
+    "source": "The Investor VN",
+    "published": "2025-10-31T00:00:00+00:00",
+    "country": "VN",
+    "topic": "General",
+    "id": "78f43c05e7609516",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "TNB targets local-international consortium for 700km Sarawak-Johor renewable power link",
+    "link": "https://dayakdaily.com/tnb-targets-local-international-consortium-for-700km-sarawak-johor-renewable-power-link/",
+    "source": "DayakDaily",
+    "published": "2025-10-16T00:00:00+00:00",
+    "country": "MY",
+    "topic": "HVDC",
+    "id": "4b47a5ad8bc653db",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Tenaga seeks partners for Sarawak-Peninsular Malaysia power link",
+    "link": "https://theedgemalaysia.com/node/774178",
+    "source": "The Edge Malaysia",
+    "published": "2025-10-15T00:00:00+00:00",
+    "country": "MY",
+    "topic": "Interconnector",
+    "id": "692fafa0ad356cca",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Philippines' Grid Expansion: NGCP focuses on RES integration and island interconnection",
+    "link": "https://southeastasiainfra.com/philippines-grid-expansion-ngcp-focuses-on-res-integration-and-island-interconnection/",
+    "source": "Southeast Asia Infrastructure",
+    "published": "2025-07-04T00:00:00+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "id": "525156d26f772643",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  },
+  {
+    "title": "Indonesia's new power development plan: Highlights from the 2025-2034 RUPTL",
+    "link": "https://www.ashurstperkinscoie.com/en/insights/indonesias-new-power-development-plan/",
+    "source": "Ashurst Perkins Coie",
+    "published": "2025-06-20T00:00:00+00:00",
+    "country": "ID",
+    "topic": "HVDC",
+    "id": "1e77bb79e7348871",
+    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
+    "query_label": "seed"
+  }
+]

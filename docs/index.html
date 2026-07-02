@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ASEAN Grid Watch — HVDC · Offshore Wind · Interconnectors</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scanline" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <svg class="brand-mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
+      <circle cx="6" cy="16" r="3" fill="currentColor"/>
+      <circle cx="26" cy="7" r="3" fill="currentColor"/>
+      <circle cx="26" cy="25" r="3" fill="currentColor"/>
+      <path d="M9 16 L23 7 M9 16 L23 25" stroke="currentColor" stroke-width="1.4" fill="none"/>
+    </svg>
+    <div>
+      <h1>ASEAN Grid Watch</h1>
+      <p class="tagline">HVDC · Offshore Wind · Cross-border Interconnectors</p>
+    </div>
+  </div>
+  <div class="status" id="statusBox">
+    <span class="status-dot" id="statusDot"></span>
+    <span id="statusText">Loading feed…</span>
+  </div>
+</header>
+
+<section class="grid-strip" aria-label="Coverage by country">
+  <div class="grid-strip-inner" id="gridStrip"></div>
+</section>
+
+<main class="layout">
+  <aside class="filters" aria-label="Filters">
+    <div class="filter-block">
+      <label for="searchInput" class="filter-label">Search</label>
+      <input id="searchInput" type="text" placeholder="e.g. Sarawak, EVNNPT, subsea cable…" autocomplete="off">
+    </div>
+
+    <div class="filter-block">
+      <span class="filter-label">Topic</span>
+      <div class="chip-row" id="topicChips"></div>
+    </div>
+
+    <div class="filter-block">
+      <span class="filter-label">Country</span>
+      <div class="chip-row" id="countryChips"></div>
+    </div>
+
+    <div class="filter-block">
+      <span class="filter-label">Window</span>
+      <div class="chip-row" id="windowChips">
+        <button class="chip" data-window="7">7 days</button>
+        <button class="chip" data-window="30">30 days</button>
+        <button class="chip active" data-window="0">All time</button>
+      </div>
+    </div>
+
+    <button class="reset-btn" id="resetBtn">Reset filters</button>
+
+    <div class="meter">
+      <span class="filter-label">Archive</span>
+      <p id="archiveMeta" class="meter-text">—</p>
+    </div>
+  </aside>
+
+  <section class="feed" aria-label="Article feed">
+    <div class="feed-header">
+      <span id="resultCount">—</span>
+      <select id="sortSelect">
+        <option value="desc">Newest first</option>
+        <option value="asc">Oldest first</option>
+      </select>
+    </div>
+    <ul class="article-list" id="articleList"></ul>
+    <p class="empty-state" id="emptyState" hidden>No articles match these filters yet — try widening the window or clearing a chip.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Auto-refreshed daily via GitHub Actions from Google News RSS. Source list and keywords: <code>sources.yaml</code>.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
