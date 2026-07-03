@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-02T11:29:15.324480+00:00",
-  "new_articles": 32,
-  "total_articles": 791,
+  "last_run": "2026-07-03T00:15:06.331373+00:00",
+  "new_articles": 71,
+  "total_articles": 862,
   "queries": [
     {
       "query": "Vietnam HVDC",
@@ -126,7 +126,7 @@
     {
       "query": "Indonesia energy ministry decision",
       "status": "ok",
-      "count": 15
+      "count": 20
     },
     {
       "query": "Indonesia JETP",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "query": "Cambodia grid",
