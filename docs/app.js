@@ -24,6 +24,7 @@ const state = {
 };
 
 let ARTICLES = [];
+let PROFILES = null;
 
 function slug(s) {
   return s.toLowerCase().replace(/\s+/g, "-");
@@ -239,6 +240,152 @@ document.getElementById("resetBtn").addEventListener("click", () => {
   state.search = "";
   document.getElementById("searchInput").value = "";
   render();
+});
+
+// ---------- Country profiles ----------
+
+async function loadProfiles() {
+  if (PROFILES) return PROFILES;
+  try {
+    const res = await fetch("data/country_profiles.json", { cache: "no-store" });
+    PROFILES = await res.json();
+  } catch (err) {
+    console.error(err);
+    PROFILES = { regional: { frameworks: [] }, countries: [] };
+  }
+  return PROFILES;
+}
+
+function sourceLink(name, url) {
+  return `<a href="${url}" target="_blank" rel="noopener noreferrer">${name}</a>`;
+}
+
+function renderFrameworkCard(fw) {
+  return `
+    <div class="profile-item">
+      <p class="profile-item-title">${fw.name}</p>
+      <p class="profile-item-detail">${fw.detail}</p>
+      <div class="profile-item-meta">
+        <span>Source: ${sourceLink(fw.source_name, fw.source_url)}</span>
+      </div>
+    </div>
+  `;
+}
+
+function renderAgreementCard(a) {
+  return `
+    <div class="profile-item">
+      <p class="profile-item-title">${a.partner}</p>
+      <p class="profile-item-detail">${a.detail}</p>
+      <div class="profile-item-meta">
+        <span>${a.date || ""}</span>
+        <span>Source: ${sourceLink(a.source_name, a.source_url)}</span>
+      </div>
+    </div>
+  `;
+}
+
+function renderLawCard(l) {
+  return `
+    <div class="profile-item">
+      <p class="profile-item-title">${l.name}</p>
+      <p class="profile-item-detail">${l.detail}</p>
+      <div class="profile-item-meta">
+        <span>Source: ${sourceLink(l.source_name, l.source_url)}</span>
+      </div>
+    </div>
+  `;
+}
+
+function renderCountryProfile(c) {
+  return `
+    <section class="profile-section" id="profile-${c.code}">
+      <div class="profile-heading">
+        <h2>${c.name}</h2>
+        <span class="node-code">${c.code}</span>
+      </div>
+
+      <div class="profile-block">
+        <p class="profile-block-label">Development plan</p>
+        <div class="profile-item">
+          <p class="profile-item-title">${c.development_plan.name}</p>
+          <p class="profile-item-detail">${c.development_plan.detail}</p>
+          <div class="profile-item-meta">
+            <span>Source: ${sourceLink(c.development_plan.source_name, c.development_plan.source_url)}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="profile-block">
+        <p class="profile-block-label">Laws and regulatory framework</p>
+        ${c.laws.map(renderLawCard).join("")}
+      </div>
+
+      <div class="profile-block">
+        <p class="profile-block-label">Grid operator and network state</p>
+        <div class="profile-meta-grid">
+          <div class="profile-meta-card"><p class="k">Operator</p><p class="v">${c.grid_operator.name}</p></div>
+          <div class="profile-meta-card"><p class="k">Ownership</p><p class="v">${c.grid_operator.ownership}</p></div>
+          <div class="profile-meta-card"><p class="k">Government body</p><p class="v">${c.grid_operator.ministry}</p></div>
+        </div>
+        <div class="profile-item">
+          <p class="profile-item-detail">${c.grid_operator.grid_state}</p>
+          <div class="profile-item-meta">
+            <span>Source: ${sourceLink(c.grid_operator.source_name, c.grid_operator.source_url)}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="profile-block">
+        <p class="profile-block-label">Agreements with foreign / external companies</p>
+        ${c.foreign_agreements.map(renderAgreementCard).join("")}
+      </div>
+    </section>
+  `;
+}
+
+async function renderProfilesView() {
+  const data = await loadProfiles();
+  const container = document.getElementById("profilesContent");
+  const nav = document.getElementById("profileNav");
+
+  nav.innerHTML = `<button class="chip" data-target="profile-ASEAN">ASEAN-wide</button>` +
+    data.countries.map((c) => `<button class="chip" data-target="profile-${c.code}">${c.name}</button>`).join("");
+
+  nav.querySelectorAll(".chip").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.getElementById(btn.dataset.target)?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  });
+
+  container.innerHTML = `
+    <section class="profile-section" id="profile-ASEAN">
+      <div class="profile-heading"><h2>ASEAN-wide frameworks</h2><span class="node-code">ASEAN</span></div>
+      <div class="profile-block">
+        ${data.regional.frameworks.map(renderFrameworkCard).join("")}
+      </div>
+    </section>
+  ` + data.countries.map(renderCountryProfile).join("");
+}
+
+// ---------- View switching ----------
+
+const VIEW_TITLES = { feed: "Live feed", profiles: "Country profiles" };
+
+document.querySelectorAll(".nav-item").forEach((item) => {
+  item.addEventListener("click", () => {
+    document.querySelectorAll(".nav-item").forEach((t) => t.classList.remove("active"));
+    item.classList.add("active");
+    const view = item.dataset.view;
+
+    document.getElementById("feedView").hidden = view !== "feed";
+    document.getElementById("profilesView").hidden = view !== "profiles";
+    document.getElementById("feedFilters").hidden = view !== "feed";
+    document.getElementById("profilesNavSection").hidden = view !== "profiles";
+    document.getElementById("viewTitle").textContent = VIEW_TITLES[view] || "";
+
+    if (view === "profiles") renderProfilesView();
+  });
 });
 
 loadData();
