@@ -1,5 +1,27 @@
 [
   {
+    "id": "9fd23baa3a873cf9",
+    "title": "July 2026 Electricity Tariff Stays Flat, Govt Protects Households - JournalArta",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2o5bWRSUWNTSXdiSzBXTjllSGlpa1NQQzZqd2lmOTlZdTBqcVN3Ul9BS2RCSnF2WTlDOVBnc3RYd3FnQURkTVNaQU85QmgzRFBfNVpJZnFreUpfN2o1d2RZN2xpY0RkaTRoenF6S0k0bDhIcXRyWUd1V19lLU1jMkxrSWlrM0pnTEt4dVdMaVVpY0cyZGt2OW00X0lfcWw2Y3c?oc=5",
+    "source": "JournalArta",
+    "published": "2026-07-06T04:47:41+00:00",
+    "fetched_at": "2026-07-06T06:59:43.690238+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
+  },
+  {
+    "id": "5123ded9fc38c133",
+    "title": "NGCP lines up P55-B Cebu grid projects to meet rising power demand - InsiderPH",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFVzRjVUWmsySGt2aEduV3dLMFI1cUlBa3pUT0RrdGMtYkZvZmpOV1JhclY2b05pbTliZzhDNnJyVlJ0YmVIYlBNekN4aXVCUjZXcU50QnFnWk1Db3kyMnZQN1hTcFBKTWxNUEdrUUw5THo0NWNGczkxYXF6X0Z1MmlWMm9ndmNWUkxaNEtoRHplUQ?oc=5",
+    "source": "InsiderPH",
+    "published": "2026-07-06T00:42:12+00:00",
+    "fetched_at": "2026-07-06T06:59:36.989927+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "6a8001fc7254b02e",
     "title": "Powering a New Chapter: Malakoff Corp Leads Revival of Malaysia’s IPP Industry - KLSE Screener",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclRYZzlDV0loMjRlYTRwcGJpTDRYTENTSHhkdGVsN3Rwemk0Z3RIdlBLQXlGUEpjendkc1Q1TnlDWTJrU2tJelA2djhKRHc3RFZ5V3JTWVc1VW9QX29QWkhRNHlZSUJ1cU1wc2FUc0VZQ3czRWthTXgyYldTVVJzNW9EVnBOTkJUM1drQnBCVUl4ZnRYLWhwRk0zRUp4Y3VhNWhiUENmYy1kdEl3LUVXaVM3MURGR0ZiNFJLTHU3bVBQdEhGX1E?oc=5",
@@ -1164,6 +1186,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "d1818c905c1c21d5",
+    "title": "ADB shifts focus from financing projects to making markets investable - tanahair.net",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0tNaVZ5SFNSc0xRRDVtb2J6c011R0NsNGIwa253M1cxcjkzYkpQN0wybm1MZnZZd0ItaHV2ZlRuTC14QWNZVmpiajBkME1GZ2VvU1lmd3VrT1FNY2ZWQjN0ZFJFdTluZmFRMl9pWTBfNVJpNVE5emowaEZobjgtNGJHQjZiMGpjSlJOSDVnMENZTHB4eHc?oc=5",
+    "source": "tanahair.net",
+    "published": "2026-06-17T07:00:00+00:00",
+    "fetched_at": "2026-07-06T07:00:10.052380+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ADB Southeast Asia energy"
   },
   {
     "id": "70471d01c7c0202f",
@@ -3564,6 +3597,17 @@
     "query_label": "Malaysia NETR roadmap"
   },
   {
+    "id": "8d3ee284c9703dae",
+    "title": "Plugging into Reality: The ASEAN Power Grid - The Diplomat – Asia-Pacific",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkg1YmpUc1U1MVlTdVI5bm9abFNHaDlNWklRcWhtbUZEQnlkakZaREc0Q0pTSWw3UkJLNnRPMzZwVC1zWVFKVTRraDdkdHQ1MHBaZTYwS1dSOTdyMFpEWTJNbFBvSTVNWDRjNkVGNnBGczhHekpqMzlua080a2U3Rg?oc=5",
+    "source": "The Diplomat – Asia-Pacific",
+    "published": "2026-04-17T07:00:00+00:00",
+    "fetched_at": "2026-07-06T07:00:10.052455+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ADB Southeast Asia energy"
+  },
+  {
     "id": "394f33fdb8716ace",
     "title": "Ministry calls for actions to speed up power projects under revised PDP8 - vietnamnews.vn",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHRROXBiUlV0YU82S0I4aUV2aXU3S3RwOXFRQ3I5MkROdDBzMWpheWozM0U3NnBHcW4xSDVZWFdEVGo2dm9xSjlBY0RFV3JwY09wN2dWa1pnZ1dkUXFaOXVpZmdsWXlCX09xQlFYSTl1SlZTZVJ6V1pkOFh5enotWU1VSjI0VVhBbzRBTU9SXzNSWW43cmtUNkRoMlRMYS12Vk9oNC02a01RS29zVjY1Q1RYUktCOXM?oc=5",
@@ -4717,6 +4761,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "efa20133383ddc05",
+    "title": "Vietnam forms task force to ensure energy security amidst Middle East tensions - en.qdnd.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3JBc0RuTG1ZLVlxaFVzUW5hTnJrVDJLMDhCRzZQemxlaE9iWDdZRHduZUpRc3BocF9VMm83UU4zOFlmU3lPZ3hfejB1ajM5S3FqWFJqekE4Zm9EMkE3RWJiMjRLemljaHFaYnNQSVlaWHNTaVJXQTVFOVZiZEtRZVpHODg2WFVsN3RpWWpGZHZjMW9mZlZ1aXNnYXZjclhiMW12MU81UnYxMG9DZmVuLWh3YU1CbWFD?oc=5",
+    "source": "en.qdnd.vn",
+    "published": "2026-03-05T08:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:15.745517+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam energy policy decision"
   },
   {
     "id": "586839eb4c55b493",
@@ -7788,6 +7843,17 @@
     "query_label": "Vietnam electricity price reform"
   },
   {
+    "id": "7f54c3ca5c7c93f6",
+    "title": "Malaysia mulls adding nuclear to sustainable energy mix in 10 years, says minister - Asia News Network",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMksyVmZXU0J0RHZVYlc5T29uVVJqY2ktQTRoRWNMWW1JWlBudjNmOVRfNkE2aUJDbE5COU5pMzBlcVZhanl5c1R4N1c1eVUyWUp6eXFtUGl3M3BnVnBTaHlhbTlHb3FDSjJwLXBKenprSFJKOUFSWXRXT0Q2cGlId3NNVjVObkdQTDB3a1hudnBpNEZtX0FtdHhUcGsydFZnU1dpUzhTWmtpMTA?oc=5",
+    "source": "Asia News Network",
+    "published": "2025-09-08T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:25.802116+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia Energy Commission decision"
+  },
+  {
     "id": "2e55ff7dd2fd1d77",
     "title": "California Supreme Court sets precedent with recent decision on controversial energy policy: 'Utilities feel threatened' - Yahoo",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDgwcGNsNGNfVG1qM1kzTGt6bm5tVERKdWpYdzMzb01iUmc0OHFBVDNnX1BIREM1bDFpU3dMUVJfVlRtMVBIdmZtNmRVenJoUTRYVVZvMUpBWHVQbG5jamRXbHlYWllNMlc2WjZLUUtpNmxnbUNDM0hsUzRnVlZxR2szcWlaMmdPYXQtN3F2UHdGcklp?oc=5",
@@ -7918,6 +7984,17 @@
     "country": "ASEAN",
     "topic": "Offshore Wind",
     "query_label": "ASEAN offshore wind"
+  },
+  {
+    "id": "206dd868f5cf5e18",
+    "title": "Vietnam plans power price reform to ease losses, ensure energy security - Borneo Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmxkYmNQZDVBU1k0VmlzUTJnNHpkbHE0M0JSdDVvcFQzbjRjWEcwZHhmODZpcDM2ckE4UVFMbTdScndEX3h6N2hjUFc3VDJmX3hPYUJjQlBqcmdHQkN2YUlGbHZNNTZBRnBxckdJRE1hNkFEdU9MX3l1WkRSWkk1UlZXQVo2dHVQaU5DdE43X0ZNbWlMcFp2S3p5SWVYWDJQVmdJ?oc=5",
+    "source": "Borneo Bulletin",
+    "published": "2025-08-20T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:17.288110+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam electricity price reform"
   },
   {
     "id": "94e646ec9676cec3",
@@ -8371,6 +8448,17 @@
     "query_label": "Indonesia grid state of network"
   },
   {
+    "id": "cd7d5cb57774e7ab",
+    "title": "Indonesia pushes Super Grid using HVDC power technology - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUERKSG53LWxLcjN5RjQ0b0tVTDZaTHd1XzNaVVY0cktNX3NtMDRYWWFQbWpwV0daVE5CaEZWR1pEcVQycnFEZ1hzRm1fcHY0NzFOUzRyMkhSUmNMaHdrT2MzNl9vdnFBZUxuN0hOX2RJdjk2RGlzemhmRndIU3dOTW9ENnZTQlJyZm5JdTI1WXl1UXUzSjJMcdIBngFBVV95cUxPRktzZzBIR2h5ZWZ6OGVJZlFZWmpicFQ3VTVuY253YVJQdUVmRWU0QmFYYmpGbXdsRUJvQnY2ZEk4STM0dHNtMHo2M21oOEt2RVhNX0NOSmhKcVVsckNYTXJvSFVpb0xYZW5OZmlBUV9GZk9FbF9mazNVcHNyVXAwVjJwMU5XZm9sM0RoV0pMc1gzWmtXNzk3cC1JaE95Zw?oc=5",
+    "source": "ANTARA News",
+    "published": "2025-06-18T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:38.228361+00:00",
+    "country": "ID",
+    "topic": "HVDC",
+    "query_label": "Indonesia HVDC"
+  },
+  {
     "id": "2e252ca166eb7cca",
     "title": "From boom to balance in Vietnam’s clean energy transition - Institute for Energy Economics and Financial Analysis (IEEFA)",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RmFtMEZlSDU5LVF6TnZHWkhvTDZjMkYtUUFuOFFSNEZ1TmtscU0xcFJuX1hZT21QOFh2aTZaeENGM1JlTHU4dEtWelM0cTMxeE92emVqai11SjltQ25ubkw4QnQxQlRRWXoxX2dhN3JFRXZPYlY3bk9rQnZXQQ?oc=5",
@@ -8413,6 +8501,17 @@
     "country": "MY",
     "topic": "Grid State",
     "query_label": "Malaysia grid state of network"
+  },
+  {
+    "id": "bf1111a7701188bb",
+    "title": "The Philippines, JICA launch nationwide hydropower inventory project - International Water Power",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGhqY1hEWnJnbzVfNmpEc0FESndWSTlGWENPX2NCa1RSMGFXZ2FNR1JjdWU1S0RvWXR4ampmMnhKX2FkZktuTEFfSTNPZnN4U21XZmYwLUlDOUlZb0o4WUlONW9xVWlkMjQ4Y0tpWXNueWlMbm1sS3BBV0NBOXZxdTJNMU9GUTB1X0g2bFNhcFF5TmRjQVNUMHc4ZlFvWUdCWkE4WFZISnhVdTRG?oc=5",
+    "source": "International Water Power",
+    "published": "2025-06-16T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:32.591447+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippine Energy Plan"
   },
   {
     "id": "fe6c3ff489965adb",
@@ -8512,6 +8611,28 @@
     "country": "SG",
     "topic": "Interconnector",
     "query_label": "Singapore power import"
+  },
+  {
+    "id": "ca5049ea83bdcd9a",
+    "title": "Power without borders: Charting Asean’s path to an interconnected energy future - Eco-Business",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWG1QUE1vSDFQUlZoM1FhdWpvMGE3X19vRkhBY2RtT2Q1VEVDaXNabk1ibFU4TU1iVXNCRmJqTmNuc2lvd0poRmFsbkRUSzRMdUFYVm5QSXJ6WnZvOWZqaVJuYm1aLXFQMFRZNHQ0VF96bmFCWHc1QWpxelp6QlloalBDaFp1V3BuZi1XdjE5Y2pZM2JsZy10eDZtaUNEVTNvZkswYWtzazYyWDZoODBnS1dxYjJULV9EdzFpR1R5R3Q4dw?oc=5",
+    "source": "Eco-Business",
+    "published": "2025-06-05T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:12.686131+00:00",
+    "country": "VN",
+    "topic": "Interconnector",
+    "query_label": "Vietnam interconnector"
+  },
+  {
+    "id": "32ae78d2a5c625b4",
+    "title": "Why energy stability is crucial for Cebu’s booming tourism sector - Inquirer.net",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRTJTREEwWlg0R3NFcXBNWi1KYmF2b1ZFVVQ0dU5WTjdEWDRvbEtPcXJDNEdPUlhieVZ2bzFaZ2ozN1ROTG5pWklKOXh6NjFXUGZ4VG5RakhQa0xsVGI3enJfYkhEYXo3LXBDNUR5WTM4VHBkckl3UF9PNTZEXzI4S0w4OW9ncDVmdDhDakprNkc3Q0N1QTZUM01hd0FHX29nRmE00gGoAUFVX3lxTE50S0lxX3hxd0ZmYlZ3RkkzVWpzZG9qclhwRE5CMExQdGVoZWNZYVNpMGMxS0N0MlB0b0pDVzl5TjhpNkVCc3BTdkRjY21TNDQwWEVYX09wN0d4OF9sVWRtc1ZFNjVnWS1xMkRVRnREUHd2ZjRMdThPRlhsOGdaMm0ta3VmNkNNZXVfN0xDT05QZjVGc1h5QTI4TkY1cGhWX2FRdDNLa0dmNA?oc=5",
+    "source": "Inquirer.net",
+    "published": "2025-06-05T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:31.227455+00:00",
+    "country": "PH",
+    "topic": "Interconnector",
+    "query_label": "Philippines grid interconnection"
   },
   {
     "id": "d1cc6a7c533709ad",
@@ -8809,6 +8930,17 @@
     "country": "KH",
     "topic": "Grid State",
     "query_label": "Cambodia grid"
+  },
+  {
+    "id": "1707adc462a83d46",
+    "title": "Vietnam’s National Power Development Plan For LNG Power Plants - Lexology",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkZwVVNkcmZCSHgwR3gzSHc4eGdIZFQ3OThhVlJTZUpzRFB2U3ZXN2FKTS1vVlVzQXpvV3JkZVlRVUFHa1hmSUlvckV2Y05JSXlIb3Q0SnZERUVuRXV2eGF6cFN0cHRFRzQ1QUJtcnhTOHdzVzcteEd6dGdEVUlyMlFUend1aEVmRjhr?oc=5",
+    "source": "Lexology",
+    "published": "2025-05-08T07:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:14.234700+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam PDP8 power plan"
   },
   {
     "id": "c8aff3094d29441b",
@@ -9249,6 +9381,17 @@
     "country": "MY",
     "topic": "Interconnector",
     "query_label": "Malaysia-Singapore interconnector"
+  },
+  {
+    "id": "653dce323cdf531a",
+    "title": "PLN showcases renewable energy vision at Japan RE Invest 2024 - The Jakarta Post",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUtaNmt1azU3RWNzNVJ3ZVQwSVVlVmxnb01xdkU3REt1UHRubDh1OFczZEJ6ZUFfRThRdXBXd3lpZEhxZFRCck8wZG9IRi1HVDNSQ3gweWJwdl9DZ2swRGZXYnlKN0R0eGM5bTl1aHR5ajR3LUhMZFgwRG1WRnNpZDhnQXNLZEtrYnNmOW9NNEVZSFJtUkk2QUt3N1RjRU5WRzJ0TU9rSkVhVDN0a3FYcVpUTQ?oc=5",
+    "source": "The Jakarta Post",
+    "published": "2024-12-12T08:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:42.352481+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia RUPTL power plan"
   },
   {
     "id": "238b868e0dff442b",
@@ -9832,6 +9975,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippine Energy Plan"
+  },
+  {
+    "id": "d9dff123997d5f81",
+    "title": "Transition Roadmap: Malaysia’s efforts to modernise its power sector - Renewable Watch Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHM0djFRU3gwbFROWWZydEJVM3FpMnhMV2w2MWY4bVpkekU1elBnTFhjZXlJWDl3Z2lQcV9GYzF4WGtzYWtEREN2ejNjMG1CUjV4ZmFCVzZKaF9NMTN3UjZRRTU5bUtfZTNDYWwyVGMzcXY3eHNmRlRyS2d3R3lIOF9UZzZ5ZkU2UGdJRVVFeWZVamFuMGJhSHUyVnJTNVR3eWNUWTBRcw?oc=5",
+    "source": "Renewable Watch Magazine",
+    "published": "2024-03-05T08:00:00+00:00",
+    "fetched_at": "2026-07-06T06:59:27.104219+00:00",
+    "country": "MY",
+    "topic": "Grid State",
+    "query_label": "Malaysia grid state of network"
   },
   {
     "id": "621ec1d6c022ee97",

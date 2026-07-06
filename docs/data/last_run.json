@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-06T00:14:52.944258+00:00",
-  "new_articles": 30,
-  "total_articles": 1006,
+  "last_run": "2026-07-06T07:00:15.230069+00:00",
+  "new_articles": 14,
+  "total_articles": 1020,
   "queries": [
     {
       "query": "Vietnam HVDC",
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     {
       "query": "Malaysia HVDC",
