@@ -6,16 +6,14 @@
 <title>ASEAN Grid Watch — HVDC · Offshore Wind · Interconnectors</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<div class="scanline" aria-hidden="true"></div>
-
 <header class="topbar">
   <div class="brand">
-    <svg class="brand-mark" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
+    <svg class="brand-mark" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
       <circle cx="6" cy="16" r="3" fill="currentColor"/>
       <circle cx="26" cy="7" r="3" fill="currentColor"/>
       <circle cx="26" cy="25" r="3" fill="currentColor"/>
@@ -23,7 +21,7 @@
     </svg>
     <div>
       <h1>ASEAN Grid Watch</h1>
-      <p class="tagline">HVDC · Offshore Wind · Cross-border Interconnectors</p>
+      <p class="tagline">Market intelligence — HVDC, offshore wind &amp; cross-border interconnectors</p>
     </div>
   </div>
   <div class="status" id="statusBox">
@@ -36,7 +34,12 @@
   <div class="grid-strip-inner" id="gridStrip"></div>
 </section>
 
-<main class="layout">
+<nav class="view-tabs" aria-label="Site sections">
+  <button class="view-tab active" data-view="feed">Live feed</button>
+  <button class="view-tab" data-view="profiles">Country profiles</button>
+</nav>
+
+<main class="layout" id="feedView">
   <aside class="filters" aria-label="Filters">
     <div class="filter-block">
       <label for="searchInput" class="filter-label">Search</label>
@@ -83,8 +86,17 @@
   </section>
 </main>
 
+<main class="profiles-layout" id="profilesView" hidden>
+  <aside class="filters" aria-label="Country selector">
+    <span class="filter-label">Jump to</span>
+    <div class="chip-row profile-nav" id="profileNav"></div>
+  </aside>
+
+  <section class="profiles-content" id="profilesContent"></section>
+</main>
+
 <footer class="site-footer">
-  <p>Auto-refreshed daily via GitHub Actions from Google News RSS. Source list and keywords: <code>sources.yaml</code>.</p>
+  <p>Live feed auto-refreshed daily via GitHub Actions from Google News RSS (<code>sources.yaml</code>). Country profiles are curated reference data, manually verified — see each entry's source link.</p>
 </footer>
 
 <script src="app.js"></script>
