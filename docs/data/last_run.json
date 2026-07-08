@@ -1,242 +1,242 @@
 {
-  "last_run": "2026-07-07T12:40:17.062879+00:00",
-  "new_articles": 0,
-  "total_articles": 1098,
+  "last_run": "2026-07-08T00:05:54.768212+00:00",
+  "new_articles": 24,
+  "total_articles": 1122,
   "queries": [
     {
       "query": "Vietnam HVDC",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 8
     },
     {
       "query": "Vietnam offshore wind",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Vietnam interconnector",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Vietnam PDP8 power plan",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Vietnam energy policy decision",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Vietnam electricity price reform",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Vietnam grid state of network",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 17
     },
     {
       "query": "Malaysia HVDC",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 3
     },
     {
       "query": "Malaysia offshore wind",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Malaysia-Singapore interconnector",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Malaysia NETR roadmap",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Malaysia Energy Commission decision",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Malaysia grid state of network",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippines HVDC",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 0
     },
     {
       "query": "Philippines offshore wind",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippines grid interconnection",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippine Energy Plan",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippines energy policy decision",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippines Green Energy Auction",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Philippines grid state of network",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia HVDC",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 3
     },
     {
       "query": "Indonesia offshore wind",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia interconnection",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia RUPTL power plan",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia energy ministry decision",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia JETP",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Indonesia grid state of network",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Thailand grid",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 1
     },
     {
       "query": "Thailand cross-border power trade",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Thailand Power Development Plan",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Thailand energy policy decision",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 17
     },
     {
       "query": "Singapore power import",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Singapore energy policy",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Laos hydropower export",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 9
     },
     {
       "query": "Cambodia grid",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Myanmar energy",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Brunei energy transition",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "ASEAN Power Grid",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "ASEAN offshore wind",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "ASEAN Centre for Energy report",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "ASEAN energy ministers meeting",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Asia Clean Energy Forum",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "ADB Southeast Asia energy",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "JETP Southeast Asia",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "Mekong power trade",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 20
     },
     {
       "query": "VTMS power corridor",
-      "status": "empty_or_bad",
-      "detail": "<unknown>:2:252: not well-formed (invalid token)"
+      "status": "ok",
+      "count": 1
     }
   ]
 }
