@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-07-16T00:05:21.481419+00:00",
-  "new_articles": 18,
-  "total_articles": 1296,
+  "last_run": "2026-07-17T00:05:01.121481+00:00",
+  "new_articles": 29,
+  "total_articles": 1325,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Vietnam offshore wind",
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     {
       "query": "Malaysia HVDC",
@@ -156,12 +156,12 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     {
       "query": "Singapore power import",
