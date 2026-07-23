@@ -1,5 +1,16 @@
 [
   {
+    "id": "85415ef6b2ba9423",
+    "title": "Mekong-Japan Foreign Ministers’ Meeting - mofa.go.jp",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82bzJIMVdpSEMtTURyX3V5Y01nYml6MVRxNzhyWV9NZG0wa19Db1JOYUVhT0pZOXU4OUJfLVZoYklaajVESnFBYXRUVVAtU0ttZTBTWlhyc09jYlpxNm1iVWJjRTRnb0Q5VXc?oc=5",
+    "source": "mofa.go.jp",
+    "published": "2026-07-22T14:07:40+00:00",
+    "fetched_at": "2026-07-23T00:08:45.443180+00:00",
+    "country": "ASEAN",
+    "topic": "Interconnector",
+    "query_label": "Mekong power trade"
+  },
+  {
     "id": "9e43efe5a59b702f",
     "title": "NGCP builds Cebu transmission projects as Visayas solar capacity grows - Philippine Information Agency",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjdzUW9kZnRNOE0yZzZSb2NrYTJpcVRhRDdOLVB2YmR3SVdxa2cxRzVFNUJNd19iajZLVmhVSm9mOEhaVlN3THlZa0RCdUpuMWNnN0pFVUpHdzRDZHEzSTQ4cnZnUEg3akotRXVTU2poNVlKWGxUMUV2aHZ1MnBLMFpVbUF5cDhBUkNZNVplQ2hvMU5lWFBPVG13WQ?oc=5",
@@ -9,6 +20,17 @@
     "country": "PH",
     "topic": "Grid State",
     "query_label": "Philippines grid state of network"
+  },
+  {
+    "id": "a8faf6465cdcd6d1",
+    "title": "Holiday surprises threaten productivity, says MCCC - The Malaysian Reserve",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXE4aEE3R2RPam9zN29mSURVbEtFOHR3ZmJNY2hxWEtWR3B5R3ZRUHIxOUt2NkMxRDR1MHR5NWZ6ZjdncWd6ajRhSlZvQ0xnenpObVJCVWNlUzduSGRCTVJfalpseDR3STltc1g5T29xUEZMWVRkS19BakFvdVBvNndCNGpfN19uRzJ4dFUwajdNNWs3eVU1NA?oc=5",
+    "source": "The Malaysian Reserve",
+    "published": "2026-07-21T01:32:44+00:00",
+    "fetched_at": "2026-07-23T00:07:56.284341+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
   },
   {
     "id": "f50e6abb61a3724a",
@@ -405,6 +427,17 @@
     "country": "PH",
     "topic": "Offshore Wind",
     "query_label": "Philippines offshore wind"
+  },
+  {
+    "id": "ee4f4540496015a7",
+    "title": "To protect global prices, Indonesia limits national nickel production quota - IDNFinancials.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlc2THFfaWlrTFdNcC1CS0RkWDBVb09uSkROSDV6WGdIYXFpeDdyZkRoZUZQVWRXSFZwbFJfWXpvdUotRVEzbnlxLUJrdGh5Tmg3Vzg4UERTY3ZDcDBwdzRHYno2bk5QbG4xSlFhMlp5QU9BTFRjMUVqc216Vi1Pam9SdFRfa2FNWHl0cHFLRXRiWXRzVWFQUmdnQmhqQ2JkcURRSlRGcHJRZUpLV3l0QURzTGlpQQ?oc=5",
+    "source": "IDNFinancials.com",
+    "published": "2026-07-12T07:00:00+00:00",
+    "fetched_at": "2026-07-23T00:08:16.035279+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
   },
   {
     "id": "91d01e99d58163c9",
@@ -2330,6 +2363,17 @@
     "country": "ASEAN",
     "topic": "Interconnector",
     "query_label": "ASEAN Power Grid"
+  },
+  {
+    "id": "aad9a89a232b6798",
+    "title": "ERC to allow other firms to build power transmission infra - ABS-CBN",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVhrbW5FOGJZTmtVaC02Tjl3WnhvX0d2TnI2QjBTajBhaUo1VllIbXl3VVM4cFQ3U2ZPRHBWNVp2UmVYOWYweVpSNUowVHRoc2JGcnl4MUpGLTM5U0lNdlQtZUprRlBoSDR2NzdEVTB0Y2h3U2d0ZUhlbmVuRkNEaWtNdkV0U2hjNkRrVkpNVTJ2WFNoemlsUlNCeHYzbDhQcW9BLXd2LW5LdGU3TGtMUw?oc=5",
+    "source": "ABS-CBN",
+    "published": "2026-06-19T07:00:00+00:00",
+    "fetched_at": "2026-07-23T00:08:09.239178+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
   },
   {
     "id": "fe0228d4525562a4",
@@ -8624,6 +8668,17 @@
     "query_label": "Indonesia energy ministry decision"
   },
   {
+    "id": "f1d05e4f5e395abd",
+    "title": "Gas pipeline leak slashes Indonesia’s oil production - Upstream Online",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUw0SjhvTjlHYjU4TGZpZWpsdjJHMWc1ckg2M3dpTmxObDlOSWdtczk1WUgwRllQcEs1NnI0SVlxbXFnVjZoR1RpX2g2d3oyQWhMdzhGQlhTUllhdWNoZkV0aDFDalo1TXkydlEzZDhDa0lpRERaN3VyUHJLbFQ2V2UzVXBnclhxSXozV1RoVk5ISkd0ckZ1cGlxdE1yQ2RWckhWd1Z6Y1FXZw?oc=5",
+    "source": "Upstream Online",
+    "published": "2026-01-06T08:00:00+00:00",
+    "fetched_at": "2026-07-23T00:08:11.964790+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
+  },
+  {
     "id": "39b6c970d632ace6",
     "title": "Grid links open fresh energy path for Singapore - Asian Power",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGFDc0xBX3FGcmpiMzU5eVRZV01pcUpiaGNzQi04MmRnRUFXeU1pTlowdlBXaTlTTVJjYVRtMDliWXZsSnFVWkdrazg5Yk5CT09vQmtfU3preXZOLURoc2pjZkhfOUc2TDdZZVVFMEpMMndObktFMzFtSm9jWW9NU2pPSQ?oc=5",
@@ -10239,6 +10294,17 @@
     "country": "MM",
     "topic": "Grid State",
     "query_label": "Myanmar energy"
+  },
+  {
+    "id": "8c83125bf04fdf2c",
+    "title": "TNB, SP Group and SGEI to study second Malaysia–Singapore power interconnection - The Star",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkhlSUw5UXZMa09mbWtHaHNZUVV2cnRPNWFHWFlPUVQ0Y25iZE1TS2hUbXBlOEtKcnV4OTRwZWhCclRXdEM1V1NfU2dPUEhkeHRYRzhkMHpDc2czWWNKUE5fTlJ5T0RDTE8yOWEyYWdjV0N2WVlsYWdYeVVJYlo1X3dGLWIzWnp2VFZqRUxmWEtDQ3ZRWXJOelZpWjVqWkF6bUlBX3NQX2c3WVdFMEEzVFpLNU81SDI5MEZEUFVPMlFnMkJqQjMyb29xRVlzaUVZamt6clNB?oc=5",
+    "source": "The Star",
+    "published": "2025-10-17T07:00:00+00:00",
+    "fetched_at": "2026-07-23T00:07:51.970132+00:00",
+    "country": "MY",
+    "topic": "HVDC",
+    "query_label": "Malaysia HVDC"
   },
   {
     "id": "f0ab13dd10cdab41",
@@ -11988,6 +12054,17 @@
     "country": "ASEAN",
     "topic": "Policy",
     "query_label": "ASEAN Centre for Energy report"
+  },
+  {
+    "id": "a377a37d8a4476c0",
+    "title": "2025/43 “Data Centres, Energy Demand and Sustainability: Can Malaysia Strike the Right Balance?” by Sara Loo - ISEAS – Yusof Ishak Institute",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOGdoWW4xNXF5TnJ2cTJDN3R0T3ZzdXNTdTFFZ2R3c1RSTXZkbDlDRmFCWlhjYlhnUU16RUtjbXgwc1R5bTc1Wk5XNi13RXlLOWRrWEVkZ0hnTGFrQ01xWEg3QW5UTWhBVGYyQ0pUOVRwUUloR1BqVXZITVpIS0NTQ01aNzFLdlpRZGpvSjZXcXAxeDg4dUJIaEdrNzlWam1uNDhQY1hKdHJfaGt1czN6RDY1bTZ3LXNhZ2hodVd2bzZZd2kxb3pWLWdTRVN1YTRBb0NBV2lZM1BLQ1NOMjcwZm94RUo1TjBDdFR0aEsycXlFcW5sU2xQVGQ1d0JpUQ?oc=5",
+    "source": "ISEAS – Yusof Ishak Institute",
+    "published": "2025-06-12T07:00:00+00:00",
+    "fetched_at": "2026-07-23T00:07:59.132817+00:00",
+    "country": "MY",
+    "topic": "Grid State",
+    "query_label": "Malaysia grid state of network"
   },
   {
     "id": "04f105ba7661426e",
