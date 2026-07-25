@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-07-24T00:06:41.060610+00:00",
-  "new_articles": 17,
-  "total_articles": 1425,
+  "last_run": "2026-07-25T00:11:33.942541+00:00",
+  "new_articles": 23,
+  "total_articles": 1448,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 9
+      "count": 3
     },
     {
       "query": "Vietnam offshore wind",
@@ -156,7 +156,7 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
