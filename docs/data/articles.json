@@ -1,5 +1,49 @@
 [
   {
+    "id": "ea1c54c778eb3b7d",
+    "title": "Indonesia's Ministry of Energy and Mineral Resources (ESDM) clarified - Shanghai Metals Market",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTMzNFlBS21ZeEVhZktyXzgyUi1GaHZXekRmYTUwaGFrWHloQmRiZmJyWVVjbndVUVQzZnRSNXNUUXgwdnl3cHZablI3QWdPelk5RFhzZURUaE45VjcxMkVCSEVGRHpQSW9ZRkNDVzlkU1JxeC1WNmJLUDA1enJRRjh3UlFZNmtYeFNsdjZnNTB1WE1TaFJWZXJOdm1fcUZEbmVyZFpsWnlaLUZ1RmtNczlJdDA4N1ZBSVRONmpkLTBzZ25vWmRZZUs0Qy1pbnQ0U196X0prUXBXeE1GaVExb0J2ODNQaHcxWFlSTVR3VXZxUzJuNHc?oc=5",
+    "source": "Shanghai Metals Market",
+    "published": "2026-07-27T07:36:10+00:00",
+    "fetched_at": "2026-07-28T00:07:40.801262+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
+  },
+  {
+    "id": "f084a398966ff50b",
+    "title": "Malaysia Commits To Regional Nuclear Security Through International Collaboration - BusinessToday Malaysia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR3RyRVB4WUNDb1VmWUVNemtDWVloQVJvVXNOWDBzLU94TzdWNExCcUgxOUF2Z3k3WjdKbGJJZnhlYXlJTGktcWpJMnprY1JKMTQ4Rkt1UmdfVFNVejhWR1doVWI3cThRX1JjSWpzMndUekNQV0VFcno5dVhZRV9ITThUSGc1OFBUTWQyZjV3MmxMQ2NjYVluTXdQdnJUdG1kMVpsYXlvUWs3WTRRTXNtUFZ4UHk4TVhDVHZiaWZVbUo0bGRz?oc=5",
+    "source": "BusinessToday Malaysia",
+    "published": "2026-07-27T05:17:13+00:00",
+    "fetched_at": "2026-07-28T00:07:31.218912+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "59d9486c918c7bef",
+    "title": "An evolving and critical industry - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUxPMkdDWnZRYmM0bXBwSWtSWm0xV3JBMGhuNnNRR1VnTFhYaUx4bUJkWTIxTVBZYnlwb2pMMnVaNkhSOFhXWjRISHkya2g2dy03a2t0c0dyVWlGUHhwNnlCMF90cU85OVUteUJSTGlodnhLay01N1JNTjJ1a0N0M3RYUC1wQnAzdUs0?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-07-27T00:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:21.325826+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "c6f252cc38a65f65",
+    "title": "Promoting sustainable resource use in the Global South - The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXBrZ2VCdTg1dlFDV0tUVDlkdm9aWUxES19SM0k3QUpoekEtenJWcl8tVEJPbTlUdTZMUmp1NV9VREFQb3o5X3RhNTAwWERrSHh5RjdocWV6RnhHTmVKSXBxOE0zZ2RQeVpWalFnZVB4RXFaSVZ1NUJsME9FMVZwVXNuRk1ScUtha3Qwbk83Vi1ZLW9sX29IVDFsd3Rjc19DNEI0dGVRM3puRExEYUpuQW9iMTVqcWhoajVCQXUxWmNfRUxnTEHSAcsBQVVfeXFMUFVFcjFMcUdOT3RtaUUzYXFKaEpJVXRvbXdhOHphQ2RUd0ZFa29OblFmWTFNTkNpTlZXRFdaX3hBSG9oNGJVd0tVU0Y4QkNHYWgtWnB0ZHFRTjkxUElON0dIV2hmeGhWdzU5ckpORXlJMXBNOTBrcTljZ2JuTmlrVkdQbWJGZ1E1WE8xSzJ1TDRuUkNndEZkYldWbEVjenk3ekhNN0VKdkhLY285MzluVy1SbWhSbG1ZQWFwaUxuMUZSZElOVDRjd2dmU0U?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-07-24T18:35:55+00:00",
+    "fetched_at": "2026-07-28T00:08:05.121315+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "Asia Clean Energy Forum"
+  },
+  {
     "id": "79ab4ce6785bd56d",
     "title": "Balancing Renewable Energy Transition With System Reliability - Sarawak Tribune",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnNqMFg0TnVyMVNaQlowbV9BM2FIRC1IZ3ZUeHNydlg5dkhuMnN0RWpfOWk4VHhBUFRVR2tMUm1VeXFvVGtKQ1FKQVlyNzFGTVNQZHljQUJldmdxQWtYZ2JRa3k1aHZacmNRdUtSczBJRlphM0FTXzFINkVrMEozZ2JKendhXzNZVGVTd0p2RlBPamtKOEkwLQ?oc=5",
@@ -97,6 +141,17 @@
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "88974729be4c7d7e",
+    "title": "Japan Certifies World’s First Earthquake-Resistant 15 MW Offshore Wind Farm - Tech Times",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmxWck5SSG1uM1J6T1lMWkhZU01DYjVUaUNIaVU0NUZ2UmtSNjVEOThNSTd4VzVKR2V5ZjFCN19oMVlXRXpkaHVJT1JGUDZWUk84Snk1aEhITi1YdkFSTUNVVzNnZFNLTDV5NVhXTDZLaW5uX3lrLVNKMFNrcUhCdExGOS1LVFhmdEdEa1hSNGY5Sm50Y1lMeEVGN09DMnVXSTN4eFJvNnhBM3dPM1o2S0JZZmVWVWVYalVGbldoTXE5UmtNdHpESw?oc=5",
+    "source": "Tech Times",
+    "published": "2026-07-23T10:26:19+00:00",
+    "fetched_at": "2026-07-28T00:07:36.737923+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
   },
   {
     "id": "a0749525a88ce5ca",
@@ -1694,6 +1749,17 @@
     "query_label": "Indonesia grid state of network"
   },
   {
+    "id": "acf02751e30a27f7",
+    "title": "APAC Energy Pulse – June 2026 - orrick.com",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpZ3BjTzVjMGtqakJ5RFlrcFRldnZlamo2dHVzdzdMRHNHNG9fRG9IWVhCTk5QS253R2Y0UV9ZWHEwR0ZOWUpsREpoZG1hMnRSRzZjMzl1dlNGTDdjbV8zMlVOZVpsTVZMSE9ORENIZHM2azVpNjNSSm13?oc=5",
+    "source": "orrick.com",
+    "published": "2026-06-30T07:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:32.704475+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines Green Energy Auction"
+  },
+  {
     "id": "ed49b5ac20c2c5e4",
     "title": "Malakoff leads restructuring of Penjanabebas to secure Malaysia’s future energy landscape - The Malaysian Reserve",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmVUMThFLXFkSFhoRk92YWtUSzZZa2s2QkFvYWY2U3E5X0FGMm1UZmVjb3ppUDZiczF4U0RHY21TcTk1emFNT3loR1czb3JKZC1OYWs4OVBYYjgtWFM1YVM1dWQxdy1pdXdMMExobTctNmNjQkJwYU1PSkVWSENlQWUtZVZaSVVfaTJ0UElOb0I2eUVvaHpsMnVZSlVnN1pDYmJXRnJob3dsLXhNWURjaDFHVlU0WWxWRjJwZU85dHhlOFZIYXBXZkFSZ2Q?oc=5",
@@ -2308,6 +2374,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines Green Energy Auction"
+  },
+  {
+    "id": "231a6ca54588f428",
+    "title": "Week in Africa: South Africa Speeds Up RE Curtailment Claims; AfDB Approves US$100M for West Africa Renewables; Zambia Signs PPA for 500 MW Solar Project and More... - SolarQuarter",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcEdTSzBfcDA2OEhTN3lxWWJPS3U0cWVjcE5icC1PQmZPcXhRMmt2Yi1sckRBSmZKUXRsc3poNVRKNDhvZWJJSEdYRDBjaXFadkduc3BwdnJ5a2kyekI2MzVlaHRKVFdDRWdmaGJXVGhXY2pvTDdJRUk1V2F4eDJsaGwyal91RUNpMUMwc3pZMEV1UVBId2d5Zi1lOGlER0Flb1RDVlBqY0ZuTnJlTmVPMUowN2tRV20zWXFUYThta2pCMmNvczFseWpVS016ZjZGUkQzbWdyVUpwS3liaWREbTZ6UW5taU90MHZBd2NOWjBzNDUtNjZtMFB5RUJRWTFCMzNYMWp2b0dsY3EyUFdwSDd5Yk5yTF9DMkZLWHJSMXM?oc=5",
+    "source": "SolarQuarter",
+    "published": "2026-06-23T07:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:15.890286+00:00",
+    "country": "VN",
+    "topic": "Grid State",
+    "query_label": "Vietnam grid state of network"
   },
   {
     "id": "c532b79d8c660f2f",
@@ -2935,6 +3012,17 @@
     "country": "VN",
     "topic": "Policy",
     "query_label": "Vietnam electricity price reform"
+  },
+  {
+    "id": "518be53f32e28d3b",
+    "title": "Egypt secures €690 mln EU-EIB financing package to boost renewable energy integration - Economy - Business - Ahram Online",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkV0S3B1MkJtb3lIbXlWbmVMNklhcTUxMm9DcUdCbVdTczRfeTFUQ1AzV1paaXNkR1hCb1FLbVNIUTk4MVlVQnlMZnNvZVdWcTdKdTJxYTZrLVYyOVk5MnBLd2tnUV9EY3lqOVd4Q25ya2ktdHFreG5ZSEdyMmFVcjBaQTB2dVAyajdSbVFYZ3RBNkZDMklNZEpYY0JuRDVjTHc1UXN6N2lLZGpSZWFJY2cwTWFkTFNIWDM1NmlYbzJ1c1Z5RGVxaTRxdlRidw?oc=5",
+    "source": "Ahram Online",
+    "published": "2026-06-15T07:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:15.890472+00:00",
+    "country": "VN",
+    "topic": "Grid State",
+    "query_label": "Vietnam grid state of network"
   },
   {
     "id": "6add52f6d4fd916a",
@@ -4211,6 +4299,17 @@
     "country": "MY",
     "topic": "Offshore Wind",
     "query_label": "Malaysia offshore wind"
+  },
+  {
+    "id": "4ca4d26cf6e0b531",
+    "title": "Grid Restored: Indonesia’s PLN Resolves Sumatra Blackout as 13-Million Customer Crisis Sparks Modernization Backlash - InvestorTrust",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1VjRlFNRlVtTU1Qdk12bzFFTG1GWG9hX2MxcTNRMk15LTRsTG0yWlg1Wkk1RHdVNkc1WnZrcUNMelhPTF9xeUFtRl8ycFo3aUhoSWJBN290N0p4V0FRbmNibElTZmExYl96dFA1TmpnTzFoc0M2SEJkOWNSQzZwZnpycnU3NVY0RGFaT0I2S3dEa3A4ZDFoazZDN3V5cGx1TnBLVEd4OVBqMjNSSHNOeElDTDRIV3ctUlZHelM4WUNBVUlkaFp5ZmczbTJVNkU2a0hsS1hKbmtjNl9OSGFENDlFcUl4UHJV?oc=5",
+    "source": "InvestorTrust",
+    "published": "2026-05-24T07:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:38.117033+00:00",
+    "country": "ID",
+    "topic": "Interconnector",
+    "query_label": "Indonesia interconnection"
   },
   {
     "id": "3aef5eb1f51a5f25",
@@ -12406,6 +12505,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippine Energy Plan"
+  },
+  {
+    "id": "3d0c65ad2cc3668a",
+    "title": "TNB earmarks RM43bil to upgrade national grid with AI, battery storage systems – PM Anwar - NST Online",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXNaay1VQllkelVuU2g2NWtpekNQQUR1eGxHN1dtRkthOXVyOFhRVDcyeEpJQnBiT1lUOHRwX3FtdzdUUXVHbzZrbTNrSXpHeWpKcktESjFVb0RPMHJnMkx5WWlQdmhHVmJDRE1nZVFST010M3RsU0luMFJhY2F0ZGVHZU9vZDJOb3FLUWh1cVUtLTJBcDE1enBRQTFHalhQWmFpVUpVVXYxOFJwdU9DeTlSOVR2T3F2SDVV0gHAAUFVX3lxTFBUQXEzcHpEVlVfaWd0X0dSQS1KMTNEVVlCcmZwQVhHajByMDY5aUY1M0VDcU00bEh0MWxSQ0djV19LdzYtWjlEMzIzMGk3T2tvMy1Jc3p1MjBCTTBPLUd4WHdqSVNXSTM3T09rcGU3YUgxY2NFMjBoQnpzQXdDR1pNYnNIb2xBd1luMmhyaVQ5a0gzWlpMRDZDM2kxOExLVjEyMzBFVDBiamJjVEdLakJJM0Nwanl2RVhsMWFpY25VOA?oc=5",
+    "source": "NST Online",
+    "published": "2025-06-16T07:00:00+00:00",
+    "fetched_at": "2026-07-28T00:07:24.157667+00:00",
+    "country": "MY",
+    "topic": "Grid State",
+    "query_label": "Malaysia grid state of network"
   },
   {
     "id": "fe6c3ff489965adb",
