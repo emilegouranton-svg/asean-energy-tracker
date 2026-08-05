@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-08-04T00:13:48.169430+00:00",
-  "new_articles": 46,
+  "last_run": "2026-08-05T00:11:33.656163+00:00",
+  "new_articles": 52,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Vietnam offshore wind",
@@ -161,7 +161,7 @@
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     {
       "query": "Singapore power import",
