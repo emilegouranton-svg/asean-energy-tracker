@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-08T23:36:21.040097+00:00",
-  "new_articles": 62,
+  "last_run": "2026-08-09T23:38:52.072677+00:00",
+  "new_articles": 70,
   "total_articles": 1500,
   "queries": [
     {
@@ -161,7 +161,7 @@
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     {
       "query": "Singapore power import",
