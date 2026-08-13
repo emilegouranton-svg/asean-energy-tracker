@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-12T23:51:16.208535+00:00",
-  "new_articles": 100,
+  "last_run": "2026-08-13T23:51:02.174371+00:00",
+  "new_articles": 101,
   "total_articles": 1500,
   "queries": [
     {
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     {
       "query": "Malaysia HVDC",
@@ -156,7 +156,7 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     {
       "query": "Thailand grid state of network",
