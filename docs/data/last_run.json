@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-13T23:51:02.174371+00:00",
-  "new_articles": 101,
+  "last_run": "2026-08-14T23:28:45.365925+00:00",
+  "new_articles": 108,
   "total_articles": 1500,
   "queries": [
     {
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     {
       "query": "Malaysia HVDC",
@@ -156,7 +156,7 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     {
       "query": "Cambodia grid",
