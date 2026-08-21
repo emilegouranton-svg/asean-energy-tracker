@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-08-20T23:32:51.921145+00:00",
-  "new_articles": 150,
+  "last_run": "2026-08-21T23:31:07.816661+00:00",
+  "new_articles": 154,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     {
       "query": "Vietnam offshore wind",
@@ -141,7 +141,7 @@
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 0
+      "count": 2
     },
     {
       "query": "Thailand cross-border power trade",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 12
+      "count": 11
     },
     {
       "query": "Cambodia grid",
@@ -221,7 +221,7 @@
     {
       "query": "ADB Southeast Asia energy",
       "status": "ok",
-      "count": 20
+      "count": 0
     },
     {
       "query": "JETP Southeast Asia",
