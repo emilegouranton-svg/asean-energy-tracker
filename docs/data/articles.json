@@ -1,5 +1,16 @@
 [
   {
+    "id": "1f604651559c07d8",
+    "title": "Mactan Island to get backup power link - SunStar Publishing Inc.",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGxYNXlva3NpWmpLbEN4bzNzVlE3dkdHWGlsQTZiR2ZSZlE5ZGV4TzRLMUk0c1ZyR3RuejNOVWpza1lZMm5qMzB2VWptNWdYeWtvbDcxc1BFX1VRaVJkUXdTcWJINENxYXdkLVJDOUF4b3IyTmk2UTA2Rzduc0VabkVHWGJINVHSAYcBQVVfeXFMTVhsWDV5b2tzaVpqS2xDeG8zc1ZRN3ZHR1hpbEE2YkdmUmZROWRleE80SzFJNHNWckd0bnozTlVqc2tZWTJuajMwdlVqbTVnWHlrb2w3MXNQRV9VUWlSZFF3U3FiSDRDcWF3ZC1SQzlBeG9yMk5pNlEwNkc3bnNFWm5FR1hiSDVR?oc=5",
+    "source": "SunStar Publishing Inc.",
+    "published": "2026-08-22T00:21:51+00:00",
+    "fetched_at": "2026-08-22T23:27:40.384187+00:00",
+    "country": "PH",
+    "topic": "Interconnector",
+    "query_label": "Philippines grid interconnection"
+  },
+  {
     "id": "040892ae3e5dbfc4",
     "title": "Lapu-Lapu power lines in Mandaue: Displaced Tabok residents to get cash - Cebu Daily News",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZ1SEY2SzZ4VlpqcW1XREZucE1ibC1CY0dhS1pxb1N6eTBHcEdYRWhFQWtPcDdoWnBMTzlyaDliZkpCZ19TTlRZemlkU3NUSTBVQWRrVUt3ZmFxQVhKWU1peVlFU3hmUFBnVUtjcFVBSGlPS1d5ajBxWXBQbHF2ekpVQkVscGVmM3RiczZUWVhrdDFuUjFhQVBGeUF0TjczdnBhMEtJdWQxZXRyeFZNU25R0gG3AUFVX3lxTFAtMDhmNHFHNHNxRm50S1hLVlJZdjdNM3ZScVZBaTlTdUE0U0ZGZHlwdnhYM21mRnVyMGJBc1NNNFZmQnlIMFZUQlBKb3Y5OGxKdDhPZVRQc2ZSVUZmZm1XSkJtcHNjeFVUZk41YjhaVk1OWUM4eW40TDBMdW5LZkFGSWd2OEJPaTlMM2xkTGZ2SlRaUG1uRkdCZF9SdHdYRlMtbE9CN2dmVV9kdVJadkVVTFdxYVhtaw?oc=5",
@@ -83,6 +94,17 @@
     "source": "The Globe and Mail",
     "published": "2026-08-20T12:34:55+00:00",
     "fetched_at": "2026-08-20T23:31:52.757963+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "976a4a002d212556",
+    "title": "Founder Group Secures US$1.5 million EPCC Subcontract under Malaysia's Corporate Green Power Programme for 29.99MWac Large-Scale Solar Facility in Kedah - The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVDRPR05Sc2phcmUtWjd2NDNMNzYtd0xkeE91em5LZUlDM19rSVpNOEtZbkE3UzMxakRoUTFUZ25ObHR2aTlSUERIV3R1OE1fNmZPbXFfNndkZXJmWjg3UElmOF9Hem9yc2Q5ZTc0cTVYRDFBcFhSRHhBMWxrQXRfSlJWZTl1dnlsNWFzdnIyVmpOWnd4WVVxSFRrM3dhd1VfWkpMWmJWRzV6X2VhQzdTaFU3X2VGcFNDczdyYkczdzZvazJXWlV2SnNTUEVNUGdiSU0wRnNKWGpfaHFYaWFrY29FbDdWeHdSbmE5Ym90QV9GWHVRRW1FajBkSmhBZ2dhdXU2ZFBLRk5LNjBCaWM1Y2tKeDhzNnAyRFdod1BOYVpndEdDcGdXaFVkYlFGbF96ZTlTUDd1OVpaNWppdTNYRkJ0YkY3VTd6aE5aRXVMUndCM3lZTXZZRg?oc=5",
+    "source": "The Globe and Mail",
+    "published": "2026-08-20T12:30:00+00:00",
+    "fetched_at": "2026-08-22T23:27:33.282617+00:00",
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia NETR roadmap"
@@ -273,6 +295,17 @@
     "country": "VN",
     "topic": "Policy",
     "query_label": "Vietnam electricity price reform"
+  },
+  {
+    "id": "54fd4a0df9f522be",
+    "title": "Linde Malaysia, Monash University Malaysia And Mida Champion Industrial Decarbonisation Through Landmark Tripartite Conference - Macau Business",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNW95cms0OUFiRkF4OVNzTU5ObTVaSTQ0OV8tVU9GRWlKMFZsT3dMVEw5clFGMkdLUTdIbXZlU1hvNEdNcHNLd1V2UnhfamptTkRaSEprdURwbjJmNHU3Z19ZaGlvN3hTZ05oaU1ic3RnbklfZGgzTHI5NkJxRHBNNlZZR2ZhTjA1TzVpUkY1d1dtd1JBRzNCamxweWJWclhlUm43Y20wZXBKTGoxeWZLby03Rm00VkNsWExvWV9BZHpjMTlBY0NOSUlvenVyV1Z5OEkyUW12bW5WMDN0MVBJUDZ6UXduNVU?oc=5",
+    "source": "Macau Business",
+    "published": "2026-08-18T08:29:17+00:00",
+    "fetched_at": "2026-08-22T23:27:33.282945+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
   },
   {
     "id": "c00d13813f231c45",
@@ -4224,6 +4257,17 @@
     "query_label": "Malaysia Energy Commission decision"
   },
   {
+    "id": "2fd8ce5d068e1b6f",
+    "title": "ADB backs Cambodia’s first large-scale solar energy storage project - Phnom Penh Post",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmlSOGVZUUJmNUw1Wlh4SlI2dmU3bFZUM2Z0M2YxMzA2OExFRHNaa2hpcnFvTkFaRmlTTjZRSDJxUV85aHF0R2ZZN0hORHpybmY0RkUxMG0xd3ItYjJoWF91WmFpaHBNclNCT0ZlV3ZRWTYycnBzbHhNS3ZXN1ZHQXVsdV9SNHduenBTb25tYWQ1b3dfQXF3Q2pZd3hNTjJiOWtPcg?oc=5",
+    "source": "Phnom Penh Post",
+    "published": "2026-06-24T07:00:00+00:00",
+    "fetched_at": "2026-08-22T23:28:08.201975+00:00",
+    "country": "KH",
+    "topic": "Grid State",
+    "query_label": "Cambodia grid"
+  },
+  {
     "id": "539d93fd95bfb4d5",
     "title": "BKHM BESS Secures Key Agreements with TNB for 100MW/400MWh Utility-Scale Energy Storage Project in Malaysia - SolarQuarter",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWm01ckxLLWVCd2tlMDRpRExRcl9nYThDNnE4RVJhV0lEdGkwbkwzUW5yQVMteFNZWjA4TklGTmpMdnF3Z1FlNWJlNnF5WmRWaU1hTTI5Tl9aNXpsaERSMkV4b1pFNWJxODNNTjFEWlBuOWIwMzhmSVhxYkptaFNyazhjblFMbFpWeHR4M1FFN3JxTC1mZEFHZFlJeS1sOTFNMzIwYlBWZDlsMVhwcVd1RWIwUWh5cHMxNTNYcTM5UHktOXJOcXBKdWpzQzdmSHhaX2dqNnNzVk5XODFG?oc=5",
@@ -5916,6 +5960,17 @@
     "country": "MY",
     "topic": "Grid State",
     "query_label": "Malaysia grid state of network"
+  },
+  {
+    "id": "c6ff089a78ac5f2e",
+    "title": "Govt identifies 24,000 hectares in Java for 100 GW solar power plant - Petromindo",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2tNcEg2OG5ZSXcyaWR0UjM3NFFaM2lCZm9hcjBjaF9NQXpRYVBxajBSbDB3aVZIZS1LelB6R0Y0bC1sMEpCcGphQmZtcGtVYmhIQkZKMHdrYmQwRERlN0pwWWF2QlAzZGlBdGtna1dpYVlOZ0ZIZmF0eU5WY29UMmVMM2tiT195OHNZRURQWFNzc1VmZGFQYzF1akRSeXhzVkpWMUJDWnh5M25R?oc=5",
+    "source": "Petromindo",
+    "published": "2026-06-02T07:00:00+00:00",
+    "fetched_at": "2026-08-22T23:27:56.060933+00:00",
+    "country": "ID",
+    "topic": "Grid State",
+    "query_label": "Indonesia grid state of network"
   },
   {
     "id": "a090b44d5f2846eb",
@@ -11605,6 +11660,17 @@
     "query_label": "Indonesia offshore wind"
   },
   {
+    "id": "c4c001e965a65158",
+    "title": "Türkiye’s first offshore wind tenders expected by end 2026 - Hürriyet Daily News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUF4R2J3NlMxc2o3MEM1MDBLbEVCSjZUYUZ2ZEt5cXc4UXEwOGNpRldNaDZTbVVXaUhocW90Y0JoaWR5S1REZHpSUWdLdnZ5alJwSXE1ZlJFbF80N2xVVXNLQXQ2UElNOFVzc0FUVHJFdzd6U1EtZkpkUTN2X0Y4eWUyUk0wZFppbWUzTkh2QVJQM1JiWmh1T3RjaGZvM28?oc=5",
+    "source": "Hürriyet Daily News",
+    "published": "2026-01-19T08:00:00+00:00",
+    "fetched_at": "2026-08-22T23:27:49.013233+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
+  },
+  {
     "id": "a1fea915180b4a67",
     "title": "Deputy Minister Phan Thi Thang outlines the core role of industry and trade in economic growth and energy security. - moit.gov.vn",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNnBIbXhTRGZISFQzb0lWcmV0TGJwUHJSekFLcVpqcWNrV05adWRQb0xySWs2NUc4UmJLSThjdHZicjU0Z3Blc3pMR2ZRUm5kbTlGY216LUxvWUw5cFpleEs5V0ZpcEZQN1pHcW1PYnhZVDBzV21Sc295NjVIbjJ3V3FiR21yeWpWdnNmOXdDUGdVVDdhalc4OS1MY0JSZVFMSEcyS293a3paZV9WS240YnFIWkQ2N1N5TjJ6VUNkX0FGX3AwekUzZzdvMWMxVnJHcFlFZlVfdDZtakV4YTZGTW52MmlWYkZrNHo4SmI5TzJIdw?oc=5",
@@ -16432,71 +16498,5 @@
     "country": "VN",
     "topic": "Grid State",
     "query_label": "Vietnam grid state of network"
-  },
-  {
-    "id": "5bf98b2a27ad0184",
-    "title": "Environmental groups lose court challenge to Alaska LNG exports - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDNuelNZajNDWnFoTjRoN0N4WVA3R0M2VU52UDJFaXZpaFBMMUFzZnk1R2lwSkF4TmI1Z0tWTEpyVS1WREtvN2RRaklMTzBLVVVfTnZoM2NSeWY5QXNzREJWY1dqSTI2TUwzUmpXOTNlSlc1Wjlwczl1cE10WmFBVzdoNk9LdnBRTmh2LWdOc1Z6TldTendoQnpfVzFoUFpVQlFNQUczclFzTkpmZVlrNDFaOA?oc=5",
-    "source": "Reuters",
-    "published": "2025-04-15T07:00:00+00:00",
-    "fetched_at": "2026-08-10T23:41:33.629255+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines energy policy decision"
-  },
-  {
-    "id": "eed88ccbb351f780",
-    "title": "Trapped in debt: China’s role in Laos’ economic crisis - Lowy Institute",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU29jeUZ2R3pqUnl4bnhKeWpPR2RPQjJCSXItOUtnSjAwS0lZQWlLSnZ2NkZ6MHRtRHZMc0NqTm5BNjFJSml2alJDaUx2VkR0emFBdWhiM2hFRGtIRHlCdzI2bGdCU0xDMmFuc3QteFBua2ZsMy1rcURENkstZ0wwU3lxZ1JyTFlPU05GRjY3eUJqYzA?oc=5",
-    "source": "Lowy Institute",
-    "published": "2025-04-13T07:00:00+00:00",
-    "fetched_at": "2026-07-04T00:13:08.443241+00:00",
-    "country": "LA",
-    "topic": "Grid State",
-    "query_label": "Laos hydropower export"
-  },
-  {
-    "id": "ec7336de23ef29df",
-    "title": "Energy Investors Shift Focus to Smart Grid Technology - Energies Media",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX082clV4ZEhhbDQ3Q3FINWc0QmNhQ3psc2VBWnVZSVJLcklFRWxDRmRTMV9NOVZwbnpYTjJidXVxNU5ZSDJHNWFzS19CQWc0RWVqQnY4NXh2eDlnb2RTYjM2NjlqWWRqZVoxTENGSnRkS1RnbGRIemEyMENVRUJXS3FnbTRRZms?oc=5",
-    "source": "Energies Media",
-    "published": "2025-04-13T07:00:00+00:00",
-    "fetched_at": "2026-08-01T00:06:14.321434+00:00",
-    "country": "VN",
-    "topic": "Grid State",
-    "query_label": "Vietnam grid state of network"
-  },
-  {
-    "id": "eb2ac7d9e0d7ad0e",
-    "title": "Energy Department cuts university overhead rates to 15% on research grants - Science | AAAS",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXN4MFcwUjV2YXY3X3RpWWJSWFlLVWVJcGVjT2ZSY3FlWmR0eWJ6YWdzVW1fYWQtdzNhYWVpOUtBQ1BoeGFGa1ZCUlNoU1d2dW15TWdMNFVwZUt6eWpXaGdLaURxR3NUVjRWQU1SVjJ4dUxmTjVCalJfcHVQeGxnc0Y4X1loNFBXZGpTTldibURzaW8tdkluRTBsZ2ZGbnhQWWs0MmxhLTFBTVFoaDdkLWg2RQ?oc=5",
-    "source": "Science | AAAS",
-    "published": "2025-04-11T07:00:00+00:00",
-    "fetched_at": "2026-08-21T23:30:21.331907+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines energy policy decision"
-  },
-  {
-    "id": "00e2d9e28f03378d",
-    "title": "AI is set to drive surging electricity demand from data centres while offering the potential to transform how the energy sector works - IEA – International Energy Agency",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUHZtWE9pQ19obWEyLXZOVU0wZVYxcEJZbC1XQnp6dkhZemdjTDdXVTZKX0w0QTl3NzV3ZnA3ZWpJSWIwRnNCa0RlS2cxR1JoU1E0V082OHMyTkY2V2JucUZPS0VyeE02OHZnVlE3c3FMTWpSY1oxa3QtZlZRM2x5R0JjUHJmQ19uekgxZVJSMVIwZlIxWC1jcW1va2VYQjB5ZE1JaGFsUVJiQkJhQXV6TDRWRk0xQnJMVmJRaXhjUklNRU1TWlNESWM5amVpZ29hR3RkVjRzVTgyVE1MZmRlMHVWdklGcWZRNVNCdTJNMA?oc=5",
-    "source": "IEA – International Energy Agency",
-    "published": "2025-04-10T07:00:00+00:00",
-    "fetched_at": "2026-07-07T07:58:09.858470+00:00",
-    "country": "MY",
-    "topic": "Policy",
-    "query_label": "Malaysia Energy Commission decision"
-  },
-  {
-    "id": "1afb765a94677c40",
-    "title": "The US has backed out of the Just Energy Transition Partnerships. Southeast Asia should double down - Lowy Institute",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEhlQkF5eVF2aTcyRUFHdFJ4SW5yQ1VONVI2NEJyWEdqXzZrWkR1cjhFaG9IMjE2aVU3MXRQcDQ3aXVoVXBBcjktLU9MWkZPeHZGbmstWWFITklMX25vWXZyeG9xLWRUQTV1bDJRWUtkSWJZdkhJWG5lbWVrQXRNcTBPY042N0F0UDZOSk5vUWVGQlNxUTFHejVTa1ZEWVFrR0hjMUJqMkV3djRjeWxoc2J4Znk0aUhIbWJIdTBxQ0FWcGQtSGFz?oc=5",
-    "source": "Lowy Institute",
-    "published": "2025-04-10T07:00:00+00:00",
-    "fetched_at": "2026-07-08T00:05:51.051180+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "JETP Southeast Asia"
   }
 ]
