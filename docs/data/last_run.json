@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-08-23T23:28:35.838793+00:00",
-  "new_articles": 175,
+  "last_run": "2026-08-24T23:28:39.430046+00:00",
+  "new_articles": 170,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     {
       "query": "Vietnam offshore wind",
@@ -121,7 +121,7 @@
     {
       "query": "Indonesia RUPTL power plan",
       "status": "ok",
-      "count": 20
+      "count": 8
     },
     {
       "query": "Indonesia energy ministry decision",
