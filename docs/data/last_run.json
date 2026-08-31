@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-30T01:12:33.691860+00:00",
-  "new_articles": 203,
+  "last_run": "2026-08-31T01:19:55.142992+00:00",
+  "new_articles": 199,
   "total_articles": 1500,
   "queries": [
     {
@@ -16,7 +16,7 @@
     {
       "query": "Vietnam interconnector",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "query": "Vietnam PDP8 power plan",
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     {
       "query": "Malaysia HVDC",
@@ -156,7 +156,7 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 20
+      "count": 18
     },
     {
       "query": "Thailand grid state of network",
