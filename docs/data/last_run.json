@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-01T01:46:17.966381+00:00",
-  "new_articles": 200,
+  "last_run": "2026-09-02T00:58:09.073440+00:00",
+  "new_articles": 219,
   "total_articles": 1500,
   "queries": [
     {
@@ -66,7 +66,7 @@
     {
       "query": "Malaysia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "query": "Philippines HVDC",
@@ -141,7 +141,7 @@
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "query": "Thailand cross-border power trade",
