@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-09-03T01:03:39.214475+00:00",
-  "new_articles": 278,
+  "last_run": "2026-09-04T00:54:38.460900+00:00",
+  "new_articles": 323,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 9
+      "count": 2
     },
     {
       "query": "Vietnam offshore wind",
@@ -36,12 +36,12 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 14
+      "count": 11
     },
     {
       "query": "Malaysia HVDC",
       "status": "ok",
-      "count": 3
+      "count": 0
     },
     {
       "query": "Malaysia offshore wind",
@@ -106,7 +106,7 @@
     {
       "query": "Indonesia HVDC",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     {
       "query": "Indonesia offshore wind",
@@ -141,7 +141,7 @@
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "query": "Thailand cross-border power trade",
@@ -156,12 +156,12 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 14
+      "count": 10
     },
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 14
+      "count": 10
     },
     {
       "query": "Singapore power import",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Cambodia grid",
@@ -196,7 +196,7 @@
     {
       "query": "ASEAN Power Grid",
       "status": "ok",
-      "count": 20
+      "count": 16
     },
     {
       "query": "ASEAN offshore wind",
@@ -216,7 +216,7 @@
     {
       "query": "Asia Clean Energy Forum",
       "status": "ok",
-      "count": 20
+      "count": 16
     },
     {
       "query": "ADB Southeast Asia energy",
