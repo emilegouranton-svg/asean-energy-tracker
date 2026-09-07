@@ -1,5 +1,27 @@
 [
   {
+    "id": "74d8a748a8e8002f",
+    "title": "Vietnam’s blue economy needs more than ports and ships - Lowy Institute",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWJxOFQtMzdqaTA0aGdLUjBpc0U1dEFCa2RQUnlIVWNvNy1Db1ZfSTlEWmlwTzc2WnBGOEkwdEswZGhVN3JMaTlBRkt0V0tTeEhpWFlGOFlPVkxvdVUtcnU3d3drS0lmcVhNaHV2NzNpSUhBaFY1QlRDZXlHR3o2MTJrUW9rOHBmRnVtMDEzLUF2N2ItMzJIWGR2bXdxR09WMlE?oc=5",
+    "source": "Lowy Institute",
+    "published": "2026-09-07T00:38:19+00:00",
+    "fetched_at": "2026-09-07T00:49:16.166994+00:00",
+    "country": "VN",
+    "topic": "Offshore Wind",
+    "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "22240c03ed2f88b8",
+    "title": "Geothermal power firms seek auction pricing revamp - Philstar.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEZoX282V1gwNnUxYXZTS20yWlJKZHNiU0dTZ2VLb21WZ1QtZTZRTVhWczd4SHU4bXViTkR4SzlmZDFjbXlFSlE0X255QzRPR3lKTHJvcGlZSWtNMGFmbTlVazc3TjZKVGRfdnZNNnN0Y3dnNFFISlNsRUJmbnVNWVJDaFBwdWZnYU5ZMVg4RHFKd2NkMjZQVDQyUWVwNXVsVzVGODhhMzlEZ0hN0gGsAUFVX3lxTFBwRmhfbzZXWDA2dTFhdlNLbTJaUkpkc2JTR1NnZUtvbVZnVC1lNlFNWFZzN3hIdThtdWJORHhLOWZkMWNteUVKUTRfbnlDNE9HeUpMcm9waVlJa00wYWZtOVVrNzdONkpUZF92dk02c3Rjd2c0UUhKU2xFQmZudU1ZUkNoUHB1ZmdhTlkxWDhEcUp3Y2QyNlBUNDJRZXA1dWxXNUY4OGEzOURnSE0?oc=5",
+    "source": "Philstar.com",
+    "published": "2026-09-06T16:00:00+00:00",
+    "fetched_at": "2026-09-07T00:49:41.478702+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines Green Energy Auction"
+  },
+  {
     "id": "5fb62face3946d3e",
     "title": "Insight Paper _ Weathering the Storm : Reforming Indonesia’s National Grid Resilience amid Escalating Climate Crisis Impacts - iesr.or.id",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQazlIMWJtdGptQ0RGV3g3WjdtbnJkVlNydWJhcWFsOGRlVkNwVEVoSGJMeGZvUG9IVmctY3gyZjR5UTltWEpiOVVzZjJoeUlyWWFtUElBVUcwdmJ4c0tuNkFMbkplZVRpS3FjN01UN3JjSXhiS0ZMeEJTYUxDc1AxMHZVLUp3c05uakU3c0ZIenJOZVZuNW5IUkVtNnBnVkhiSXJjU3JfRWtMNVBLVVRzUnJVeDBnb2NjSE9qQUFERGpscWlpWXhadEU4TVl2QTBtb3dDY2tsYUF0cUhlbzBDaDRCNWRtTUU?oc=5",
@@ -154,6 +176,17 @@
     "query_label": "ASEAN energy ministers meeting"
   },
   {
+    "id": "7dd48c27035ac5e0",
+    "title": "DOF: VAT-free power fee may cost gov’t P10B - newsinfo.inquirer.net",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3kyZGJrTWdOSDlTSnpKTWNleDBaTmNtT0UwVklFZTM5cHltOTN1Y2pqSnhoeGpHdmgza0hfRHdMeExaenFCbm5GQ25Pc1pIMDhYdDJGZDFNaEtTc1dKcE5fR0RoN05mbDQ3SEFLZU9GM2p5RE5uZ3l3RnZWRlJwUUtpU3VXQdIBiwFBVV95cUxPUVFoa0dFZjJJc0ZRM2dRalQ5NHFVWjE0M1d3VENaUWJLNjRVSWRMTkNBSzVQRnRvb3JUNzVrWVlWX0VfYTdvdWVVQmtpbkgybjB4OWhTTVhuclZ3dGZ1OU1KNmFHeUVvbTRXUG1JZFdYRk0xVzVyQk1KVzUtd25FSTZ4aWlOc2dVQ1k4?oc=5",
+    "source": "newsinfo.inquirer.net",
+    "published": "2026-09-01T20:55:00+00:00",
+    "fetched_at": "2026-09-07T00:49:39.940126+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
     "id": "5ce270c7058e2356",
     "title": "Marina formulates layered offshore wind safety framework - The Manila Times",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ1pLUm1KMUhvbkRHblFaRkZpZXhodUxOVTZ0WVVoa01YbjVFZHlFeFZXZDkzN3dJWEpveHpucGtnazZkdjJMZHhPUDcxWVJRcGFQakJVMGlaN1hNTmZxRmZPYTQ3ajJFcW5DbHZITHNvNUJSN0dlMXBUY05VdFltXzhNb1ZheUF6VmhsLVFXRmVocnV2ZVFTUXRjOExKWGREencxdHM2NUhsMmVJY1FxejFpT1BMbjY5M0RPdHVB0gHDAUFVX3lxTE9KbXd0WDVCQmNPdjRwV0Q5S3IyWEJnZ21vblZCWm9iTTg4WGEyMXlRVk55dzU4MTltUENKYXhsc19ZUk9vU3M4R0lQN2NzU25ucnZtVzBtNzFFRThVTzNUQ3lUMnZJWTl4Rzk4ZWMtZXhwR3VuWmRvSmpGZnJxTUFmbUhPNkIxYVpLeFJKNGh1Vnp1RXBIUVRlSGJkREw1ZjBITnQzdUFiRVVkMVZjRlp2QkJVQnBQUXYtWDdMeGR5QWtacw?oc=5",
@@ -185,6 +218,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines Green Energy Auction"
+  },
+  {
+    "id": "a028a002129e8ce4",
+    "title": "[PRNewswire] DayOne and TNB Explore Up To 1.5 GW of Power Generation - Yonhap News Agency",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YT3NEN3JVdjE4Z0dkMEh6YlZTUTExS09IbUtJWWVEVTFqdHRhZHBLWllvWm5kSWRnWERfMW0yQ3RRMFlEdnZIcWh1ME8yYldrN1JESFRFZG00dw?oc=5",
+    "source": "Yonhap News Agency",
+    "published": "2026-09-01T11:12:12+00:00",
+    "fetched_at": "2026-09-07T00:49:29.589910+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
   },
   {
     "id": "f07f365a7cfff32a",
@@ -394,6 +438,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "aaaf8bef372157d5",
+    "title": "TNB starts building Malaysia's longest 500kV power backbone - nst.com.my",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc090c090bGdmQllXb0ZMYnhXV01EV2M3SXc2dXoxR1JWVFNHLXdCckdFYmhZQWl0R3NfU25jLTlDbHI5VnpOc05Dd2VidWgxR1FIMC1RVUMybW9LZUZDLV9rajVEeEZLTEVQVzdMVkZlMDc2aUFYUmhjTk5XcURXczJkSHJ6WVZ4VUh4QzB6ZGR2MkZNYlEzYnRCZEhBcl9VQk9rTHFWd056cGRVMlBVQVBfQ1lfYTA?oc=5",
+    "source": "nst.com.my",
+    "published": "2026-08-28T07:00:00+00:00",
+    "fetched_at": "2026-09-07T00:49:32.593994+00:00",
+    "country": "MY",
+    "topic": "Grid State",
+    "query_label": "Malaysia grid state of network"
   },
   {
     "id": "27aaa6177566b7f8",
@@ -2209,6 +2264,17 @@
     "country": "ASEAN",
     "topic": "Offshore Wind",
     "query_label": "ASEAN offshore wind"
+  },
+  {
+    "id": "af3a4e4ac3573dae",
+    "title": "Bangladesh eyes gas imports from Myanmar through pipeline - The Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakpWX2lkMzFaN0h5M21UalZ4N3dWeW9Bb0lGamFqTWlsdklITEFtR1FqUTVEb1k0WWNtSzMwY0JCcWNILWlCdVVIUzBHOERFZU9uUFJkNFZIX09nUVpfd1NSWmFINGk4ckZwN1U5VlNmRWJ3UmtYSTdhRjRQVUY4SmdDazhLcmpFU2NrY2FSdVA1dEEybHJMcVJNcmVXWGdwSXhLQdIBqgFBVV95cUxQcGJna1lmeTdHSXVBaWRtTUVWT1l1V3lUcHdfcENnZVliaXRrcGE3OThucmtMRU4xdWVLanFvWlpMb2NfUUNTaUNsdkl3WTJDekp0blp0Z2hTNWlRQ29VRS0xUEtTNjlWbXVVVnpBaTNRU3ZmVUFLS3BjdWVaUlhoU2lCWHF4N3BIVUlpbkp3d3Z2aFFfNW9nN3pKMXozRFpyVVdaUWdwYmttUQ?oc=5",
+    "source": "The Business Standard",
+    "published": "2026-08-02T07:00:00+00:00",
+    "fetched_at": "2026-09-07T00:50:07.405114+00:00",
+    "country": "MM",
+    "topic": "Grid State",
+    "query_label": "Myanmar energy"
   },
   {
     "id": "39b5c90f0b968ac0",
@@ -5533,6 +5599,17 @@
     "query_label": "Vietnam energy policy decision"
   },
   {
+    "id": "47631882dd4e6f84",
+    "title": "Indonesia Rules Out Coal Export Curbs Amid 2026 Supply Crisis - Discovery Alert",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWpIckRIbFZpZGh5VzdiOG5xVVU5TWhidHk2SDB1Sld6Y3FBZ1VxTUFmb3hMWG1ramEwRmREZ29Vd01QUFByLWVabTlaNTVWRzZKSlYyS3ZVMVpyYlFvNWFNOGc2Y250RXRuOW9fbDBMLS1FN3dBU00zczF6bU83OHVid1JWS1hKLVo0?oc=5",
+    "source": "Discovery Alert",
+    "published": "2026-06-26T07:00:00+00:00",
+    "fetched_at": "2026-09-07T00:49:50.142739+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
+  },
+  {
     "id": "81018ef8da80fdd0",
     "title": "ADB Approves Financing for Rooftop Solar and Virtual Net Metering to Boost Clean Energy Access in Sri Lanka - Asian Development Bank",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVFjRWVFY0lDTW1PLUFiZDZVTFZtdjBDVHZPRGhvc1VQb0I2YXlCd3pEX2FSVDRRU0FqU1lOaHdJVlBZRzNfb21XNmVHUFE2a1d3eVVpQVJwMmZ1Wktwc1pVRUxXTVpicS04bDlZMFNNT01TSGZvZUN5Qy1GOHpxaVhxcnh5cWVyVmVsOGNvUUlISGN0NUJJUkpqZHRRQ2NZT3JSSUNoV0Q0OVFIcnBKTnlMYkNMcno4Q3Z4eGRHdw?oc=5",
@@ -8745,6 +8822,17 @@
     "query_label": "ADB Southeast Asia energy"
   },
   {
+    "id": "cc0dc21e9c198dc0",
+    "title": "Indonesia's Crude Oil Price Surges to US$117.31 - Tempo.co English",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFczUXNaSlRBdjNYdXVZbWwzd1RnZzYxWGlLNDBpMHNRWDh6YnhWcWpfRWdaLU0wVnhxLWlONFFtZFR4SFFmbzlIUlRDUHphbFpjeFlfQzJkUmRuNGtOa2xOOWlGMG9VQmxITDJ1Wk9NeTI1SkhUVE5ucEQ1Qjd0dUh1azU?oc=5",
+    "source": "Tempo.co English",
+    "published": "2026-05-19T07:00:00+00:00",
+    "fetched_at": "2026-09-07T00:49:50.142948+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
+  },
+  {
     "id": "649b6dd09104459c",
     "title": "ADB, Singapore Renew Partnership to Accelerate Cross-Border Clean Energy in Southeast Asia - Asian Development Bank",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE43THl3bDkyRXQyMTgxNk92amhXWXc4blFGbWF3WnNvb0hBU3JlNFgwWElXX0E4OVhONnNOVzhXcVo0dlVhaDFfV21NRjNJLTlVMFZKVDN6alBOc2FIcVd0NUhZMnVqQ1N2a19rTGJGTWU5UXJiN1dOQ0lMeUFreXJXR3JSbGRUdUJOc3VaaFVWaDJrS2FFZjZ6UlM1NDMxWXNrcVl1a0JERlVl?oc=5",
@@ -11330,6 +11418,17 @@
     "query_label": "ADB Southeast Asia energy"
   },
   {
+    "id": "1733b25494d3fed4",
+    "title": "ADB launches new trust fund to accelerate progress on ASEAN Power Grid - Qazinform",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHdKMUI0X1JSaE5CZXRYZzlTTHNVbmUtRUMwMDhXQ0dvaDFpdnZvdnk5VjUzbjhUYnhES05TOXNpVGp6ZzgyeGhJWFNjZDhFMGd3VnpSS0JsV3BTRFl1MGdaaUxNcXJKUHVTZ1VfSXlRaEhiOXd5VXJWeUhMa3B6d0FTRm9pRWs1ZmNoTzdMazBDVFBBMzZROUthczU0WlFpNEJjZFJKTdIBpwFBVV95cUxNb3drTzJyUDh4WTJjcmtkZFE2bU94M1p2bXdzSlc0cE9sS0FoWFFscnB5enBlVVhKSjBwTVJobW9QUHJ6bXUydGZxd2hDcVJqbTI3SUpjaEZoVE1SSHBkUUd2RVJKbjduUUlqS25FSGtWNjlGSFR0RnFGWjhoTkFZRUFIcl9OVmJpaFJwSkticlhJcjFoMi1zckVQV1BocnlDSHlYMTBJaw?oc=5",
+    "source": "Qazinform",
+    "published": "2026-04-07T07:00:00+00:00",
+    "fetched_at": "2026-09-07T00:50:17.723327+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ADB Southeast Asia energy"
+  },
+  {
     "id": "95e33f77647e8c20",
     "title": "ADB Launches New Trust Fund to Accelerate Progress on ASEAN Power Grid - Asian Development Bank",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWp3VlNZdGZMcmswUTg3aGxPYnFJVHZhbkFIVUlQWG16NE8yY2Nqektad0FLbUhSbVRxTkN2MGQzMDR2a25GeEg0MUZpU0s5ZXc4Z1dhck1hRjVIX3FSZmNQUTdUUkt3dFRBTHJuNVEwamVnUTZqbEtlUW9ObUpJZzJZT2NST3N6NE5YMkxzY3E2S3M?oc=5",
@@ -13154,6 +13253,17 @@
     "country": "VN",
     "topic": "Policy",
     "query_label": "Vietnam PDP8 power plan"
+  },
+  {
+    "id": "25424eb536e62df4",
+    "title": "Consortium Secures 1.65 GW of Offshore Wind Grid Connections in Philippines - Offshore Wind",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWZhS2xSWGwyZWFId2RFUjYxWkhYWTdKTGc3MXF5dVBZbS1IRnh3c3JzRHIzVFUtSXlMZ0NlYmhGZ2hUa0xnNHJPb3BldjJsUEU2OEdSUGM2M2N2YWJ0RWFmX1NpVE5HZkMydXFMaHhPUHhsbkdFWTYta2V5MF9DWDRMTEl0ZHhsLVQ4Qmw5TldOVVkwMndMZWo3V21xSmFCQlZBNlI1S2lyYUpNekYzT1FYSVREUQ?oc=5",
+    "source": "Offshore Wind",
+    "published": "2026-02-25T08:00:00+00:00",
+    "fetched_at": "2026-09-07T00:49:35.441053+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
   },
   {
     "id": "13b75ab66c73144d",
@@ -16388,115 +16498,5 @@
     "country": "MY",
     "topic": "Offshore Wind",
     "query_label": "Malaysia offshore wind"
-  },
-  {
-    "id": "a0d5d078e7e2e818",
-    "title": "ASEAN CCS Updates 2025: Volume 3 - ASEAN Centre for Energy (ACE)",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44SHgwb3M1OFh1NWNGWU5VNFpUOVVnaFQydEJvT210X2tlLVhqR2lCTkJic0hyYlJKY2k2UXJTUnRNdVc2NDZFOXVkRkE5aXdBVGpvWFM3Zk9SVWdSeTBmVjZFaFREbVhfZk9na1RzdWJFeU1faU91WDRKRmo?oc=5",
-    "source": "ASEAN Centre for Energy (ACE)",
-    "published": "2025-11-04T08:00:00+00:00",
-    "fetched_at": "2026-08-14T23:28:35.589810+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN Centre for Energy report"
-  },
-  {
-    "id": "fb7a1846950b6f5d",
-    "title": "Eni and Petronas to Establish Company in Indonesia and Malaysia - Offshore Engineer Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5feE40QVUtMVJzZXZuVlNIVFQ2QmliemZYZC1mUWhiYy1NbFM1M3BRWFgyUUlkTWNGTWYwdkktbXFYOWlIUEZMUzQ1eEViNkMwZnh5UlRGVUpsRWhidVp5cHlzd1Z0TmJfNXFjenZqRXk1RTEtWVdjcVVoREdIa1NqTTU2eEF5N2M4Vmx1aTdQSUt1c3R5eEh2QWl3ZGhsem1n?oc=5",
-    "source": "Offshore Engineer Magazine",
-    "published": "2025-11-04T08:00:00+00:00",
-    "fetched_at": "2026-08-29T04:06:30.934476+00:00",
-    "country": "ID",
-    "topic": "Offshore Wind",
-    "query_label": "Indonesia offshore wind"
-  },
-  {
-    "id": "b42ff65d6b501439",
-    "title": "Direct PPAs: New Opportunities to Drive a Sustainable Future for Thai Businesses - Krungsri.com",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUkxySXREeEg3X0pOUjdZNTB6NXk1NWk0VkxMQXBmVmM4RFlXdlNZa29JQlA2TmpLV2RTWXplN3ZGZnVYTkdaNUZjMXB6cl9UdjZwZVdwVk5hc2dxS2hsZDBnYXVkZGVaR2VEZDZqZ1EzTzNSU1VacnpmQXdyRG8?oc=5",
-    "source": "Krungsri.com",
-    "published": "2025-11-03T08:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:14.668391+00:00",
-    "country": "TH",
-    "topic": "Grid State",
-    "query_label": "Thailand grid state of network"
-  },
-  {
-    "id": "e6f1deb90dc53a1e",
-    "title": "Singapore drives Asean grid, pushes clean energy ambitions through partnerships during energy week - The Straits Times",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXh1R05sMnFBVzk2NUFLQTVWclYtREo1c0VuMGY4ZGp4SmpzTWxiSnpEbmxacVp5emZpOUF0el9Rak1qeHNLN2U3ZHdhLVpzTURFRm1rdFJ4bkY1REpWaXpCZzlSWHRzMzBKLUZhbFlvcFRUc0RLRU16aHR2OGtaV3EtX1V2Q1V3X1BUWFhuZlV0M3ZsckdlcG1PTWJKS19Eb3ZFZnQ1MTJEVWFxNDY5ckYtRjRZdTB1V3dfeGJKR09nMDloc2R2NEJVd2FQa0dCYVVQbG5BaGhkV3FDWG5xUlFn?oc=5",
-    "source": "The Straits Times",
-    "published": "2025-11-02T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:34.386804+00:00",
-    "country": "VN",
-    "topic": "Interconnector",
-    "query_label": "Vietnam interconnector"
-  },
-  {
-    "id": "4f5bd564c0f594f6",
-    "title": "Surging interest for Asean Power Grid - Borneo Post",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdi04d2JLcWE3dU9BTHVHbjNCZktGUVpDZEozaUFJNkFWMkhFSEdtajYza1pkMTkyd2ItWGtEVEhsRkQ4TGxYT0dDNEVQU2hHRC1LQXJkUjdMaW04bGdUNkpHMFUzRC1vQ1RVUUJLOHhZdXN1WjREWnNLTlc1LS1sRkRHUVVEdw?oc=5",
-    "source": "Borneo Post",
-    "published": "2025-11-02T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:44.224168+00:00",
-    "country": "MY",
-    "topic": "Interconnector",
-    "query_label": "Malaysia-Singapore interconnector"
-  },
-  {
-    "id": "81610aa467d22316",
-    "title": "North-South interconnector: What is it? Why is it being built? Your questions answered - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqYkxxTGdyVVM2bi1uSmlKa0lFZjM0cGEwWUROa1Y2VUNDU3N0ZUJySzJhQlBJbE00dGJPTENqcDc0YVhqNHFDN2NERHNJQ2JjM2tnN0pkaFhpdw?oc=5",
-    "source": "BBC",
-    "published": "2025-11-02T07:00:00+00:00",
-    "fetched_at": "2026-08-03T00:03:56.571751+00:00",
-    "country": "VN",
-    "topic": "Interconnector",
-    "query_label": "Vietnam interconnector"
-  },
-  {
-    "id": "821e1de565b07b37",
-    "title": "Sarawak premier: Subsea cable project with Singapore could pilot larger ASEAN power grid - CNA",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTBoQTk2VTJaUi1LakNzNUlJdXA4Wmw0V0Z3RklpYkNCR0stWjkyYUlubEZNRTh6S0w2XzFfZk9aNld1U2dENHdJQm1vVnBDQ096VWNaeEdIVEZtV096ZFFsMkFiV1I0eGpVZTFwZFJUeHgxS0Vyci13N3o3b054c2pUbGtGd3ZjMGxzYmlLN2tOWVJJVlBYYmtHdkw0SVY1d1U3ZzdDY0VZTXNULUlVVWRhbzVNaG9wOHBJ?oc=5",
-    "source": "CNA",
-    "published": "2025-10-31T07:00:00+00:00",
-    "fetched_at": "2026-07-09T00:17:53.280069+00:00",
-    "country": "MY",
-    "topic": "Interconnector",
-    "query_label": "Malaysia-Singapore interconnector"
-  },
-  {
-    "id": "2995e71c37744608",
-    "title": "PLN Plans 9,000 Km Transmission Expansion to Strengthen Sulawesi’s Power Grid - Ecobiz Asia",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzc0U29ReENtWG8xWlB6TXpXMGRtNXc1YjBTSWM3RkE4a3h4TnZHa0g4N2lkaGRuLWVRTS1YUHBTVHBpa3pOSldYNnl2NkJ1eHJyTUdwLTVQTE1wdDVBanpLTTFTam1UeTNtZEdzR0pHY1NBdnFtRnFnZlNoT0Z4THh6b3RxcU9peXIwdVNIbU1BMzJOcjU5Wi1kdFk?oc=5",
-    "source": "Ecobiz Asia",
-    "published": "2025-10-31T07:00:00+00:00",
-    "fetched_at": "2026-07-17T23:58:10.856017+00:00",
-    "country": "ID",
-    "topic": "Grid State",
-    "query_label": "Indonesia grid state of network"
-  },
-  {
-    "title": "EVNNPT, northern Vietnam province Son La to speed up power transmission projects",
-    "link": "https://theinvestor.vn/evnnpt-northern-vietnam-province-son-la-to-speed-up-power-transmission-projects-d17477.html",
-    "source": "The Investor VN",
-    "published": "2025-10-31T00:00:00+00:00",
-    "country": "VN",
-    "topic": "General",
-    "id": "78f43c05e7609516",
-    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
-    "query_label": "seed"
-  },
-  {
-    "id": "58ac55dfd30b840b",
-    "title": "Prysmian to complete in 2026 study on Sarawak-Singapore power export project - The Star",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHRCNnR6STRmNEF2RER4dDZqSUFkMTZrd3BZSG9tTGlQcENDdm9QWnI2b1p1bElWbU5ZMGZVUnhEdmt1ZFR4U3RzT0I5ZjdzZ1owUWN0VmNtNTd3UDROSnZvTU9POEFtX2h3MDB0YnZ0UkY5NVRvdTlISjAwQ0NqMW5jSXgyRUhPaUNKZVZqTjdSZHhhNTZ1MERsb1ZlNENrWW1wTlU2LVQtZkRzd0JUU1ptbXdPYmRjckw5dk5sWDVuTl9UZGxlSTNTMEtsd1d0NXZn?oc=5",
-    "source": "The Star",
-    "published": "2025-10-30T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:44.224263+00:00",
-    "country": "MY",
-    "topic": "Interconnector",
-    "query_label": "Malaysia-Singapore interconnector"
   }
 ]
