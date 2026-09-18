@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-09-17T01:16:24.731133+00:00",
-  "new_articles": 303,
+  "last_run": "2026-09-18T01:11:45.440222+00:00",
+  "new_articles": 312,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Vietnam offshore wind",
