@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-19T01:06:13.244590+00:00",
-  "new_articles": 302,
+  "last_run": "2026-09-20T00:56:14.574970+00:00",
+  "new_articles": 312,
   "total_articles": 1500,
   "queries": [
     {
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     {
       "query": "Cambodia grid",
