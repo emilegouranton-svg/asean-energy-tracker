@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-09-24T01:17:45.976734+00:00",
-  "new_articles": 318,
+  "last_run": "2026-09-25T01:21:56.131125+00:00",
+  "new_articles": 325,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     {
       "query": "Vietnam offshore wind",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     {
       "query": "Cambodia grid",
