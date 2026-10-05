@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-10-04T02:30:45.184286+00:00",
-  "new_articles": 324,
+  "last_run": "2026-10-05T01:47:56.266487+00:00",
+  "new_articles": 316,
   "total_articles": 1500,
   "queries": [
     {
@@ -26,7 +26,7 @@
     {
       "query": "Vietnam energy policy decision",
       "status": "ok",
-      "count": 20
+      "count": 0
     },
     {
       "query": "Vietnam electricity price reform",
@@ -71,7 +71,7 @@
     {
       "query": "Philippines HVDC",
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     {
       "query": "Philippines offshore wind",
@@ -141,7 +141,7 @@
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "query": "Thailand cross-border power trade",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     {
       "query": "Cambodia grid",
