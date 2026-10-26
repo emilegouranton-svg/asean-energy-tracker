@@ -1,5 +1,71 @@
 [
   {
+    "id": "000f3f3e125d508a",
+    "title": "Asia FX Talk - MUFG Research",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JZmo0MTRFV25weHBMcHlkbGdPT21kbkp2NU50X3h2UzdVQlZ1dG81MTRsZGYtenVUTkVwUjgzYWc1ZHNMZ2N2SzM1ZnVhMENqRmJ3Uzk2NTZ6V0xvYlhFSlBnV2RRdGg4ejJoWjh3?oc=5",
+    "source": "MUFG Research",
+    "published": "2026-10-26T00:52:05+00:00",
+    "fetched_at": "2026-10-26T01:05:29.649628+00:00",
+    "country": "SG",
+    "topic": "Policy",
+    "query_label": "Singapore energy policy"
+  },
+  {
+    "id": "a9b1cbc894c238df",
+    "title": "Indonesia Cuts Gas Exports, Singapore Says Electricity Prices Not Much Affected - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iaF9pNFBVZlFOLTVnOE5adUlRelJVWmdoVlFUVkkzSXlmdDdvQk9nYmRCVjR3dEM1Rm5pYmJsZmJOUQ?oc=5",
+    "source": "VOI.ID",
+    "published": "2026-10-25T17:45:26+00:00",
+    "fetched_at": "2026-10-26T01:05:29.649703+00:00",
+    "country": "SG",
+    "topic": "Policy",
+    "query_label": "Singapore energy policy"
+  },
+  {
+    "id": "4c6eea634d1041b1",
+    "title": "Blackouts’ heavy price tag: Is gas the answer or BESS? - Manila Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmRBNVRUNEpZUVlVc0NNa3k3cFhjU01JcGdkM0RfQjF0YXAzZjdfREd1QUJ6ejFxbE5qSFpsdUhjbTBzNXN1UmV6emk0ZlRkdHNkakgxVHEzNHRHS3ZNYmIzZzR5WlNrOFl5YnN6cVFxX0lndnV1a0xvdkpxRG1qREZDYjNCN0E?oc=5",
+    "source": "Manila Bulletin",
+    "published": "2026-10-25T16:20:40+00:00",
+    "fetched_at": "2026-10-26T01:05:07.367590+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "5d91cbf340bc55d7",
+    "title": "Indonesia Cuts Gas Exports, Singapore PM Lawrence Wong Reiterates Contract Commitment - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qSDhkck1KWUlTMzk2MDdhUS13OVM4RnhOcUxBV1lsSWZJWkVCckNDSTFyWTRyVENETy1rcWhLVGtVZ9IBQkFVX3lxTE1qSDhkck1KWUlTMzk2MDdhUS13OVM4RnhOcUxBV1lsSWZJWkVCckNDSTFyWTRyVENETy1rcWhLVGtVZw?oc=5",
+    "source": "VOI.ID",
+    "published": "2026-10-25T09:32:13+00:00",
+    "fetched_at": "2026-10-26T01:05:29.649826+00:00",
+    "country": "SG",
+    "topic": "Policy",
+    "query_label": "Singapore energy policy"
+  },
+  {
+    "id": "a7f6a55dd1b55526",
+    "title": "PAP elects 39th central executive committee, top decision body intact, Singapore News - AsiaOne.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazZUaDJRT3pramplQXZPMlJFQUhQQ25ORnpPMkkxZkJmZlFQYW4tU0FCZXNOcFIwLVlsUDRtR1lPTm5ueVd3SS1fcklvSURJNTJQTFNWTmtsdjRibFJ2S1Y1ZmFZbVhmWThsS1g3a01XWXNlcm9wQnRkdXJ3d2NaSFZsY0pfbGZfZmNOZTdSMA?oc=5",
+    "source": "AsiaOne.com",
+    "published": "2026-10-25T04:45:24+00:00",
+    "fetched_at": "2026-10-26T01:05:29.649765+00:00",
+    "country": "SG",
+    "topic": "Policy",
+    "query_label": "Singapore energy policy"
+  },
+  {
+    "id": "1c681de5ae2d2e5b",
+    "title": "Indonesia Cuts Gas Exports to Singapore as Domestic Demand and Haze Tensions Rise - Eurasia Business News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXZRbFdFN2NxZ0NXOFUyOENkWmVVZnRDY3hWejYwTENjU3lMNkpnZHdnZEMyMXNMTHBZZ1l2TEJfWjRTNldEcGJLeE1Gc1E4bDc2M0x2U2w3RVRnWE1GazhHcGhsM1l2bEtDak1YV2JSRVpWX0RueUU1cVZZOXNsQXZyenNPekxFQlVzWm0tMzlDaDdnR2IzQXhWNFpWOUNmOTJ3MTFhQ3I2RktrQU5aNWc5MEVMd0I5TVYtTkhVbVV0bG8?oc=5",
+    "source": "Eurasia Business News",
+    "published": "2026-10-24T14:15:12+00:00",
+    "fetched_at": "2026-10-26T01:04:58.980221+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia Energy Commission decision"
+  },
+  {
     "id": "518ef9785f0c46dc",
     "title": "HELMS, Elnusa target offshore geotechnical projects in Indonesia and Timor-Leste - Breakbulk.News",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2hrYWFUQ1JodWpaYmdDaUtvemk5Q2g2NzlsZWlCS09SYzJxYXJJb2xVQ24wNUlQMG0zaFl2TjMtWHhCblhnQi1GSm9MUUJ3cHRZS2ZyUW9aMW5jaV85dTl2LXB4ZDdkazhnMmFnVlNKZHJYUFhqcFlPdHAxVDU0QllXbjBLUFZZY3lXek5FNUpHV3ZBeVFGdnU5WDFZU3plWktFeFBn?oc=5",
@@ -9,6 +75,17 @@
     "country": "ID",
     "topic": "Offshore Wind",
     "query_label": "Indonesia offshore wind"
+  },
+  {
+    "id": "ee1cf5f06fce3569",
+    "title": "Energy ministry, PLN target 28 sites for nuclear power plants - Indonesia Business Post",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaS1OMW84ZmlCd21nUlh2VThfVDVycjJzR05jczZTanN3dkdXWXBYWl9WT2FIU0NCd00tVTJHcjRjU3RHSnZUUWdHbkhvQ3YwMlVTUGtqMEdwc0dlM0RZZThfRTJuTURRUlVUeURET3dLVERwa0h1TVRmaXN5MWlzbXZqUmhrXzY2TFVzbElUU1R2MkF6VVF2RFk2TWl2cDNVMTh4RGVKUHNVOUlqb3JJeUdoaExhSlAzZWhBcw?oc=5",
+    "source": "Indonesia Business Post",
+    "published": "2026-10-23T09:08:32+00:00",
+    "fetched_at": "2026-10-26T01:05:19.994476+00:00",
+    "country": "ID",
+    "topic": "Grid State",
+    "query_label": "Indonesia grid state of network"
   },
   {
     "id": "96fb322d8010d47d",
@@ -50,6 +127,17 @@
     "source": "South China Morning Post",
     "published": "2026-10-23T00:00:17+00:00",
     "fetched_at": "2026-10-24T01:27:39.766679+00:00",
+    "country": "VN",
+    "topic": "Offshore Wind",
+    "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "9c8b8f2845308cf1",
+    "title": "Vietnam partners with Denmark to propel its wind energy ambition - South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0lBVDZtQWx4S1BwNFloOFVOUG1SM2VpOWpUekRfdFNfWnN1d29iTVRwdnFCWGRJamgxZTRKMV93VEpDZU5aMnJXYzZwb3NUbHpKeHJDaHVyMWVNU2tySm81VnM0djllVVRybVItUHBlcTdLR0g4angwT1ZEOGhJYy1sVXdsZExMR0loaVFMQi1la0hsM1cxeG1La1k0eThOVW9sNjBVOW9VNWN3N2Z6TDFZWdIBswFBVV95cUxPS1N4dG5yQ2I3UF82c1dPNXVuS0dSMTJIQkxWS2dyV3RGalo0WmJZQTAwcUtnVTJLVVlMT1k1N0Fkc1p6RzN1QjNaMmhYQzJ4ZzBXaUNfc3JadGJXeXpUa1B3UFFaUFR4RFFCbERicmdrMzRYWWlyc1lJSC1TMHpQdTJMTzY4MVBKd3ZQdjlMYXdFSVh2R3E5dV9uNm56djFzbG9CMlg0eHRGM1ZFREJIY2ZwMA?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-10-23T00:00:17+00:00",
+    "fetched_at": "2026-10-26T01:04:44.838755+00:00",
     "country": "VN",
     "topic": "Offshore Wind",
     "query_label": "Vietnam offshore wind"
@@ -154,6 +242,17 @@
     "query_label": "Malaysia NETR roadmap"
   },
   {
+    "id": "091a6177e8ddb2b2",
+    "title": "Govt finalising Natural Gas Roadmap to strengthen energy security: Akmal Nasrullah - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSmhiWVhTNnhkM25qb04wRlF2QS1rM3JCRjlMaXBRRktxSWVFZEFmRG5FaVhnRm5Sbzg3cE1XX1JycTF1OWdVa2drM3RqRG1ub0xmblpXZHNtWktfdng3bkJYaWo0OUFTcXd4M2hWZVhyZjdPUG9ybmFFRjJLa3h3NnJwUTYxbkduS0FSMWRpcGpvSFByQkczeVlVYVVZRWo4Qjh6b2pydWExNURHVGNCMUp1alRyM2JWZFJOVURiRm5IRG93NGZKNlhDQQ?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-10-22T06:27:51+00:00",
+    "fetched_at": "2026-10-26T01:04:57.491129+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
     "id": "afc20b8bc03dd9b5",
     "title": "PetroVietnam pioneers offshore wind development with Danish partners - Vietnam Economic Times",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JPVERaWmMxX1hLanFZd05iUEs2TWd0WG9BTS1vU3JPcDJUanNiLXVuVDhwUTBzeUd6VzlwTjI2dDJvOEJYNG1KU3d3T0ZIV3haZFAtTlpYZmF3amM5UmV3MU51YjBsdzlpNElKQVFUSXpTVlAxbDA1QzJpakVYQVZoVmhpMllXaTY3WDM1OGtBdkRKNlAxX3NraFk?oc=5",
@@ -240,6 +339,17 @@
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia Energy Commission decision"
+  },
+  {
+    "id": "9a7405c9b8d435ea",
+    "title": "Greater China to overtake Europe in offshore wind by 2040 - Asian Power",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVRLV9SMnp5YlYzcFM5Q3FLaUg1X2FBcE9ZNGpJYTJRLWN1a1hFR2RQYThncDlaaS1NQl8zWUNZcTY3X3p3WnJwdjBYSUcyOFp4QkdzQXI5RE9jOEI5UmVKR2VVNUdnWWQzY195SXh1R3Eydm94Z3VkOWdveDc4UkRKMDZPOTh4MGJfMV9YbnJPQnp0WGxjY3lBNEtXSlk?oc=5",
+    "source": "Asian Power",
+    "published": "2026-10-20T21:00:00+00:00",
+    "fetched_at": "2026-10-26T01:05:38.397388+00:00",
+    "country": "ASEAN",
+    "topic": "Offshore Wind",
+    "query_label": "ASEAN offshore wind"
   },
   {
     "id": "100d54666d8b17f6",
@@ -1177,6 +1287,17 @@
     "query_label": "Vietnam grid state of network"
   },
   {
+    "id": "45e122522de09277",
+    "title": "Malaysia Secures 20 Recognitions, Including Eight Category Wins, At ASEAN Energy Awards 2026 - The Sun Malaysia",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGtULW52b3FVZ0tFOUpQSVkwalJBRmdMMXhNQmJSa1cwNTdObjV0a1NBNndOOU1TUk84WTF2R09EVE12S2RuSTFiNHpESWZoa0tyWktVYk56VGJtVTJma2MtOFZfUXpucUJaT21RS0Z3ckVSMVBzc2JBcW5XQU5ick1pdXV6T0sxUlVnRnE0cEFBaS1VaC1IUWgxbTZ1bnE0WUVtOVp4MFVMNDllRVU5Zk1ibXBOV2RKbUFKMXFPVFA2Q0tqbTJsRTh3R09ZTmJJ?oc=5",
+    "source": "The Sun Malaysia",
+    "published": "2026-10-09T16:19:20+00:00",
+    "fetched_at": "2026-10-26T01:04:57.490880+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
     "id": "e5a83dbd9099612c",
     "title": "Government ‘very confident’ of meeting renewable energy targets - Philstar.com",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURPc2RSeXB1aUFZaXlubmc1Z05wUFRkM2RiQjBXOC1CSGxiSTlhN2NoMjZtNlE3X05zRUxpRm1ZeWFtc282bXpuYjI5LUkyS0E0a2JGdlY3emlZWTdNSFlFdnVWWHNqUkZrMk5reVdpRGN2YTBleXBRc29mX2JZQmdlNjhTTk4yaS1lZlNIMmkyUGYzTERYT0I3ZC1kdFFiU1JzOHVVT3lMcm8xbmx4X0t30gG4AUFVX3lxTFAydzZFMkhRZVhYLXc5ZHJDaUVwVXNId2I5Y0RQMkVxWDZodXc0TDQzQXhRU3QxdG9veXVxVjNEZEk3RFg4azM2OUlSRUNzUlJNOExKT2hxX0lpSUh2RE5EakhzSWVLX21Eb0tEbnZ6Nzg1ZVkxMjg1dGE5Q2J2aFRET0xoNGMzdlEyQUdnNmVqRGZBcXl6X2pFc0NIT3dNYlB3a0stUm9ncTUyTGl3dVVKSjhsWW50MGM?oc=5",
@@ -1549,6 +1670,17 @@
     "country": "ASEAN",
     "topic": "Policy",
     "query_label": "ASEAN energy ministers meeting"
+  },
+  {
+    "id": "d41af6cc877b1761",
+    "title": "India, Singapore plan 3,000-km cross-border power link via ASEAN nations - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenR2ekljZzRMdFVVcUZUbm1SYm8wS3lMSzVxM3drTmhpX0JrTWJWa1RFUm1VbTZSbXQ2SUZzZjNyVi1tXzl4d2E1TnFnNVNkZ2R1U2tCbmlKUE0xOUgwY1RpOWl3SDhJWWhiQlVtVldLMWhMT09MVEFuSmx0ZUFQcTA1NE1BWnNXdFlGNVFoemNlLWpnZy00YjI5U0VIejhqZG5TT3ZQVlBwd2FNMXFXYUxTX3U1S0JHM29LaTJTSVRMWlF0WnBuQ2U1aWF1M1BaTk1ia3Nn0gHbAUFVX3lxTE9fekRJVGxWcVlGQkxNMmV0TklIWnpPWU1rSVpNWU9PNUpFa1JqX0dSX1I3N2FfOTViUS1wYXhVbm9DeGMyMVZjcGlBbU5OajZZZUVjSzFreFF3OTFGQ21tbjM1S1FqSzAyTEtwalEwR2xBUXhkeW4tTkJSaWFYNzc1YjJGUkxfQ2x0WHZkcWtTQWZ3NC14WHloNUVIamlhRWIzYXVJS0VhNUVGbjk1dXJXLTdYczVBWk9UZEpGZTZzaVF0bGdzSHJ0T2g4VUNldU9YdXFmTlZnOHljcw?oc=5",
+    "source": "Business Standard",
+    "published": "2026-10-08T07:00:00+00:00",
+    "fetched_at": "2026-10-26T01:05:33.776580+00:00",
+    "country": "MM",
+    "topic": "Grid State",
+    "query_label": "Myanmar energy"
   },
   {
     "id": "8fd5b72513dd828a",
@@ -1945,6 +2077,17 @@
     "country": "ASEAN",
     "topic": "Policy",
     "query_label": "ASEAN energy ministers meeting"
+  },
+  {
+    "id": "5afccaf614df0e84",
+    "title": "Methane Policy Readiness in ASEAN’s Oil and Gas Sector Assessments of Indonesia, Malaysia, Thailand, Viet Nam - ASEAN Centre for Energy",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHhLODBTeUVfWjlRaDh6R3AyUHFKaHhsWEdCRjAxbFhGQm9XN1daZDQ3TWRzMnlFZ0VnUlBhY2Z1dXVvY1hiTEdfd2tXRU0zckREZk96eVptVmFoRjcxR1hIanJJU2k5aXM1Zy02VVZIWGt0NW5jQlZ3SWVIQ0tud29KY1ktWk1qdUN0LXBTbkZTS2ZQaTY5UDBHSjIxUURiLUVUZThValNkYU1vaDk4clh5dDQ3eGpvdzZ5UFNCVW5GakpOWVg3WE9ES1ZqdHo4OHdxT3RVQmZZQQ?oc=5",
+    "source": "ASEAN Centre for Energy",
+    "published": "2026-10-07T07:00:00+00:00",
+    "fetched_at": "2026-10-26T01:05:39.802238+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ASEAN Centre for Energy report"
   },
   {
     "id": "90eef79d3ac84e91",
@@ -3463,6 +3606,17 @@
     "country": "PH",
     "topic": "Interconnector",
     "query_label": "Philippines grid interconnection"
+  },
+  {
+    "id": "1655dad01d8a30b9",
+    "title": "Cambodia: A new step in the modernization of the power grid, supported by France and the European Union, and involving French expertise | AFD - AFD - Agence Française de Développement",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3V2bUpXdTlVYWJ4Sl9FRktXSHB3a2JQeDRtRnJ5NVRLVFcwZHdhMHZWY0FFYkR6ZzFLQ1Z4ZEdNcFEwc2RSUEpmMWZVZEpHVEFxVHBWVTNMempELU1GV3hCV1NCQTNDZ2NTYmthbUZkV2ZJeEpXeWNQRWlEeGU5Z3lQdU5iMFpvMm1PVG5aNWpxOEJwazJ3WTBrdEVtdFlwSU9DUm80bGl5QnRycXYtNkJDRHVnYWxCZlNj?oc=5",
+    "source": "AFD - Agence Française de Développement",
+    "published": "2026-09-21T07:00:00+00:00",
+    "fetched_at": "2026-10-26T01:05:32.237287+00:00",
+    "country": "KH",
+    "topic": "Grid State",
+    "query_label": "Cambodia grid"
   },
   {
     "id": "c3389df8f7571ecb",
@@ -6587,6 +6741,17 @@
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "08f2b7641e8ef220",
+    "title": "france Digital Substation Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFByeVkwWGFfbmNMeUxKQm9ZT3F4OTUwRHBrbllJQnBGUW5ncGpsWF9KMUtvLWdGY2xoWEZUTHI3emVzUEFEMWJnT3JhOXZIa0JxRnZvbHA4eGpIUER6QTRiLW9ta1g4QjlLSmFwVkdtY19XUWcwOUNXR0ZVYkVrX3gwVnhWYVdtTXlWUnpFVzVVWHhJb2c?oc=5",
+    "source": "MarketsandMarkets",
+    "published": "2026-08-14T13:37:53+00:00",
+    "fetched_at": "2026-10-26T01:04:52.042894+00:00",
+    "country": "VN",
+    "topic": "Grid State",
+    "query_label": "Vietnam grid state of network"
   },
   {
     "id": "1b901a8a829ba30a",
@@ -16333,170 +16498,5 @@
     "country": "ASEAN",
     "topic": "Policy",
     "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "548a7dc61d70c224",
-    "title": "Indonesia pushes clean energy as crisis response, ASEAN weighs structural shift - tanahair.net",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnN3Sm11TGtFWHlydGZVa0hIR0JaYVE0b2hfaTVnUlhGQlR5dDQ2U1V0LVBGUU5xMVhTMXhzLWUwZ1JUdElBUTF4bVFvQTdHN1hndmNDYWF2dkhqRklBV0RiRDU4SEthejFfQ1BUTEZzT1hYdXNEamFZZ0RsNzQ4azJKTzMzWmhuQTZVOFpZZnpCdVF3YkR2LXlDSmZ6dldfbXc?oc=5",
-    "source": "tanahair.net",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:06.839926+00:00",
-    "country": "ID",
-    "topic": "Policy",
-    "query_label": "Indonesia JETP"
-  },
-  {
-    "id": "34dd611638b90efd",
-    "title": "ADB launches $70 billion push to connect Asia’s power grids and digital networks - Vietnam Investment Review - VIR",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1E1c1pSLVJuUzJyZDF1Q3pTeThuS28xdVhOVkNCUzh5a3RXcUVCaVhGWnZtV29qTEJLR19ZUVFqelFiNlpKbV9QQ3JTRFd0VFNGclptRmlwMENVa2c5bXB0enpsSDVVTGFMcTBrSlQ3TFptVzl0U1oyRXpES0s2LXFpMU1MRmk4czE2NUJ5cXlHd290cG5DbXQtSl83SjJkVTdKRWxYTm9qSWNXNWc?oc=5",
-    "source": "Vietnam Investment Review - VIR",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:31.409846+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "f30bd24ea51f4225",
-    "title": "ADB Targets $70B for Asian Power Grid Integration, Data Centers - Rigzone",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHozR3RNTzlub0xEU09HWE5xX3hRZGJ5QW05azZISzZZZ0VTODNWekVPQUVETlRDVkR0alpEU3htcHpVaUdEaHZ1bVRTSkRsVG9GNHNHU3htMVRFM01hM2otNWl3d0ZXTGtOWXRRX0RBdnBNaG5jZHExUENRUTJHOFViazdOLUhVM1g5X3psbGtvR2Zab2VuZ1lJMWp3T2xXYlhTclI5cXdLRVRUd2RLMUpqOFUzQWZ4cVE?oc=5",
-    "source": "Rigzone",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:31.410125+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "584c366ee485c781",
-    "title": "⚡ ASEAN and EU push green partnership amid energy uncertainty - The Southeast Asia Desk",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HOFB3ai1Bakp0MXhHalRHMURsX1BtNUNmRUNpc09yU1hKX3BVTFd6M3NBQ3B3TGIxSkFUNm9jOGVGV0lTWW51OVRtc0IxcUp3dFBrX1RIRWMtNVJ6NUhlTUNCcXJreG5lMHJJRTRXZWFrbGNpYkFMNi1TVUNUdzA?oc=5",
-    "source": "The Southeast Asia Desk",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:32.930875+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "JETP Southeast Asia"
-  },
-  {
-    "id": "181c801701c9efde",
-    "title": "Shared power: ADB outline $50B plan for regional cross-border power grids - Phnom Penh Post",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHlDTmR2VEFaVnRucW1KXzdhQ1BPWkdhZWt6OWw4alBKZ0VsTDdoSjUxbkM3ZW1mQXpldXlRcm5mY0tQNG5rWWF2clFGTnF4czRZc1hZV3h1SDBkOXc4ZEtqaW9adFFQa0o3N0RqZi1YMjl2TVNzTFlrNTE4cVR5d3gtZXYxeDZqNlY1ZlR0VVdQVXN2aFItSkhBX0E0Nm0wUlNlZVN3QzZwbGZDWkhiUmlR?oc=5",
-    "source": "Phnom Penh Post",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:34.324220+00:00",
-    "country": "ASEAN",
-    "topic": "Interconnector",
-    "query_label": "Mekong power trade"
-  },
-  {
-    "id": "a75e7b5cd620ab2c",
-    "title": "WATCH: Energy Secretary Sharon Garin went to the Department of Justice on Wednesday, May 6, 2026, but declined to speak to media. She was accompanied by her staff but they also refused to answer questions if she filed a complaint at the DOJ. - facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR19iakRSV3VCTWVscDZha1ZTM1pHUkFQMmVfNHhUUlBVWHJlWHVUdEVpMXpQdVdGMm1JY3AtdlBOY2pIM2JkV0t6R0VnTFRFNnE3bFNHeExMdk5rNUVKa05Gek1USEFGYnp6YzhKcTdoZ0Vvd2h6Q3dmNVZlWnNfWnUzZk1hWmc0SWl5X3Fma3g3bVNDYnZUNzMwOUE1V2ZvS3Y5S1pCM2RnS2xJcVNrZ0dGbVlEa3NST1BndlIyRUlsTU1aNlp4VnRaRW9kWlEwdDNWM2xYVQ?oc=5",
-    "source": "facebook.com",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-07-07T00:16:08.933645+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines energy policy decision"
-  },
-  {
-    "id": "90916bbe2131bd2d",
-    "title": "ADB’s $50b grid plan links energy systems across Asia - Asian Power",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVdFekhYcHFmdXg0OGplR1RTLUlJVFVxVURvUHZMd0JNY05lM0xvaHJXVHhmeHFkT3l4YTBwd1RKOWlaYlBBNjUyYlpabF9sdlRta1pfeWhCa3VtWkNrQTZZZlBpSWo4RURFNlpxWUJLRWQ0Ml94WU1oU3JJOW5kNVlWTjl1bS1HUHN6clBPLVRDdw?oc=5",
-    "source": "Asian Power",
-    "published": "2026-05-06T07:00:00+00:00",
-    "fetched_at": "2026-09-05T00:48:53.826454+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "8bd763561c6bbb81",
-    "title": "ADB, Acwa Sign $116 Million Financing to Expand Wind Power, Boost Clean Energy and Resilience in Uzbekistan - Asian Development Bank",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGRHcURUcXlwNnVuWmdwYU45aFRJZFhHNlZoUjV3bVZNWlU2V1hfTldEQVh0ZlA4alFVZGpIa1VLS09iNU4tdlY4ODFaYk1yRFlRM1pTWHRMVWlLY3pzcENzbGpsVVdqU0xOek9yQWhVUUhTallENlNEYm0wQUstcF8xU195TFlLUzkteWM1NGFFbUlwZnNSbDR5TmotNHBONGt2Z2ZKUDIteGNlNGU0T1g2U3dzV2Q3Q3NrNWRoclY?oc=5",
-    "source": "Asian Development Bank",
-    "published": "2026-05-06T05:33:18+00:00",
-    "fetched_at": "2026-08-27T04:28:35.801369+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "5677c1c08ed9af05",
-    "title": "ASEAN Energy Security Insights: Implications of the Middle East Situation - ASEAN Centre for Energy (ACE)",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnSmU5QzVPZmM4WE4zWUNDWlRNRWpXRFFvWDd5TzlYOXVMN2piQWktdFM0YlJnOHQ4dU5SYTJFVGNaS04yQVdXOWhpQmFPSE5nTGVtbGNnQ1d5YWRkZXNPcFRocmVIN29jNlo3b1pmem1pOGg0UEtiQUN3?oc=5",
-    "source": "ASEAN Centre for Energy (ACE)",
-    "published": "2026-05-05T12:02:48+00:00",
-    "fetched_at": "2026-10-23T01:23:03.760381+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN Centre for Energy report"
-  },
-  {
-    "id": "3349bd23c4b05d9c",
-    "title": "ADB to Mobilize $50 Billion to Turn Regional Connectivity Into Action - Asian Development Bank",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTVJNW00ZVVWdnRZSjA3U0sxSW9qN0VucnFUMmVrVDZPWERTQURKR1ZHVTdELVdEU2xSOWRoZFR4allocWxkQ0hzbWctNWZuOFVwSEU0bFk5Y2JycVZWNXRmMjFGeFFFaktka0k0Nk50MzBGUzg4RTV0TzZ3eWt0QnB2cGd4RVpSSnc?oc=5",
-    "source": "Asian Development Bank",
-    "published": "2026-05-05T11:26:38+00:00",
-    "fetched_at": "2026-07-02T09:54:31.410399+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ADB Southeast Asia energy"
-  },
-  {
-    "id": "38f6befc9196467e",
-    "title": "One-stop centre for solar rooftop inquiries planned - Bangkok Post",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYW5qS2FLTE9mX3dGeG5lQVd2eldhdUNaa0Rac0NWcm5wd044NlJqWXEyNG1OeWh5Q3FCVjZSbUg3M1Jtb1o2aGVJSk51VzFsQ1VjUWlrUG80TWRqQVYxcnk0aGx0RFd0aGRfdFZDT3BEZ2NtWVZFT0hSS2xUR1l0bWY0OUlPQjJqLWRnSW95eDV0MVdwLVRYZTZ2blFVbm9qaURaUWhB?oc=5",
-    "source": "Bangkok Post",
-    "published": "2026-05-05T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:13.369829+00:00",
-    "country": "TH",
-    "topic": "Policy",
-    "query_label": "Thailand energy policy decision"
-  },
-  {
-    "id": "062b81f061af249c",
-    "title": "Heat warning — Bangkok faces ASEAN’s hottest future - Nation Thailand",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zaUhERGtLaVpQMFYzaDFkdmVKNXFNWkZScXc5QzFNS1FJZ0lsWXpuN2hNTnpiNHlCckc2Qmd2ZkJlMUFJaFhqV0w4N09EeHl3XzZKNG10RDAxLUlhSElDVGVXS0FKUzA?oc=5",
-    "source": "Nation Thailand",
-    "published": "2026-05-05T07:00:00+00:00",
-    "fetched_at": "2026-07-03T08:34:06.098152+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN Centre for Energy report"
-  },
-  {
-    "id": "b2315e1ee38e11e5",
-    "title": "Bright but patchy outlook for solar push - Bangkok Post",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGF4S0cyRkpKNTFQUC1CS1pidF9MS2xZdDRvcDZkNGhzcVI1VnJmYm1HTEFDSWNDVnNhamd5MEdJSzdGcXhEOUl2T2lfMnlwOU0yd3lHLVBYMnNPb2Y0azFEUmZfa1ptMkQ2ZnRQUFYxVk84V0UtSjRubFJGTnBaUzAzMC1yNGNfZEpjWkx2LWl2YWxybTc2Qg?oc=5",
-    "source": "Bangkok Post",
-    "published": "2026-05-05T07:00:00+00:00",
-    "fetched_at": "2026-08-13T23:50:47.009334+00:00",
-    "country": "MM",
-    "topic": "Grid State",
-    "query_label": "Myanmar energy"
-  },
-  {
-    "id": "01f85ce634abca6f",
-    "title": "Singapore power plan buoys Sarawak's green energy ambitions - asia.nikkei.com",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHhOREpFTEdOQWxvcFVHNWFmUDFWZDJMYy05MWszcFhhS2FHam9WMUNtWi1EejdKaWgtRDV3QmNlRm9XVU1SUEM1dkNIbm4ycXNqLXZIVDE5OG9BcnMtaVVlWDNCS1BycnVuSklNNDFoZm1qUnJ3OTRoSHk4bVFTZUxya3FSbGRHQ0d2QVF6WE0xbUNDWTBaVjZzQm5kd2pRcHR1d2NhYVY?oc=5",
-    "source": "asia.nikkei.com",
-    "published": "2026-05-05T07:00:00+00:00",
-    "fetched_at": "2026-09-03T01:02:32.343701+00:00",
-    "country": "MY",
-    "topic": "Interconnector",
-    "query_label": "Malaysia-Singapore interconnector"
-  },
-  {
-    "id": "755e4283915c6f7f",
-    "title": "Vietnamese, Swiss firms expand business cooperation - moit.gov.vn",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDdtMVZpXzRkc0xCYjhfQ0pCNkVDWnczbGZ2cm5ITVQwS2RReklCSk1rV1pZMzBMMjhtQ1FwSFBsUUJHYlVTQmJPcVE3U2x5aHJLSkplZnlzS3J2YXNlNGRrem9CNWh6Z2l6RmI5OF9Ick1HZE1JZVg0aDEwMURnSE5ZblhIc1huVFJF?oc=5",
-    "source": "moit.gov.vn",
-    "published": "2026-05-05T07:00:00+00:00",
-    "fetched_at": "2026-09-03T01:03:29.672349+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN energy ministers meeting"
   }
 ]

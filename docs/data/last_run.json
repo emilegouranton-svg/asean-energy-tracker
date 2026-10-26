@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-10-25T00:59:19.550234+00:00",
-  "new_articles": 357,
+  "last_run": "2026-10-26T01:05:49.240804+00:00",
+  "new_articles": 344,
   "total_articles": 1500,
   "queries": [
     {
@@ -36,7 +36,7 @@
     {
       "query": "Vietnam grid state of network",
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     {
       "query": "Malaysia HVDC",
@@ -66,7 +66,7 @@
     {
       "query": "Malaysia grid state of network",
       "status": "ok",
-      "count": 8
+      "count": 20
     },
     {
       "query": "Philippines HVDC",
@@ -121,7 +121,7 @@
     {
       "query": "Indonesia RUPTL power plan",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Indonesia energy ministry decision",
@@ -166,7 +166,7 @@
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 16
+      "count": 20
     },
     {
       "query": "Singapore energy policy",
