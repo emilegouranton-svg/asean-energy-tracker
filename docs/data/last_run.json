@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-10-27T01:57:56.116702+00:00",
-  "new_articles": 399,
+  "last_run": "2026-10-28T02:06:42.772572+00:00",
+  "new_articles": 414,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 15
+      "count": 17
     },
     {
       "query": "Vietnam offshore wind",
@@ -66,7 +66,7 @@
     {
       "query": "Malaysia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Philippines HVDC",
@@ -81,7 +81,7 @@
     {
       "query": "Philippines grid interconnection",
       "status": "ok",
-      "count": 12
+      "count": 20
     },
     {
       "query": "Philippine Energy Plan",
@@ -126,7 +126,7 @@
     {
       "query": "Indonesia energy ministry decision",
       "status": "ok",
-      "count": 9
+      "count": 20
     },
     {
       "query": "Indonesia JETP",
@@ -136,12 +136,12 @@
     {
       "query": "Indonesia grid state of network",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "query": "Thailand cross-border power trade",
@@ -151,17 +151,17 @@
     {
       "query": "Thailand Power Development Plan",
       "status": "ok",
-      "count": 20
+      "count": 18
     },
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 9
+      "count": 20
     },
     {
       "query": "Singapore power import",
@@ -181,7 +181,7 @@
     {
       "query": "Cambodia grid",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Myanmar energy",
@@ -231,7 +231,7 @@
     {
       "query": "Mekong power trade",
       "status": "ok",
-      "count": 15
+      "count": 20
     },
     {
       "query": "VTMS power corridor",
