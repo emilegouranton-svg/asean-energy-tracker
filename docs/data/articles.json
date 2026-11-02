@@ -1,5 +1,16 @@
 [
   {
+    "id": "739f6007770dfa7d",
+    "title": "With a 5-tiered electricity pricing system for household consumption, how many kWh (kWh) will cause your electricity bill to increase? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObjlnOHFtR0VaclVTYzN4WWFkNDZLV3drNFh2ZjVQMWJrWUs4NFVsZWR5X3llYjE2djFaczN5VEZxM2NfbG91dFZIek82dGNSTHRrU1J1OGFkeTdfSmlqVC1ralJFVmlqeVBUMnJnSFhvaU9mdWdkVkZPUVFvdW4wOV95cjlsaW5jNXdPajlTYVlJWENFdjlRcHJmQkxlYXI0ZDNB?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-01T11:12:27+00:00",
+    "fetched_at": "2026-11-02T02:16:20.592169+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam electricity price reform"
+  },
+  {
     "id": "0cde9b5b27fc5fe6",
     "title": "Average retail electricity price cut by 2 per cent from November 1 - vietnamnews.vn",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTQzZEFFOS11eE1XY1d0aHVUQmJwNmZaaXJIZjNSRGc2QzBUVkhlN1V6Q0l2VENMMEp2QVBVVEdhZHcwOTdud2NRSndTdm9CaElOSnpIQmZ1TFVxel9mdjg4M3N0ZVdpUXBCZEJ1czBBMzh0ckd2UjF1Z01mb2tFZTIyRWZxTEl5eEI2RVlkTTB1M1dJNklLbHVmTXpvZjUtOUhPczZ3Nkhla0ppeW9j?oc=5",
@@ -97,6 +108,17 @@
     "country": "VN",
     "topic": "Offshore Wind",
     "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "7eafefbc4e867dc8",
+    "title": "Proposal to import 500MW of renewable electricity from Laos to S’pore mooted - The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUVhbHlkNmRBTldOaWtaRU1yd2s3TVdCSFBUV284TjRBemQzQTZrRExGYndMM1U3dlNNZFdMbzl6cmJyWUpEQ3BqWVlZY1o3TmFxNXBic3BhY1dVOGZaUzFLNXdwWi0xak85S0NSaDdFZTJBcXY3M1ZOVWI5Q1lIUTdmeXotVEpDNzlFMUo0c296X1BRY3J3b2M4bHZBUmx5RFJEREFTMWZnelhQSk1iOTQtdkNfY0IyTGhVdUg2eXNHckFDWG1UVmlsSnlFeklUQU5sYVRuZXlnb3g4aS11czV3?oc=5",
+    "source": "The Straits Times",
+    "published": "2026-10-30T05:25:00+00:00",
+    "fetched_at": "2026-11-02T02:16:25.965279+00:00",
+    "country": "MY",
+    "topic": "Interconnector",
+    "query_label": "Malaysia-Singapore interconnector"
   },
   {
     "id": "09ffa70a7abee73b",
@@ -490,6 +512,17 @@
     "source": "Energy Market Authority (EMA)",
     "published": "2026-10-27T05:36:39+00:00",
     "fetched_at": "2026-10-28T02:06:23.372148+00:00",
+    "country": "SG",
+    "topic": "Policy",
+    "query_label": "Singapore energy policy"
+  },
+  {
+    "id": "aa89c53e45d520c9",
+    "title": "EMA Awards $14.9 Million to Strengthen Singapore's Electricity Grid - Energy Market Authority (EMA)",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNall4blVnVm50MWR4Smk5X01KUnVXYU5OYUNtV1dpaHpqLW1SYUlBY0hjTXBxaThMVXJmRDdUbmVkWWRmUmtjTG9LNVJLdEpHaFBXWEFTZWo2ei1TUnFqRmdIZFdGQUpELTRLa1NQSzQxLTNkTjFtdER4RERUTGNzZllQQnBsVXI1bldpNi1YMkRfbTFoNmFGdkxQaEcyZGI3cFF6dldoaFN0RzNFX1EwaHk2dTFNZkduYkk2ZVJUZWNUMGJDNUgwTA?oc=5",
+    "source": "Energy Market Authority (EMA)",
+    "published": "2026-10-27T05:36:39+00:00",
+    "fetched_at": "2026-11-02T02:17:00.452122+00:00",
     "country": "SG",
     "topic": "Policy",
     "query_label": "Singapore energy policy"
@@ -1417,6 +1450,17 @@
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia Energy Commission decision"
+  },
+  {
+    "id": "f52b60c22ac36cab",
+    "title": "Indonesia Heads to COP 31: The Need to Push for Electrification and Bankability Targets - IESR",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUVIMkxjajNIcG5YNWlQR2k0UnRMbk5WWFRpaWptRVptcUc5Q2k5YXVRVkdzZ1p1VHFxeWZ6bXBhT3lwZHFhWFVKWDB4SVNmbWl0RUNqQXJETlE3N1dJXzlfSEZRUW5qT25seWo5Q1VrX1BKZnZhUVhId1hydGQtcVJDWXU2eVBaNW9FVDBIUjdGSDMyVjFFbkNvRl92Y3dFbkJnQ1VJUEdmejhndEE?oc=5",
+    "source": "IESR",
+    "published": "2026-10-20T07:00:00+00:00",
+    "fetched_at": "2026-11-02T02:16:49.633616+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia JETP"
   },
   {
     "id": "3b4c280f03db46a0",
@@ -2794,6 +2838,17 @@
     "query_label": "Malaysia NETR roadmap"
   },
   {
+    "id": "27549edaea2cb810",
+    "title": "India Highlights Regional Energy Cooperation and Energy Security at 20th EAS Energy Ministers’ Meeting - www.pib.gov.in",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91dTJkd00tb3c0WmNEYkZoM0RKcVpMZ1JDS01sSThtdXY4NEhtejRNYXNMcFFLdHRjcnNzajRpWFZRem5hUl9zeDJsTzIxa0dmMXNqY3RfUGNzMmRERWYwd1FOMFpnYVRLU0ZRSXRLbzhQcFp4WUNuaG1Raw?oc=5",
+    "source": "www.pib.gov.in",
+    "published": "2026-10-08T07:00:00+00:00",
+    "fetched_at": "2026-11-02T02:17:04.586824+00:00",
+    "country": "MM",
+    "topic": "Grid State",
+    "query_label": "Myanmar energy"
+  },
+  {
     "id": "8fd5b72513dd828a",
     "title": "No intention to delay execution of power reserve deals — NGCP - Inquirer.net",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGp0SzQ5Z0o5Z2prN2hDNWZIaGwzVTNPLVdvRzQ1dFRLSk5ja0dqRndaaG05em5SOEI4eF9zeWR4T01pU2hYZnprcU9ibWNOcTRoNnFEclVWSzlaUENoa0JDRXZTamtLdnVnRlh0WjE2cjJ1VjEyMGpFdDJQN2ttTW9zcGpseEpCLV9lX0lxZlB3UWlGR3ZZcjhjWETSAaIBQVVfeXFMTUxjNEgtbjFsOW10c2VLSWRCNE1WTGxab2JvMWVpWnNGWDN4U2l6NkFEN3BJWW1RUzJZLWQ4Y0tId2JiV2ZEYTIwMUFTdUFtZFFvX0w0TlNnWXVmZUwtdjFGMWdwMG9Gd2JfUU9teHk2NDJrcm5DajA4cGFjTHVCblptM1NmUmZwZjg3LWVDaFM3TUgzT3lIckxhYVp6VXlYSG1n?oc=5",
@@ -3540,6 +3595,17 @@
     "country": "ID",
     "topic": "Policy",
     "query_label": "Indonesia energy ministry decision"
+  },
+  {
+    "id": "bd7dad55c846d87d",
+    "title": "Mindoro-Panay grid link not ready before 2035, NGCP says - Daily Guardian",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXBjeC1jNlR0U1Rhc3A1Y2Z2NXFibGhFb055YWxSOTBFeTBHTzh4VkJleEJNeV81WXptM2hQaWFWWURGRFRYT2dQcE9NMWVCT09ZMUVWTU5oc2tDRnZlYmRmQVhVTXNoZTZzNWtKNDF6eGdWS1VSeDZPTlczZzRJOERLa0dEOFIwX1FkallUSjRwS3dWZzVzYw?oc=5",
+    "source": "Daily Guardian",
+    "published": "2026-10-05T07:00:00+00:00",
+    "fetched_at": "2026-11-02T02:16:35.063743+00:00",
+    "country": "PH",
+    "topic": "Interconnector",
+    "query_label": "Philippines grid interconnection"
   },
   {
     "id": "547615c7d52aea39",
@@ -6507,6 +6573,17 @@
     "source": "Facebook",
     "published": "2026-09-02T07:00:00+00:00",
     "fetched_at": "2026-10-27T01:57:19.589250+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
+    "id": "370bc936f48a651c",
+    "title": "NEWS UPDATE: The Visayas grid remains under yellow alert status until 11 PM today, Sept. 2, after the red alert status was lifted as of 10:23 PM. “A yellow alert is issued when the operating margin is insufficient to meet the transmission grid's contingency requ - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDdOR2ctNGVqQjlhcXFBb1VReklHREhEcmNjQWZMeEVzYXdzc3g5SXRKRVIyVmdvVHN3b0RITDY0bndYSzFIX2dxNFpRREtMWm0ta2g2NjloZGl6NFBWSGFxeGZHTmhOZUYxOVFFb2dCUG1XYlVsdnRsdjRrV3ltWUhLdml2amlJaXBwQUZCRGRmVnEyelFmZUlEeTJ4Tmp0bGdiRmZRbWlLVzMtZFNwaEh4bkJuTzRwbXdrYWJoU3NDcmh3TVBwcEZqNEVQcWxKWHU4?oc=5",
+    "source": "Facebook",
+    "published": "2026-09-02T07:00:00+00:00",
+    "fetched_at": "2026-11-02T02:16:40.802016+00:00",
     "country": "PH",
     "topic": "Grid State",
     "query_label": "Philippines grid state of network"
@@ -16421,82 +16498,5 @@
     "country": "VN",
     "topic": "Interconnector",
     "query_label": "Vietnam interconnector"
-  },
-  {
-    "id": "3bc4e93a701e77e6",
-    "title": "Eni Inks Long-Term Indonesia LNG Supply Agreements - Offshore Engineer Magazine",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQko0S1lpUlI2Q191SWl5SW9tdFFXbURYbXlqRmljWlRMX1lBNjlGS0xMb0RweXBSVkxxOHBqeWo0azBsMVFxTWNYVV85VkxmYmlXbUFBdkpBbGFUc3JmUjBVMk1JbEN4SjVHQnoxdlV6M0o2OV9objMteXVzem93Z2p4UzZ4UkRQbURWLU95aktrUQ?oc=5",
-    "source": "Offshore Engineer Magazine",
-    "published": "2026-05-22T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:01.053003+00:00",
-    "country": "ID",
-    "topic": "Offshore Wind",
-    "query_label": "Indonesia offshore wind"
-  },
-  {
-    "id": "a536018f7871db92",
-    "title": "SPCG preps for rooftop solar buyback - Bangkok Post",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjRTelpxTWNIcjM4b2ZDbjN1TkRTZWEwMUF4Q2JjYTNfZ3NQT0lCU0VwSmlLbEM2LVdVMmRCRUJzVDJxVXJtTjE5RUVzMG5zTFUyc1czMkVUa0xhRjU1XzE5aUM4bDVESTBKYXpHcWZLcld1Z1I3bGJFZGs0VkUzdVdaQTV3UUxnT2NRVmV0Sk5XM1U?oc=5",
-    "source": "Bangkok Post",
-    "published": "2026-05-22T07:00:00+00:00",
-    "fetched_at": "2026-08-24T23:28:14.713664+00:00",
-    "country": "TH",
-    "topic": "Policy",
-    "query_label": "Thailand energy policy decision"
-  },
-  {
-    "id": "618581dc86299d6f",
-    "title": "Gentari ramps up safety focus at Kedah solar project - KLSE Screener",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdocXpqZ295UVpJdGVWMktqVERIT2ppNmJnend0cmlLZ2x6UWxrdG9CdVFTbEpXQTg3MGZQeHh2aDZkRE01dUZxTktHUUFmLXYtcGZOU1J5VmppV3E2cGdMbFZ1Vjh6MS15OE5PZ0lwMHp4TmRhX2pEd3B5TVZfOVR1bEhlMldjQjJfcXNMMHhwNFN2WkNkSTZmUGZLWXBRU2stRg?oc=5",
-    "source": "KLSE Screener",
-    "published": "2026-05-22T07:00:00+00:00",
-    "fetched_at": "2026-09-08T01:04:45.055630+00:00",
-    "country": "MY",
-    "topic": "Policy",
-    "query_label": "Malaysia NETR roadmap"
-  },
-  {
-    "id": "d285efcab3cd79e6",
-    "title": "ASEAN Energy Statistics Leaflet 2023 - ASEAN Centre for Energy",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMU9Gbng1Ulo0S1BqRWVEcWc3LVdIdEVuaWgyNGh4eFZSS2ZxTzVULWp3RkVHX3EyT2FKbGpqRVhFQ2xvMzVZWEcwZmtHQ2tCalZISlRpQzluYjVNbHZTRjZTT0hTbzl6dllYN0ZnbU1MM2J5czZ2UU1ydmhhcGpGSHhwMA?oc=5",
-    "source": "ASEAN Centre for Energy",
-    "published": "2026-05-21T09:17:00+00:00",
-    "fetched_at": "2026-09-23T01:23:20.127918+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN Centre for Energy report"
-  },
-  {
-    "id": "91646e92300f483d",
-    "title": "Malaysia’s RE expansion faces gap between ambition and reality - The Malaysian Reserve",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2JINVRxc25QckJ6RzVxdzVraTZveTJHc2J2SWFjQmxvekE5bjhQMWtTbkg1TmdaT3pDS1lKNk84bWxRcXRteDR5VTI4R2hwUGxKcGdSRi01U1hwOG53XzhuMXJSb2t6VGZiVk1CYTFSajVrckM4Z3JYZ1dvQ01PYlg2cS1kU3JoSmtYWG12d01Vc2lfdTdqNUJtMDNlRlgwbzJjMnNwbVY?oc=5",
-    "source": "The Malaysian Reserve",
-    "published": "2026-05-21T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:48.607507+00:00",
-    "country": "MY",
-    "topic": "Grid State",
-    "query_label": "Malaysia grid state of network"
-  },
-  {
-    "id": "fd32efeaa23a0fd0",
-    "title": "Visayas grid on 5th straight day of yellow alert amid thin supply #ANCHeadlines - facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVF4Z3dDVzRjU29JQ0hzbG5HYXJidmVPeVRMM2hFMHRTWTdPS0xpMXl3eW1SQ0hWX0FSYkVUVGkzbUhxMExNbUJxV2J5OGdDRHpneWl2S3BPNldyOGI0SDZzN2RLS3l4Q1ZDNTcyTkdmbjViRDVaa1JCZXhqS0R4S2t1Y2FMbWtSNGc3QURGTVNybzJXVVhEajhFRjM3RkZzYnIwbE1CUkpFMWF2NlRFU0lTLUNGaUU1bXlTRDFIUlVuN1ViMUlEU3dEclRLWjJsNkJyUw?oc=5",
-    "source": "facebook.com",
-    "published": "2026-05-21T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:58.405298+00:00",
-    "country": "PH",
-    "topic": "Grid State",
-    "query_label": "Philippines grid state of network"
-  },
-  {
-    "id": "bbf04ab3bc61b5e5",
-    "title": "Asia’s Energy Transition: The High Stakes of Coal Phase-Out - Enerdata",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVNnMmlJRnEyREZCbTJFRnJEdkFsbXFtRzhFclNVbk1IY25VQmFSbGFlNTVVS0ZKaFFQWHNEVzl5dlF1X0doam5xczhuWURWeUY0eXZ6eDlFcTVITWM4Rl95OVV5S0xOQlpxX1psYjZxTlNRcVdhblRCeGh5czhSNkRmekY?oc=5",
-    "source": "Enerdata",
-    "published": "2026-05-21T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:02.499937+00:00",
-    "country": "ID",
-    "topic": "Interconnector",
-    "query_label": "Indonesia interconnection"
   }
 ]
