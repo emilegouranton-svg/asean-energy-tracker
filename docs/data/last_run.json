@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-11-02T02:17:19.867180+00:00",
-  "new_articles": 390,
+  "last_run": "2026-11-03T03:54:14.080064+00:00",
+  "new_articles": 385,
   "total_articles": 1500,
   "queries": [
     {
@@ -16,7 +16,7 @@
     {
       "query": "Vietnam interconnector",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "query": "Vietnam PDP8 power plan",
@@ -66,7 +66,7 @@
     {
       "query": "Malaysia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Philippines HVDC",
@@ -86,7 +86,7 @@
     {
       "query": "Philippine Energy Plan",
       "status": "ok",
-      "count": 20
+      "count": 16
     },
     {
       "query": "Philippines energy policy decision",
@@ -106,7 +106,7 @@
     {
       "query": "Indonesia HVDC",
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     {
       "query": "Indonesia offshore wind",
@@ -116,17 +116,17 @@
     {
       "query": "Indonesia interconnection",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Indonesia RUPTL power plan",
       "status": "ok",
-      "count": 20
+      "count": 9
     },
     {
       "query": "Indonesia energy ministry decision",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Indonesia JETP",
@@ -136,7 +136,7 @@
     {
       "query": "Indonesia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 8
     },
     {
       "query": "Thailand grid",
@@ -156,17 +156,17 @@
     {
       "query": "Thailand energy policy decision",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     {
       "query": "Singapore energy policy",
@@ -176,12 +176,12 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 10
+      "count": 12
     },
     {
       "query": "Cambodia grid",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "query": "Myanmar energy",
@@ -231,7 +231,7 @@
     {
       "query": "Mekong power trade",
       "status": "ok",
-      "count": 20
+      "count": 15
     },
     {
       "query": "VTMS power corridor",
