@@ -1,5 +1,104 @@
 [
   {
+    "id": "92be79c7dceaa4ee",
+    "title": "Lower electricity prices could help reduce production costs. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54cG5hNU9YNUpfakpabUp6cmF4NGF1RV9XX2V4MWR6VVdRUHpZSDFXMnFKQXdmcXl0ZThfMnVzeWs4Wk5hdmZxb0FWenRCbGRSdU9xSnNTejZ2SXRZTTMzdlE5ZVJucW1fZmc2bktTUUVWOUhDYk1XTTUyVEF5QQ?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-05T00:04:12+00:00",
+    "fetched_at": "2026-11-05T03:22:35.132063+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam electricity price reform"
+  },
+  {
+    "id": "3a2f240bd6abcc6e",
+    "title": "The head of the OECD's Nuclear Energy Agency casts doubt on the Philippines' 2032 nuclear target, saying that getting its first reactor operating will likely take longer than six years Link to the full story in the comments section. - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHVJdGk3MkxvUUlFQ0hWUUhiTThuMjd5YTcwZVZkcUZheVhqYW42ZDBMcTM0dkFYVVVNdTEtcHJ3cTU4WFlzNmxiUjFlLXFDZW1waGJjaGhZQmdFUHpsbjJhYnlKX2xMUGZYRldtMm5YeF9jbmNfWlRGaEFIT1F3NUk5Zi0yZlZ0Z1p3akRBZGk2TlNHTHVZbGRvX1pkVmhOenoyd21wWkFzNEppT3FJdFBoTUxfd0k2SHJxcUFra3NDZEtCM1BHVFBZZXVQTlluY01FZS1jbXVwQQ?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-04T12:35:56+00:00",
+    "fetched_at": "2026-11-05T03:22:50.632255+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "e8a7420d7a9d7ebc",
+    "title": "ADB to expand support for CAREC as regional cooperation financing target rises to 30% - AzerNews",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TV2hCeGlJUmN1MXVKV0dsWktQejA4ZDdmSVk3SDNud3oyQ25xamlLVHFRTzVDODcxeE14eExQWTJqSEJTNk43eUhYQVZmYnVMZDBtUg?oc=5",
+    "source": "AzerNews",
+    "published": "2026-11-04T07:57:00+00:00",
+    "fetched_at": "2026-11-05T03:23:24.692892+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ADB Southeast Asia energy"
+  },
+  {
+    "id": "f3e45719cf5c288a",
+    "title": "Why Vietnam still has to import electricity from Laos and China. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9YaDFrUWxWWFJ4TFk2UnlaQkRxcjhPWWYxOWM0c25WV3pYcW15MFR3ZHpodDMzb29GQTk1ZmxyWjNQZ0hTN055dkJUeUJwODVaamZNSXM0VXV2cnFhWkV3TjhXUE1TeUFwQVBmM053WG1iYWtEV3B1bjYzVXBaZDg1cw?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-04T06:33:55+00:00",
+    "fetched_at": "2026-11-05T03:22:29.998183+00:00",
+    "country": "VN",
+    "topic": "Offshore Wind",
+    "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "8c7821f6dc8221f0",
+    "title": "EGAT accelerates nuclear study, targets first 300 MW small modular reactor by 2037 - Powerline Magazine",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeW9rTUR4UF9EYzVQdklkWlF4MjlZTlY5bmZzZUFTTkQ5cHJYd2ZxZVpjNENxRnRTdVhCbWp5NFRDWDhxeGNLQ0xaa1NCaVFuWHo5cURpeFJMek5XdVF3Ny1sUTh6dlNqMFNGcVJwM0RyWHZfejQtaFlXMHZ2MEUtZVVxZmVNMkVmb1hVXzFfRHkyckw0QkIxY2pRUGphMExIMURCdVJuZkZoN1NMXzB5MUlrU19nbWd2OGw2Wg?oc=5",
+    "source": "Powerline Magazine",
+    "published": "2026-11-04T05:19:42+00:00",
+    "fetched_at": "2026-11-05T03:23:03.872333+00:00",
+    "country": "TH",
+    "topic": "HVDC",
+    "query_label": "Thailand grid"
+  },
+  {
+    "id": "3cd351a24cae75ac",
+    "title": "Petrovietnam CEO sees a future of nuclear and wind power - Nikkei Asia",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBLZ2UyQkNveFlsc1ZqZldlSnRwSkx6MGtIamhZOV93WGRibWZwNkNiYXBvQkZTam42VWtFTE5CTmJZazBiM3BGSUdJaFpmUmdncWFwal9EZDdBcGhueVluOVZuOV96N3JWX0Z3S195bUkyZzVmd3dWY3hTaFFqUTVKemp4UVZyQ2JkRHhKcjlVZU84Z2wxTFUxU3U?oc=5",
+    "source": "Nikkei Asia",
+    "published": "2026-11-04T03:57:00+00:00",
+    "fetched_at": "2026-11-05T03:22:29.997811+00:00",
+    "country": "VN",
+    "topic": "Offshore Wind",
+    "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "68cbf310f327cb05",
+    "title": "Clear project purpose, investment readiness vital in viable regional connections - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTFXSFB5M016M2U5QXlCeUNXdXpkaFcwQmhMSWlCNjF0RUttenc1eURZVlVmZEpHdXVPNVFDRmJUU09pLXpDWkEyOEE4ekRGRjJJTUI2TjZua1V3Q25qVWJOWGlGYVM3QVo1R0lUeDE4SkxDNkFHMDdIRkw2Z0lFMXlGM0IwcXVKZzFvUEJoU1FCcmh0MWVpQ3JWQUZIeVNsbG1abzNhRXlMeHFlMXhETFNJdmtNdGpKUFktRGNJWmRmS0lna25oRA?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-11-04T02:51:42+00:00",
+    "fetched_at": "2026-11-05T03:22:41.547874+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "cc8e3a60cff8a98a",
+    "title": "Philippines offshore wind ambitions meet the reality of grid readiness - Asian Power",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0xZMmNpQ1V4RUFCNlV6RXU0WW83TFg4YlExTnNscHFDWlJVSDBJd0R1UjB1MHM1T2N1c1F6R2xvZkpHWWN4QXJZTDd2LW9DbDZycC16N3FjSUxoS29hb2ltR3FCM1FTak5MbVJMamZjdlVZU0prUmwwR25XWndYUEM0cnVCMUJULU9oMmtEcWI0dVJMbDEyeHFDcHZwOUdjT3NVWXNKWDN6TkFUbzZDSW1B?oc=5",
+    "source": "Asian Power",
+    "published": "2026-11-04T01:00:00+00:00",
+    "fetched_at": "2026-11-05T03:22:46.732026+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
+  },
+  {
+    "id": "e7c61e3a669a7ec8",
+    "title": "Move over, NGCP! ERC allows private firms to build power transmission lines - Bilyonaryo Business",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTBYVjJuSUNlZzhHMDYyV2VyOWhrXzB6SS1HZndyYXJOelVndzR4RHozbVloQkh6U2FGbEx0dUJZTEJnc1ZTOThDMnBTVjFWalpJNXlLeEFIeDFTdmh5U1BySGNUczQyVE5udGxpRUVNaDQ1WlMxT2hSZGtFazZ1ODRVaVFOMTh1U0c4bVhUT251clpZVEhaV1I4eXBEQQ?oc=5",
+    "source": "Bilyonaryo Business",
+    "published": "2026-11-03T16:12:54+00:00",
+    "fetched_at": "2026-11-05T03:22:53.285759+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "58dc2bc356ca2b88",
     "title": "KEGOC forecasts 5.6% annual power load growth as data centers expand in Kazakhstan - Trend News Agency",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11bDVSeWo2X29ENVMyRTBxMjRrb0FkUUZ5ejhXTHFSTTBOeDZpMEY1NEkyV25ubFNfa1FXSXR5aEFiZ0JjQ0VSd0ZHYzF3VXlVeF9PMmJaVnZPTHEzUjNz?oc=5",
@@ -33,6 +132,17 @@
     "query_label": "Malaysia grid state of network"
   },
   {
+    "id": "ca838a479aa9dfaa",
+    "title": "TNB accelerates grid modernisation to meet rising current, future demand: CEO - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkdWRnJYVmFJMHhobHhiY01NNXAxQ3FrR1F0a1FVbUpKREpfRE53czVTRGt1T2Y1YmZUQmhQcWhKa0psbFUyLVczSk5pN1dpa0w1TTZhR1F5Y2Qyejc0MFZFdGRyTFZnNDlTZUs3cVM2VmhvcmpkdzEyRGtSdHZNQ0pxVG85aHRZZVBTcDRTLThpNVU3clRYQWVVdFdRT3l4Y2xpS240Z2lwVjBZY3FSTHN0b2pkQ0dEUklJTVBqd214a2c?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-11-03T11:25:14+00:00",
+    "fetched_at": "2026-11-05T03:22:41.547917+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
     "id": "64e7f49eff9ff6f9",
     "title": "Asean risks locking in decades of coal emissions without coordinated, ‘people-centred’ just transition, report warns - Eco-Business",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRC0wTUpTUHFfZ1JOYld6QzIyTkdXbUowVzhTWE8tb0pmUXQtX1lvZjFXZi1LUG96eU1GR1g1bVhyRncxOWhMdS15QS1rVzljSjdLRThGUXAyQ1lheld4cTdCWXZaOG5ZbDFFai15aWllN0s0b1dWYWlTOHBxUnlTNzFhdGg3RzV6Qy1XQkZCeERSMkhLWU1GcU9CYkxFbWxyOWpqbF9lakd1MXlhQ1k4NTNaLVFRdHBsbENyZzZnVzhaVFQ1SmdOd3JwaHd4TnRPZFZ2MDhGd3NMclJMazRoMXJMSQ?oc=5",
@@ -42,6 +152,28 @@
     "country": "ID",
     "topic": "Policy",
     "query_label": "Indonesia JETP"
+  },
+  {
+    "id": "6fc147af36d71fab",
+    "title": "Philippines’ energy department prepares legal defence for mining rules - Mining.com.au",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmRNVFpuUkpYd096anROdGkxQW1iZWZFREp5NHR3T2pQVHdvN0o3d3NLcXZUMXZPOG53aDc1QmZZQm5HV0VzQ2NnSm1maTJ4YmNTcjhYaXJoNWw3MjlFZFJDZkdFUk5ZelJwWk1xZFR4ckVyQzlEcU1mTGsxMk1pYzg4S04zWTRNVEJIcnR5aTlodlVsdHNB?oc=5",
+    "source": "Mining.com.au",
+    "published": "2026-11-03T05:04:03+00:00",
+    "fetched_at": "2026-11-05T03:22:50.632355+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "9d2101281a7e7dec",
+    "title": "Southeast Asia’s largest wind turbines outside China powered up in Philippines - Manila Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkRjaXUtblVtS0ZNOTJzblU2cnEzOW1qcGdZaU1LcjVyZHlQcS1VUktmTEw5NXBBeEtSWXZWZmVrbDdNby1pdzhTLXQwajZLOHZCaGNZa2ktNVplSzBNa1gyQ2tRYW1OMTBNaTVpMVlZWl8wRTNCWkVtZldNcVhFZ1BRZTItR1hVX1M0bTFYZWI4S09Sd0ZlYVg5SkJ2V29YWEN6ZlpRam9WZw?oc=5",
+    "source": "Manila Bulletin",
+    "published": "2026-11-03T04:29:36+00:00",
+    "fetched_at": "2026-11-05T03:22:51.975014+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines Green Energy Auction"
   },
   {
     "id": "421f6a08428bcf3b",
@@ -55,6 +187,17 @@
     "query_label": "Indonesia energy ministry decision"
   },
   {
+    "id": "214a199bed6a87a0",
+    "title": "Fair bid or fixed game? Semirara auction faces transparency, credibility tests (Part 1) - Manila Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFNKWEFrLUZ1ejVhYkhNMy1Fam9na2VRQzhGU1YzaDNvNHhMb0Yxbm5pV1VqR2pZWkxIWE1nMV9PQ3d4dGtOY3V5S01hRUxqdHpmUTB4Z2NLWEpnZFVnUU5JbnBhTnNLTTBSQWctMnQ1NnF3bTRmOHZydjllTmhjOW13NVNpVWpmOFctOGVENTFrRTJmdXptNUUwdnRBS05iSFkzOVpobzY?oc=5",
+    "source": "Manila Bulletin",
+    "published": "2026-11-03T01:09:49+00:00",
+    "fetched_at": "2026-11-05T03:22:50.632440+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
     "id": "016873a50cb85c54",
     "title": "Lowering retail electricity prices is aimed at stabilizing the macroeconomic economy. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHV1bENKMXNibzZIR3RiMFFNOGNpcmhLajNZRTdrdk4tNDNTVDVHUmFjOWdwQlV1SVhMc3dCemFKRFZiRF9vYlFqLXZXU2hDVWZUUzc1TkxnUVFDWXFVTnNGc3oyUDZXQmplSU5mNE1LS2hPT19lajdNREdwRFBiSllCTDJvZlk?oc=5",
@@ -64,6 +207,17 @@
     "country": "VN",
     "topic": "Policy",
     "query_label": "Vietnam energy policy decision"
+  },
+  {
+    "id": "fb0c6e14103d4d75",
+    "title": "Mubadala debottlenecks flagship Malaysia gas asset - Upstream Online",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFVXclVnbjJxa0ozRW43QzRfMDA3T25YeFp2VURISHRmQndHRUd4NC1lNTFjdGMyZnJhMTZCNFpTTWU4RW1RS2V3MkQ2X214eTR3aVI1Ym85T09TYXZLbmp0Q0xwYmZobWJFQ1B2b3lfZy1oN3BGWjZFa19uT1RMRDdtejd6VkItMldiS1M4M21xSTJVZDk2SUQ0VUc5a1p6RnVKUDFOZHRZaC05eXVabg?oc=5",
+    "source": "Upstream Online",
+    "published": "2026-11-02T21:46:43+00:00",
+    "fetched_at": "2026-11-05T03:22:38.915627+00:00",
+    "country": "MY",
+    "topic": "Offshore Wind",
+    "query_label": "Malaysia offshore wind"
   },
   {
     "id": "1d1e63d052b397be",
@@ -143,6 +297,17 @@
     "query_label": "Thailand cross-border power trade"
   },
   {
+    "id": "428a3401fb0d870d",
+    "title": "Opinion: Asean’s trust deficit: Powering the region's transition securely, and where Malaysia fits - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUjJlQ3hXdHMtQ09DSG55bFhMQ2habm1wX0FKQ19iVmQzRGZEV0lwUXdMbnlKTGNSdnNuR2w3bHZ5MWh2WlRDVFB2anprNnB5a042SEQzbDhVV1N0MTNuR3hjS2RRUWVXZmpsY3hQTTRBSm5vakZ3dEdOcEQ1VlVWVmJral80QVR3ZmdndUZjazg2SDBYRzU0RnZ6VDdBa2tmWEQ4UW5FNnNrWFZlc1puS1p1Q1RHLVZpNm9rUUNMNGlDVnMzRHhZNFQtQzBoRm1FelR0Z29pUW83NWQ2dWc?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-11-02T03:30:00+00:00",
+    "fetched_at": "2026-11-05T03:23:05.148416+00:00",
+    "country": "TH",
+    "topic": "Interconnector",
+    "query_label": "Thailand cross-border power trade"
+  },
+  {
     "id": "5118f8ecc4d266a4",
     "title": "Offshore wind power attracts billions of dollars in investment. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81d1dFNFdwVUpUMmZBNGJBdGVQU0FUSG5HNEgwd1dkY09pbkxKc0tFOEJkdFpfODhOd3VFSzY3T1d3WXdGWWlTaVozNnJ2YWZzRDVFbWgxTWJsNFljOUdYejlJOHBvbUFxd2JJQ2lxUWhOR2c?oc=5",
@@ -207,6 +372,17 @@
     "country": "TH",
     "topic": "Grid State",
     "query_label": "Thailand grid state of network"
+  },
+  {
+    "id": "b51eb4483205f774",
+    "title": "Project Airbag - Philstar.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMNXV3aGRQVVdiZV9KQ0ZBQ1RFdUZlOGpKcE14U1RNQlJBdUlXR1lta1ZVVHRUZm9oZXhtOEdHZXJpWXJoWVFjVm9mVTVOWUx2bzM5SFVKN1JKelVYNHN5a1g5MnBnRy1pYVk2X1NqS1lIX21q?oc=5",
+    "source": "Philstar.com",
+    "published": "2026-10-30T16:00:00+00:00",
+    "fetched_at": "2026-11-05T03:22:53.285814+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
   },
   {
     "id": "fa7a38ce2ae9678b",
@@ -1243,6 +1419,17 @@
     "query_label": "Vietnam offshore wind"
   },
   {
+    "id": "f9491730605368a8",
+    "title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project - Offshore Energy",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1RIWEpTSUZCX0JPVmZuSnRHZlJUNDFyVmFCamxuVmRWWGxSUjZJUDFtRDBiTVdDREdaUzI5eFlvand3Vmo5ZkdKNEFaT3ZGckVuRG9RUkRleFFYb1VTZ3lkNzBNVkRHSjFiU192NnlXaXBvTkxNNFplSW9yQkdCS2h0LWZtdUI3SV9EcUpKclFtaVJHOF9oaTl0U1VCWmhBUWVfTld2OTlfcXNFSkhPMTBOZw?oc=5",
+    "source": "Offshore Energy",
+    "published": "2026-10-23T07:00:00+00:00",
+    "fetched_at": "2026-11-05T03:23:19.379774+00:00",
+    "country": "ASEAN",
+    "topic": "Offshore Wind",
+    "query_label": "ASEAN offshore wind"
+  },
+  {
     "id": "cdd2ad5f4d1e5e92",
     "title": "CIP inks Vietnam offshore wind pact - reNEWS",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lZmVQcDRBbzI1SGpmd25obVNLRUNxcmN2ejBHSkxtM2MwTGRLb0RwQ01aVTJTdExhaWdJWlQxVE9iS2U0d1FtMC1RUmphWmZ1Zy1nX2lnUEdvWG9mQ0V5U21SVkJjai1kdjJFMEo3RmdUN0hlcUd0UGVYQnFjUQ?oc=5",
@@ -2088,6 +2275,17 @@
     "country": "TH",
     "topic": "Interconnector",
     "query_label": "Thailand cross-border power trade"
+  },
+  {
+    "id": "04f9f59dcbd881c3",
+    "title": "Offshore wind can help ASEAN meet its RE goals, says GWEC - Manila Standard",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWRkazNQZzVIZUwyclBBTkJCMDVobXlxVUljT1dTX1pYQkJXMGtrRHRZbDhPQ0JtQnFlRlJyMU5Gc1pjTVRRN3BwZmJOSVAzOEpmRG9DYUZzenNkWDV4WlhTalBrRXp4WFZsLUVLZlFFcExzbXlENnNjQjhiWDhTVl82MFlLVm1zSVVqVE9KbU5fYkM1VnEtSWFiMmFScW1DX0VHNVY1WEROd1FIc1h0VVJqNnk?oc=5",
+    "source": "Manila Standard",
+    "published": "2026-10-15T07:00:00+00:00",
+    "fetched_at": "2026-11-05T03:23:19.379738+00:00",
+    "country": "ASEAN",
+    "topic": "Offshore Wind",
+    "query_label": "ASEAN offshore wind"
   },
   {
     "id": "8e26234d246b7bcd",
@@ -16300,203 +16498,5 @@
     "country": "ID",
     "topic": "Policy",
     "query_label": "Indonesia JETP"
-  },
-  {
-    "id": "7e5c589b64c6b9d5",
-    "title": "Climate Litigation Updates (May 29, 2026) - Sabin Center for Climate Change Law",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDVoYTBnTW9PNVdsTUFaaXp3eENodFVRZ01JMjhDZkNlQW1NX285UTc5RmZuR0dtZmlSd0tWVXVDWmUzM0ItUEV3eHJ5aUpMOGJKODZVV00wNGE4SnJwZ3VUSVVVUU50RXVZVUpOenV1RHFnTEp4ZXZZRjlGWVpIN1h3?oc=5",
-    "source": "Sabin Center for Climate Change Law",
-    "published": "2026-05-29T07:00:00+00:00",
-    "fetched_at": "2026-08-29T04:06:16.966395+00:00",
-    "country": "MY",
-    "topic": "Policy",
-    "query_label": "Malaysia Energy Commission decision"
-  },
-  {
-    "id": "e8702fa535540d5e",
-    "title": "ENERtec Asia, MIDA Team Up To Drive Renewable Energy And Storage Investments - BernamaBiz",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPYy1uZnZmbVkyM2pvbE5tQVFOazlFSUhBQU1tbDVIc3A3SVRlaDEwd1lJX0F6UDA3d1VLUWhKRWhweDY0TUNaZjNFY2M1S2VBQjRjZg?oc=5",
-    "source": "BernamaBiz",
-    "published": "2026-05-29T07:00:00+00:00",
-    "fetched_at": "2026-09-12T00:59:55.194957+00:00",
-    "country": "MY",
-    "topic": "Policy",
-    "query_label": "Malaysia NETR roadmap"
-  },
-  {
-    "id": "8231e64e5d95d71d",
-    "title": "Electric collective: Europe’s clean energy future without Russia - European Council on Foreign Relations",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWJYdWV3aDRFVFNyc0ItVTN4clpEd0JEWnljQzR5b19ndHlVMTYxa09pcWhTNWtxV0M3eVh1S2F6SHo5Z0xJVzZlLW9NRFdvZ2ZrWlNPLTh5NHZZUmFuOEdOczNfWjFJZVlLVmE3bXZsc1BIUldZdXNHTTc3WnRaeERjclVNRDl6aVZKc2x1anhkLXZ1NEE?oc=5",
-    "source": "European Council on Foreign Relations",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:34.385675+00:00",
-    "country": "VN",
-    "topic": "Interconnector",
-    "query_label": "Vietnam interconnector"
-  },
-  {
-    "id": "4137e715d157fb29",
-    "title": "Deputy minister says E10 gasoline plan is not being imposed on citizens - Báo VietNamNet",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhEdWNfaXJoMjVjTEJ3TnRzM3Bxemo5blplSGJtVVEyR2VqdzFpRzdzSXN4UnJ5VDdpOVREOVlfOHJtRkZlTGZWV1F4MDF5YW9pQkhKMF9KNEZxWHlRMmtLdXZheDNudWdpQ2RUaFYyV3d0RnVzaWhkLXVoZ1hGbGkzNzN2dFFlazZOelBoY2JuSkIyZXhPdnBoeEdnLWczS0dZR1pRNUZJQng0cEE?oc=5",
-    "source": "Báo VietNamNet",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:37.399500+00:00",
-    "country": "VN",
-    "topic": "Policy",
-    "query_label": "Vietnam energy policy decision"
-  },
-  {
-    "id": "dff224385bc2fe08",
-    "title": "E10 Biofuel: Not meant to impose or restrict consumer choice - moit.gov.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkdlcmh2OWxmdnRoOHJxYkNaUUl6dy1vT3ZQYVh2dUlMQlZPOGFBa3d6dk16c1AyS0lxbVQxZUQ5ZU9rcXRIRDlOME5uMmJqQ1BpcTMxS0tDM2VIWEVUS3VPNXBRYml0US1YOEs3SUhOaVIyaGFVUDBKOS1IX2FPcHB6dWZrdHFpTlZiM2dXOThrOFQ5cUpr?oc=5",
-    "source": "moit.gov.vn",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:37.399814+00:00",
-    "country": "VN",
-    "topic": "Policy",
-    "query_label": "Vietnam energy policy decision"
-  },
-  {
-    "id": "96c1bdb629d7d9fe",
-    "title": "Indonesia to develop first wind energy conversion project in Batam - ANTARA News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVJhODNXYVRfMEZvaUdZc1FUbTUxRy1SaG91Q1FYOXNiYVRSVkM0eTBveEJGMnQwaXBrNUlqbkRKQ0NxbjNaR1dpTkczVTlEaEhkMHFTYlM3eGRHQzctUW00LUVRV1BjOGlaalU2Ti1VR1gwajJ0RGdwZUYyZERTaHNyRzRHTGRpamJkWWNGdGVtUHUzZ2RqMUhDcTFBNi1xZlNWZ0w3NNIBrAFBVV95cUxPNmY1OFBOWS13OEd4aUVVak01LWVET3hOd0NaZnNxSGFSZWdwX1FNQUJtTWQ2by1yX2xZWURmcXp2MWE1T3F6RFNiX2ZnS2pNTXlYaVRKb3FTdTRNOGtfQWRLSHI1LV95N2trS0IyRXRxYld5NEhiRDZmcWpiWVRsTjJQZjQtRFNfQ0JTZlo0UVhNUGNoNE1aZl9UWmY5bnFfVmkyblh2MDI2X016?oc=5",
-    "source": "ANTARA News",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:01.051845+00:00",
-    "country": "ID",
-    "topic": "Offshore Wind",
-    "query_label": "Indonesia offshore wind"
-  },
-  {
-    "id": "5316b517ce0196cf",
-    "title": "SeaTwirl, Mooreast collaborate on Southeast Asian floating wind market - Baird Maritime",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUhDRTJsZTVYbUhzVmhEVTFsMHVlSy0wbDBlZGRfbGNHNW1ZVFRRSFhubkljaTNjVWgwM1EyRHF5LU10dVdGc0tibDE0WTE1YUg1VGstOWNpT1Z0bzBBSHd5NlJFM1RLSzNOQy1raTRUbFYweTlLZDFlNXZ2ZzFqMl96c0hveWRZVDNPT3VrWHVOaUNjSEJaQzhrcGZOMTlBV1pvSzB5bkpZMEdZRFpBRlJMUVNPb2wwcGl3S2lvUjJNbEhsd1FIYXZfWHJwUdIB2wFBVV95cUxQWERTaTBsdDgxWlBJUTJrdllOazEyaXhDVVZQdTVxeWQ1YkF3T2t2ODh2azczdi1TZVNsTGdSYUtPNUMzbW9uSzBOa1FHY3gxSy1rVkZucG5KRGVjVDl1VjFDemZHNVV6SEh4UjhuUmhxeGZjVkdLX0NTT3djblFGUkFtY3lOSTBEVy1sMkJPRVR0WG9RVlh6UE1wc21mMzVkUVZidW12ZkNaWHA3eEs2azMzQUVNLXFQNW1HZFJsRU9xZmRrZ3BqN1RZQjl6akNfWGViUjBmRDdxVGs?oc=5",
-    "source": "Baird Maritime",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:25.827761+00:00",
-    "country": "ASEAN",
-    "topic": "Offshore Wind",
-    "query_label": "ASEAN offshore wind"
-  },
-  {
-    "id": "a8bd0a00070da712",
-    "title": "SeaTwirl, Mooreast Team Up on Southeast Asia Floating Wind Push - Offshore Engineer Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXFTQVNQZ2tCcXl3cW5IczRZdnE2M0J2ZmV3QWhMSW5OX3FrNFZkQ0NaLW5pbHZkV1ljblhRaUJmR05va2hVcnQ1RDV3ZmNJSVRmMXBCZFh3V3Y1RFNyS3dhRVhXXzFoSktQV3cyb2x0U053NjVvNTh1bXdJVFdIVDg0Z3VKczVXaUp5VE5IcTI0SGxUVEhZLWNxUXRHV1JnLXc?oc=5",
-    "source": "Offshore Engineer Magazine",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:25.828052+00:00",
-    "country": "ASEAN",
-    "topic": "Offshore Wind",
-    "query_label": "ASEAN offshore wind"
-  },
-  {
-    "id": "ff632e7d89c89972",
-    "title": "The financial networks behind Mekong trade - Bangkok Post",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbURyQnFvX1pxNmktZUs1emhUZnd2OHVsRVJ5c3lwbzhaY0pXM3VSOUY3aWRsUFduTU9YeHdGaGp6Q28zaDBmRjBDSXV3WlJwQVJfeFU5Wi1XeW42Y3ZyMU5pUEVOZzM5bGpQbjZBSjg5WXFFZFMtVW8xY2NJaFU1dTcwUWNFRkhabXRUUUdlVWwyZjk0SFUxYXR2MA?oc=5",
-    "source": "Bangkok Post",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:34.324033+00:00",
-    "country": "ASEAN",
-    "topic": "Interconnector",
-    "query_label": "Mekong power trade"
-  },
-  {
-    "id": "fa1d2b408069ce90",
-    "title": "SeaTwirl enters strategic collaboration with Mooreast in ASEAN floating offshore wind market - beQuoted",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGZwR1AzU0R4U2dTNmdRVExDVTJIRDZLd282RnpQUk0zbWw0RmkzY25BRl9PNWgtT3RzV1p1ZzE2XzVfb3JLUmdPUVdrdkVkcHRvMG9aZ1VTZWRDbk5FaFV6ajhUbjk4SGpwTkY0UGZRTUNYRG5oUWIyV1pPa1FGTDFrM0l4V0VfZjg5eG5pTnlLZ2hUeDFtYnh4LXgxYlZReUZVU3E1bW93eV82STJKcHZwNlhNWTFjRjg0LVR2MVkyMUE?oc=5",
-    "source": "beQuoted",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-06T07:15:56.487722+00:00",
-    "country": "ASEAN",
-    "topic": "Offshore Wind",
-    "query_label": "ASEAN offshore wind"
-  },
-  {
-    "id": "14d360332d7b3b11",
-    "title": "Disability and electricity dependence: a dispute between rights and the market - Open Global Rights",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanRjTFR0YXdJX19fNkJkT0cycmFLdXdDdlN4MHJ3UVJRR1Z5SHViRmtyRHd6c1lCTUR4aHpzLTJva3NRalZGYVQ5TWdtdjU4eFNfN3h6LV9fTUdvV3FGQzF4eDB5ZF82ZzJldGRTTmQxTG5JOUd2NVB5M0R0X1pkM2FfaVRCcGFsNExteFRGQ1hINFlvdXlONkpuVnE0dV9vSk5pcFdvdWFtYmZudXR1QQ?oc=5",
-    "source": "Open Global Rights",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-07T00:16:37.317470+00:00",
-    "country": "MM",
-    "topic": "Grid State",
-    "query_label": "Myanmar energy"
-  },
-  {
-    "id": "21c7f6fbe831cd57",
-    "title": "Akrocean to Start Floating LiDAR Campaign at 500 MW Vietnamese Offshore Wind Site - offshoreWIND.biz",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVpORFBDNmFRTC1fc2JLWEdFRGg3Y2ktYnoweV9jWjJfT1pDWFVkc3VXS3U2WEdES0pack5GaWpwUW5IWHVoRTNCQm95NFVqOEc5dWZmZHRGVV90a25jdkl2ZkZXc0Rfd1FUUVYtV3JTSVA2RFczX2xfWmxFR2JqX1lRb2JySzBkODhSWC1rdnFpZkRtNmdnN1dLLXlnUDFiazhHWGo2c2xrdHhJSTJjMkVoZUp0OC1ObnFZSmdGTQ?oc=5",
-    "source": "offshoreWIND.biz",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-10T13:24:34.485418+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "7ce51f2cf4f7e343",
-    "title": "Electric collective: Europe’s clean energy future without Russia - European Council on Foreign Relations",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWJYdWV3aDRFVFNyc0ItVTN4clpEd0JEWnljQzR5b19ndHlVMTYxa09pcWhTNWtxV0M3eVh1S2F6SHo5Z0xJVzZlLW9NRFdvZ2ZrWlNPLTh5NHZZUmFuOEdOczNfWjFJZVlLVmE3bXZsc1BIUldZdXNHTTc3WnRaeERjclVNRDl6aVZKc2x1anhkLXZ1NEHSAZsBQVVfeXFMTzNMT2haM2szNVpCNU1fOFI2Wml3bENDUlN4UlVvLTZFYXAtRElQSnpVcEJCT2w3S2lja2ZKcVg4Yko0Rjg4WkVwY2I1dG5hVlJEcVJINjZ4VkRzRFBmV3FzNVc5bnFIeE5GOVhoMl8tdkt1cWllcS1uNnR2WjlseGFxZEFPQlkwWG1Ta0RzRmotTlBXeDd5aVNTTVE?oc=5",
-    "source": "European Council on Foreign Relations",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-07-17T00:03:57.883255+00:00",
-    "country": "VN",
-    "topic": "Interconnector",
-    "query_label": "Vietnam interconnector"
-  },
-  {
-    "id": "dc3ee15fc5b054af",
-    "title": "Global offshore wind: Taiwan | Vietnam | Global law firm - Norton Rose Fulbright",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3M2cEE3bXc0cXBKU09DdlZPZkhaR3JHTTRsSzZpdnlyR3JKVEZXcU9ZMFBZc3dTVldUOTZja0Rra3RhbVhQZWJYYW4xVHBKN3NyR2w5cW9FSUhrZGd1bVNGWS0yaHdqa21sYm04cVZiM3hOdm9IWTJWaWNCODc4SzNDUDlqbDBzTnkwbDFnSjNqMmN0X01TcVg2cC1xaU5wbzJz?oc=5",
-    "source": "Norton Rose Fulbright",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-08-18T23:27:50.862273+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "51c01b783a0d16f0",
-    "title": "HSBC China Deploys $4 Billion Sustainable Fund with Indonesia Grid in Crosshairs - InvestorTrust",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnF1bV9vZzBUMDVmaUxZR0l3TzFZQjJfaExxWWludnFJOVNjWU1JLUZlclJDeWdLbncwRnBvUm9OcWdodEQ5VEo3RHZvT0J3Z2d4VWlZVGNHdEFuT0VYR0puNjFHYTVyQUVLQW1QRHYzRXRZRWxwZTBRUnRSZzUtUWhuVldIWmdLaDQ5UDVDTnQzMFI5RnBUVU1yd3FHSHdqSWQ1cUFDTHB5NEs3OHc5OE80azNRVmtaalVpekZ3?oc=5",
-    "source": "InvestorTrust",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-09-04T00:54:08.768861+00:00",
-    "country": "ID",
-    "topic": "Policy",
-    "query_label": "Indonesia JETP"
-  },
-  {
-    "id": "d6571f3ee11c9dd8",
-    "title": "Akrocean to Start Floating LiDAR Campaign at 500 MW Vietnamese Offshore Wind Site - Offshore Wind",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlo1X1IxNDN0OXBlaUNOa1dtRTMxMWpSa1Y3X2FYMW1oV0Mwc2N1RWo2QXRwVGs0dkNfdklGUHNCa1ZWMWhlQ2Vyd3VwX1FzNU9DZndicUlXSVl5N0ZJTzlPb25pS055bFI0S3FaYjIxeGFkVS1MTWhaalI5Wkp3SEt0UlNGSU9Ha0czcDBtRG1CRFVQVklXUTFaZlJ3RXJpcURfT0g1OHFpdkpwNFFQQktVdFFIaE8xOXJwSFl3?oc=5",
-    "source": "Offshore Wind",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-09-09T01:08:34.728942+00:00",
-    "country": "VN",
-    "topic": "Policy",
-    "query_label": "Vietnam PDP8 power plan"
-  },
-  {
-    "id": "5821abe6662c8f13",
-    "title": "Akrocean to Start Floating LiDAR Campaign at 500 MW Vietnamese Offshore Wind Site - Offshore Wind",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1QxNDZOblF2MWhXR3hBOXNWMmpUVlF4c1JNWWhvUm5Qa1N1cGgyT0lSWmF2VXltNFhUXzFNenBlUDFSWWt4NmZvcEdyTkt5SHY1UExnZGtjd3B3LVRURmhzbnFzZ1BVd3MxSFNkVlJVNkptWjVoeWZQU0VIY0YtVk1GOHhLNV9FUE96dXMwd203WmliLUFwa21oOHRYZ3poRUl0RnFFWFJVVnRXeVNWdXB0aVFhUktj?oc=5",
-    "source": "Offshore Wind",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-09-10T00:57:11.605222+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "78c69185f91c4cfd",
-    "title": "Indonesia to develop first wind energy conversion project in Batam - ANTARA News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVJhODNXYVRfMEZvaUdZc1FUbTUxRy1SaG91Q1FYOXNiYVRSVkM0eTBveEJGMnQwaXBrNUlqbkRKQ0NxbjNaR1dpTkczVTlEaEhkMHFTYlM3eGRHQzctUW00LUVRV1BjOGlaalU2Ti1VR1gwajJ0RGdwZUYyZERTaHNyRzRHTGRpamJkWWNGdGVtUHUzZ2RqMUhDcTFBNi1xZlNWZ0w3NA?oc=5",
-    "source": "ANTARA News",
-    "published": "2026-05-28T07:00:00+00:00",
-    "fetched_at": "2026-09-20T00:55:37.591507+00:00",
-    "country": "ID",
-    "topic": "Offshore Wind",
-    "query_label": "Indonesia offshore wind"
   }
 ]
