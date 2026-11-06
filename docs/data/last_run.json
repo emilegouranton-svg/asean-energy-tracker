@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-11-05T03:23:29.534273+00:00",
-  "new_articles": 438,
+  "last_run": "2026-11-06T03:20:33.250131+00:00",
+  "new_articles": 417,
   "total_articles": 1500,
   "queries": [
     {
@@ -51,7 +51,7 @@
     {
       "query": "Malaysia-Singapore interconnector",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "query": "Malaysia NETR roadmap",
@@ -81,17 +81,17 @@
     {
       "query": "Philippines grid interconnection",
       "status": "ok",
-      "count": 18
+      "count": 15
     },
     {
       "query": "Philippine Energy Plan",
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     {
       "query": "Philippines energy policy decision",
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     {
       "query": "Philippines Green Energy Auction",
@@ -116,7 +116,7 @@
     {
       "query": "Indonesia interconnection",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "query": "Indonesia RUPTL power plan",
@@ -136,12 +136,12 @@
     {
       "query": "Indonesia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 7
     },
     {
       "query": "Thailand grid",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "query": "Thailand cross-border power trade",
@@ -161,12 +161,12 @@
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     {
       "query": "Singapore energy policy",
