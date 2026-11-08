@@ -5203,6 +5203,17 @@
     "query_label": "Vietnam HVDC"
   },
   {
+    "id": "c40c66b567538e65",
+    "title": "Eni broadens its exploration horizons in Southeast Asia with another offshore block - Offshore Energy",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXh0NXZvQ3M0aWlrOWhuWGNyRk5sTThhakRwY1pGa0pTZDYtV3FkREtKX3R3M09vY2g5empUak9YaEFfQk5tQkhXSlVHRF81UHRsdjVyY2lzekJVMXhrMi1ILU5rR014WXJaaURXdnlaOUtMcE01TWxPUUJ1ZDhBMkVyVmNXeWRNUU4wOGFlWlVjNUlZSnF3RDhNcC1TdjRjSUh4VnRzTVIzM0hyYkVQWkFYT2JNb2NuTExvQ19GdEVnSGd1?oc=5",
+    "source": "Offshore Energy",
+    "published": "2026-09-25T07:00:00+00:00",
+    "fetched_at": "2026-11-08T02:14:31.179270+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
+  },
+  {
     "id": "2633318588a0f329",
     "title": "Pacifico Energy advances 1.3GW offshore wind project in Vietnam - Asian Power",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHBLcExRQm1LUXlMZUFTOGdLNHVxUHVXaFFacm5tYmFncUZzZ3l3X3o3OFlPSGpQdXc4WWJiWEx4S3dGeDBHYWd2cS13UE1XNVV3T0lTS1Y5ck5YU0JLWXZEM0pvYk10RExsTUdoblRCcEtubWpOVDlPTHRUNXNWb2RycEFhRXYyWGk5eDVSUTdUQndRV0E?oc=5",
@@ -14993,6 +15004,17 @@
     "query_label": "ASEAN offshore wind"
   },
   {
+    "id": "1825890ff9b5924f",
+    "title": "Philippine News Agency. . WATCH. Michael Baylosis, Planning Manager of the Transmission Planning Division, Project and Engineering of the National Grid Corporation of the Philippines says on Thursday (June 18, 2026) the power demand in Negros Orient - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXNQMmJadzZ6dGFEV1gtcGdnUlJYaGtleThXZWFocnVWRjY1N2drYlZ2OUx4d1kxVTB1d2stdGMxbzA2M2VTNHJjOFhQZUxab054emJOenhURUV5cjNOTmFPdTVVQ3V1eUNuS2pBTEZrczhZNVRjVXJ2MG1ISXlGU3pGajVqUlRjV3A0blNycl85a3VrNmhHeDVHcDJxV2djZnZoSXo5elB5Z3NnUjNRWXVURXJDMjF1RHotc3ZzV2V6ZEhsdzNCTTRoV20xWUxfV0pxMHlR?oc=5",
+    "source": "Facebook",
+    "published": "2026-06-17T07:00:00+00:00",
+    "fetched_at": "2026-11-08T02:14:28.645761+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "70471d01c7c0202f",
     "title": "Overhead Transmission Conductors Market Demand to Accelerate by 2035 Amid Grid Modernization and Renewable Integration - News and Statistics - IndexBox",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGhXTlJfZmpyZG9VR1JZU21nNk5URW5IWnpnb0ltYXBfX21fMjUyaGJvZU9sLWFXTzhSbE80MWhxaHhMNkhUMjZmak5OZXgxZC05NjR0V2NFZFlUN2ZIZXNCdVk3R3RYc2FLNE9zNEF3ZFcxZWZvdHZjb2tUTHI0bFZialNOWUpwYnVVdmpFbmhrdHVoMUp4Sm43bmdJYTM5cWFkYi1SaVA1VUM3QWNOSGM5a3UtYXdBVGxDLUZSMWR1WUhsZ2p3bEN5VGJ2VWl5Y1VsOWhzQVBQUQ?oc=5",
@@ -16476,27 +16498,5 @@
     "country": "KH",
     "topic": "Grid State",
     "query_label": "Cambodia grid"
-  },
-  {
-    "title": "Indonesia's Wind Breakthrough: Batam Hosts First Wind Energy Conversion Facilities",
-    "link": "https://batamnewsasia.com/2026/06/02/indonesias-wind-breakthrough-batam-hosts-first-wind-energy-conversion-facilities/",
-    "source": "Batam News Asia",
-    "published": "2026-06-02T00:00:00+00:00",
-    "country": "ID",
-    "topic": "Offshore Wind",
-    "id": "84aae0bdd10fad67",
-    "fetched_at": "2026-07-02T07:45:50.729326+00:00",
-    "query_label": "seed"
-  },
-  {
-    "id": "e98c0663b8de05b6",
-    "title": "Why grid readiness is becoming Southeast Asia’s next tech constraint - TNGlobal",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnZCUXJ4ekRQSV9ZN0xweG1pZE1uVnI1QUc2dDdESUtfOEZNNEs4OE1XSFBsTHpMRHBpYTlEWWV2STZWa2gtNEZNVHRRZTdzWnlfZEZlSDJaQkxTTkR0eGFLbzhJLTN0czlEbDE1UGVoQ0MtN2lhczA0bWtZNm9IMmtTanVrMGptTnVXcUdzTnVaanV3NGxlMkdESXhETjd2NjVlYXJ3?oc=5",
-    "source": "TNGlobal",
-    "published": "2026-06-01T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:34.385071+00:00",
-    "country": "VN",
-    "topic": "Interconnector",
-    "query_label": "Vietnam interconnector"
   }
 ]

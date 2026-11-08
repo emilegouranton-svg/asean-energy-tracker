@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-11-07T02:39:46.684400+00:00",
-  "new_articles": 430,
+  "last_run": "2026-11-08T02:15:04.811203+00:00",
+  "new_articles": 434,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Vietnam offshore wind",
@@ -51,7 +51,7 @@
     {
       "query": "Malaysia-Singapore interconnector",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "query": "Malaysia NETR roadmap",
@@ -81,17 +81,17 @@
     {
       "query": "Philippines grid interconnection",
       "status": "ok",
-      "count": 16
+      "count": 13
     },
     {
       "query": "Philippine Energy Plan",
       "status": "ok",
-      "count": 14
+      "count": 16
     },
     {
       "query": "Philippines energy policy decision",
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     {
       "query": "Philippines Green Energy Auction",
@@ -136,7 +136,7 @@
     {
       "query": "Indonesia grid state of network",
       "status": "ok",
-      "count": 20
+      "count": 8
     },
     {
       "query": "Thailand grid",
@@ -161,12 +161,12 @@
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     {
       "query": "Singapore energy policy",
@@ -176,7 +176,7 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Cambodia grid",
@@ -231,7 +231,7 @@
     {
       "query": "Mekong power trade",
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     {
       "query": "VTMS power corridor",
