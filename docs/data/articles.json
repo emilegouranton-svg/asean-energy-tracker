@@ -209,6 +209,17 @@
     "query_label": "Philippines grid state of network"
   },
   {
+    "id": "d20e77a2e0ef4fc5",
+    "title": "Supervising the entire power project implementation process. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GakFxa2pVd2dyWm9LTlJaM1RhcGpEQjY0QXEzd1ZKNXR6UHQyaDJJQmd0SVIyWnJjV2NraWpTQ25BZkxYcnpDR2RSTFRRNWVobmRaY2gwU2lnV1FjdWE1U2Z5b0lqVk0wSVdJdkpkT3NyOGRicV9POE1XYUhhZw?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-11-03T15:41:04+00:00",
+    "fetched_at": "2026-11-09T02:31:11.713359+00:00",
+    "country": "VN",
+    "topic": "Offshore Wind",
+    "query_label": "Vietnam offshore wind"
+  },
+  {
     "id": "58dc2bc356ca2b88",
     "title": "KEGOC forecasts 5.6% annual power load growth as data centers expand in Kazakhstan - Trend News Agency",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11bDVSeWo2X29ENVMyRTBxMjRrb0FkUUZ5ejhXTHFSTTBOeDZpMEY1NEkyV25ubFNfa1FXSXR5aEFiZ0JjQ0VSd0ZHYzF3VXlVeF9PMmJaVnZPTHEzUjNz?oc=5",
@@ -1989,6 +2000,17 @@
     "country": "ID",
     "topic": "Policy",
     "query_label": "Indonesia JETP"
+  },
+  {
+    "id": "441f331f3aeaeae1",
+    "title": "Utilities’ new energy challenge in Southeast Asia - NTT Data",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmVmOGVIRjRnM3gtSy1OQ3I4Y0ptZTBLaWlvaDNmZTlLME1oRVdGN0pxY1p4MEhNbkdHcFJGNV9JUnlhRjVSUzBRYnUtRkdOem9IYXlOQ2ZzaHFEalR6dlk4cVl2ZUY0eklGSWVzRlQ0TnUwNWtFQlBWN1JLOTNuSzFubnlmd1VVa0lyLUFXR2hzU0NERXBmMGFGX1YwZ2JBNjBkOHo5TEZoTjVfSkxYeTR1eE9nZUtNQnc?oc=5",
+    "source": "NTT Data",
+    "published": "2026-10-20T07:00:00+00:00",
+    "fetched_at": "2026-11-09T02:31:25.250971+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia Energy Commission decision"
   },
   {
     "id": "3b4c280f03db46a0",
@@ -13816,6 +13838,17 @@
     "query_label": "ADB Southeast Asia energy"
   },
   {
+    "id": "2dd58b0061df575b",
+    "title": "The Visayas grid is again on yellow alert today, June 28, as nearly 975 megawatts of power remain unavailable while demand is expected to run high. The National Grid Corp. of the Philippines placed the grid under yellow alert from 6 p.m. to 7 p.m. Available c - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0xkdnVQLWVLTzhfbXMxU0FFWE9aX2ZZMTZOdnFRV0lhd2I3Y0hSR09NTzd2SlJMU2Zwd2pFOE5XTnZPVzlTY080MHQ5T2VQUlVnajlYZW1OSTJ3SGo1bUpHaFNzNU5MaV9RYmRxWTlTcjhFRkJ0VXVFX1V2Z3hDMDZPMGZuTWdvdUI5amtQclJ1VDRHMHQ2MnNfc05tNkppMHFiZjBMLXdUVDI5RlY1bi02eTU3MTFWUTFHVVltSVl5c3ZlZVNObzhIWEVxbnpXaUM5Y3VlTE9qbUFvMFE?oc=5",
+    "source": "Facebook",
+    "published": "2026-06-27T07:00:00+00:00",
+    "fetched_at": "2026-11-09T02:31:35.992319+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "8927bfc2142661a1",
     "title": "ADB agrees US$63 million for Cambodia battery project - Asset Publishing and Research Limited",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHVYb0dQVWVZMXN2RzVfRzgxd2xiVnhuTmphMHVMSVg1VnJ4ZW1CZnFTaERGVmtqM29GanFPd2JMd0Rvc3NBMjlSZmZFZGEtZ0pOU0NfWlZsNmVYUjIxQzBuOExqMkhvVlV6Tk1xV1podWpxXzRLQlZtbHVjMzZUMFRRckRrVGJsXy1HaUpsR19Lbm14aktsVW1zZzdHR1I2?oc=5",
@@ -16465,38 +16498,5 @@
     "country": "MY",
     "topic": "Grid State",
     "query_label": "Malaysia grid state of network"
-  },
-  {
-    "id": "8b111e99b328a881",
-    "title": "Malaysia’s Green Push Is Stalling on Hidden Fees and Red Tape - finance.biggo.com",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxX2hzY1NYWFYwU2t1UTlsU2ItZHJOdktHalFZcmd1X1pfQ0NGT2RVYmxrTDlBSVdIelp0d0RQeWN2Rmw1NlVLbEowaGRTck0zNXlvRW1sVE0wRlBkUEZUeg?oc=5",
-    "source": "finance.biggo.com",
-    "published": "2026-06-02T07:00:00+00:00",
-    "fetched_at": "2026-10-24T01:27:54.089021+00:00",
-    "country": "MY",
-    "topic": "Policy",
-    "query_label": "Malaysia Energy Commission decision"
-  },
-  {
-    "id": "d9309dd514123b0a",
-    "title": "Building a Just Energy Transition: ASEAN’s Growing Climate Investments, Global Collaborations and Carbon Policies Development - ASEAN Centre for Energy",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pDellVNkNwYWVZNkJseHRJeE1SSVRVSzgwVmlBYlVKaGpZdkJSY0JrZlJ3M2VxWVNxU0RQR0tOa2lYaGhjbV9Tblh2VFc3WmpKYTNQdWJobml6dE1YZ2ZpN3pGUzU2c0JYNDhjaWI3TW5VUEtORV9EV2FLMlRfR2lsVmJVUjVNRW9venpBRThjVmdUc1VHUFNpc2k2X0FtV1BJa2JxV1dZUU5SZEIwUktpNFJvazJFTEFZVWUzdTF5emJZTEpZT1JXbGt2aXg4UjhTdFBwcHNjVHhrclBBNzg4RGU4ZHAxZHhHVWNuaHU?oc=5",
-    "source": "ASEAN Centre for Energy",
-    "published": "2026-06-02T06:31:22+00:00",
-    "fetched_at": "2026-10-22T01:24:49.113035+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "JETP Southeast Asia"
-  },
-  {
-    "id": "a090b44d5f2846eb",
-    "title": "Cambodia and Laos Forge Power Alliance to Explore Cross-Border Electricity Grid - Construction & Property News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUndGWnFQNUxra09xY0UxanVvUUxDTFV2UkNmSGRuNlZJaThCZXNGc2tHbk1fdkw1akdyNm9tRDYzYWJyYXpRMk1iVUFLckNDcVZ2eEl3dmFnNkRIWFB5Q0FUMHlhSGRSclpOeHFnMVlnLW1MRXdmbV9KU0t1Ty1EM0lwRVRkU3pMVVVlRUFsZjZZOHBLTi1TMXFnVzJIY05sZFZJUlFsNGxPN3luYnRQQVNxNmQ?oc=5",
-    "source": "Construction & Property News",
-    "published": "2026-06-02T01:36:06+00:00",
-    "fetched_at": "2026-07-02T09:54:20.084822+00:00",
-    "country": "KH",
-    "topic": "Grid State",
-    "query_label": "Cambodia grid"
   }
 ]
