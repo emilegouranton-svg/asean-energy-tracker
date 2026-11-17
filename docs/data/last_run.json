@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-11-16T02:40:25.582896+00:00",
-  "new_articles": 454,
+  "last_run": "2026-11-17T05:01:08.382553+00:00",
+  "new_articles": 392,
   "total_articles": 1500,
   "queries": [
     {
       "query": "Vietnam HVDC",
-      "status": "ok",
-      "count": 9
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Vietnam offshore wind",
@@ -16,7 +16,7 @@
     {
       "query": "Vietnam interconnector",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Vietnam PDP8 power plan",
@@ -40,8 +40,8 @@
     },
     {
       "query": "Malaysia HVDC",
-      "status": "ok",
-      "count": 3
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Malaysia offshore wind",
@@ -51,7 +51,7 @@
     {
       "query": "Malaysia-Singapore interconnector",
       "status": "ok",
-      "count": 9
+      "count": 14
     },
     {
       "query": "Malaysia NETR roadmap",
@@ -65,8 +65,8 @@
     },
     {
       "query": "Malaysia grid state of network",
-      "status": "ok",
-      "count": 8
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Philippines HVDC",
@@ -81,7 +81,7 @@
     {
       "query": "Philippines grid interconnection",
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     {
       "query": "Philippine Energy Plan",
@@ -91,7 +91,7 @@
     {
       "query": "Philippines energy policy decision",
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     {
       "query": "Philippines Green Energy Auction",
@@ -110,13 +110,13 @@
     },
     {
       "query": "Indonesia offshore wind",
-      "status": "ok",
-      "count": 20
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Indonesia interconnection",
-      "status": "ok",
-      "count": 9
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Indonesia RUPTL power plan",
@@ -145,8 +145,8 @@
     },
     {
       "query": "Thailand cross-border power trade",
-      "status": "ok",
-      "count": 20
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Thailand Power Development Plan",
@@ -166,7 +166,7 @@
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 17
+      "count": 15
     },
     {
       "query": "Singapore energy policy",
@@ -185,8 +185,8 @@
     },
     {
       "query": "Myanmar energy",
-      "status": "ok",
-      "count": 20
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Brunei energy transition",
@@ -201,7 +201,7 @@
     {
       "query": "ASEAN offshore wind",
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     {
       "query": "ASEAN Centre for Energy report",
@@ -215,8 +215,8 @@
     },
     {
       "query": "Asia Clean Energy Forum",
-      "status": "ok",
-      "count": 20
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "ADB Southeast Asia energy",
@@ -231,7 +231,7 @@
     {
       "query": "Mekong power trade",
       "status": "ok",
-      "count": 13
+      "count": 20
     },
     {
       "query": "VTMS power corridor",
