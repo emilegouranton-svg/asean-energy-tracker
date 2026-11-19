@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-11-18T04:06:42.636773+00:00",
-  "new_articles": 453,
+  "last_run": "2026-11-19T04:04:07.621701+00:00",
+  "new_articles": 442,
   "total_articles": 1500,
   "queries": [
     {
@@ -51,7 +51,7 @@
     {
       "query": "Malaysia-Singapore interconnector",
       "status": "ok",
-      "count": 18
+      "count": 11
     },
     {
       "query": "Malaysia NETR roadmap",
@@ -66,7 +66,7 @@
     {
       "query": "Malaysia grid state of network",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "query": "Philippines HVDC",
@@ -91,7 +91,7 @@
     {
       "query": "Philippines energy policy decision",
       "status": "ok",
-      "count": 19
+      "count": 13
     },
     {
       "query": "Philippines Green Energy Auction",
@@ -106,7 +106,7 @@
     {
       "query": "Indonesia HVDC",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "query": "Indonesia offshore wind",
@@ -121,12 +121,12 @@
     {
       "query": "Indonesia RUPTL power plan",
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     {
       "query": "Indonesia energy ministry decision",
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     {
       "query": "Indonesia JETP",
@@ -161,12 +161,12 @@
     {
       "query": "Thailand grid state of network",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Singapore power import",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "query": "Singapore energy policy",
@@ -176,12 +176,12 @@
     {
       "query": "Laos hydropower export",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Cambodia grid",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "query": "Myanmar energy",

@@ -1,5 +1,82 @@
 [
   {
+    "id": "a2e8f0c0719a1f2e",
+    "title": "An energy research firm forecasts that around 6.5 gigawatts of battery energy storage system will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Department of Energy has required new power projects with installed cap - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUy1aOXJ2UUFjeDVrc01aNmJVWjVHOThwTGE4QUo1aEpGSE5BcTFPZ01vY3pGZTRuUjE5VW94Ymw3MkZ2RUwyNTdHNnMwRVV6ZkhaSmg3QjkxNlJFM1ljZlBsSERqcVpnNk1oUFJuYm5teGY3RFpSV1RGLVlLaTVzTUNsaXRaWHFsLWg4dFZqTE1nMzFxNW1nQWZOUHZwSlREYnNfbzIyMmN6YkhLUnBUSHV3bEh3TjRhZzM5YmRFQ0tDTXFRaExBZ1RkMmRDVkVnbW1RUw?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-19T01:10:02+00:00",
+    "fetched_at": "2026-11-19T04:03:27.304875+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "a45294d0249acd8f",
+    "title": "PH keeps clean energy target at 30% of mix by 2030 - Inquirer.net",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDU0Q2tsMlhlYXVpNHRkdEF5S0ZLemROQ1QwN1N3T0dpc3Z5OHJMdTNSRGtCYUVjaW54VW1XaE8wOGlGaFpFSG9EbENORXhxRlhmS3lFUGQzQlU2OW5OLXRUVkpBMHloTVk3eEVWaUtCdEl5TENZb01IYi1ocFJmRmlvSHNNR3labXVnVllzUdIBlAFBVV95cUxPWVlBVU54M29tX3RPcU5GVXF1SHFfeV9HREZuRzN2aFM2Nm5DdHQ4cnZBQ3pHNThzaU5zQmlhZUZFelVKUDlnbmNmaWpfOVpXRXFweldjekszMDRZZVpZbUlDR0JiTW4xcmJoSVVRbTFXSmZZRzdNV0huaVhIR0FOYjVrbHQwRGRpX1BsVzBaTXAydnhZ?oc=5",
+    "source": "Inquirer.net",
+    "published": "2026-11-18T18:28:00+00:00",
+    "fetched_at": "2026-11-19T04:03:27.304964+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "9d575ae87a9d414a",
+    "title": "Cover Story: Environmental trade-offs of floating solar expansion - KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWl6akxod3ktaERtTHpxMWxhYXBwY3lvQlNzRDlUbGRnaHkyNlRwMk5lRkJ5R1NTcnlWbWYxcTdmazlMNzM4S205bEhDTlNlNUpYSHhzVHFEX2xxemdKSG5fdnhDaXJLTEtZU1RFRzRuSjc1UUZVbnZPd2tOTTJQOEFFWU5MZXNVdUhpam4ySnNLMnFQeE9iNXFNR21YWHg4cGI5a3VFeHpwRWNRNjdDM3AzZWU?oc=5",
+    "source": "KLSE Screener",
+    "published": "2026-11-18T16:00:01+00:00",
+    "fetched_at": "2026-11-19T04:03:17.874015+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "05686f19a0efab22",
+    "title": "PetroGreen, Ming Yang partner to advance 2-GW Ilocos Norte OWP - Ocean Energy Resources",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclUtTmFMMjlmM0s4TU8wRzVVR3FaZW01QkJYTVMtS0xuUFhqTnh0bTJqNkg4d2x1UHhVTVlHNDkxXy1YRHlWNmxjNURvLWgxUlBQSm0zQ0Ywek50NmROWHFaeDZUTVJLUm1MelFXUmVBMzhDeHA2dUdQTEtDS0RpLWpfM3JudkJ0ZXpCd0p4V3NTNG1CNnJBQ3lPckZ0YVZxM2xoaEJEbzQtczg?oc=5",
+    "source": "Ocean Energy Resources",
+    "published": "2026-11-18T15:53:59+00:00",
+    "fetched_at": "2026-11-19T04:03:23.224940+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
+  },
+  {
+    "id": "b8d360a194b09b52",
+    "title": "ESDM Urged to Ensure Ujung Kulon Remains Free from Mining Activities, Verbal Assurances Are Not Enough - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSURiaDRQQzVzSlhiUkFxbnVmRGNBRUJjWW1DcE1jeEFrZmdGMlFVelN4R09NZTl4STBpMi1VRW5vWHJ4dG02TGlWUV9xWVJSM1lYS1lhRGFjM1llN1pCM3did1VJT0MzVnRHTXRUUTNSOUJGeVIzVE1MVGFTUTR3MFlzSm5pU2k0V2xqVTZNMm9LZlVva1RZWnF1VEdGSXA5MGVRWFdrMzlqREtuc25lYXp4R21LR2VrcDZ1TXVpRks?oc=5",
+    "source": "Kompas.com",
+    "published": "2026-11-18T10:41:05+00:00",
+    "fetched_at": "2026-11-19T04:03:36.494576+00:00",
+    "country": "ID",
+    "topic": "Policy",
+    "query_label": "Indonesia energy ministry decision"
+  },
+  {
+    "id": "afe09839b4cb9504",
+    "title": "Vietnam’s Ministry of Industry and Trade to support Global Energy Exhibition & Congress Vietnam in 2027 - SME & Entrepreneurship Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORjI4RTVGZVFBSldBOG5ldFY4ODV6NG9mRS03d2dFTlZpaHZiYUYyMzN1ZjREQ0Rqd2tvYnZ4WTc5LTk1RnlxUzhSbHpDMEF5cllNOUdiV0hLcFlSSUJyeGFwMGdUYnRPVU1wQ2xWc0llOG8tZWJwczIwcUgyM0NFTjBNV204aGFaLUJTb0R1VDRGMG5uTk5teTJnLUxNbjBlNjFTa083X2RvcXhVUUI1WkxnY2d3XzhoZVE?oc=5",
+    "source": "SME & Entrepreneurship Magazine",
+    "published": "2026-11-18T08:10:00+00:00",
+    "fetched_at": "2026-11-19T04:03:09.885880+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam energy policy decision"
+  },
+  {
+    "id": "8b37317aafdd9368",
+    "title": "Supreme Court Nullifies Dismissal of Ex-Western Visayas Police Chief Over Due Process Violations - Daily Tribune",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRkSjZES0tSTkVpNjFhZ19OV3ZkNWhYd3lXSExldGVyQmpBRVRxN2YtejQ3SjYwN3VucDhPR08zZUFyZjRRdDZYMHBfVk5SMFdPZlp5N19Bb0t4Y2J4d2xaeGYzM3V6ZW5XT3ZWLVFYQ3F2RU0zSlBmMURubEpzN2FrTEZ2Q3dZLURrQ3dFNmpxd3pDcFFnSXM4UjNEQQ?oc=5",
+    "source": "Daily Tribune",
+    "published": "2026-11-18T05:07:54+00:00",
+    "fetched_at": "2026-11-19T04:03:27.305171+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
     "id": "b8749f465ab9554a",
     "title": "Indonesia Rules Out Mining Designation for Ujung Kulon National Park - Tempo.co English",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFM1V05xdENNX3J0Y3IyUWdtVWFtRS1OcXZTbWY1QzhyaGxfVm9nRmN4N25UYUM2TFNvbFRTZGZuSDFCamFkQ3pHZ1gtQ05Ocl9FRFBaNDFLZWFuaW5LMVYxTmhXTGlqQWNVcG1zWGdtdzhpQVVHWE13dW85clZCRG9MRGRXSzN2cDJqWGVLbXBuWmo0cWM2QUpCWU0xdkJyb2Fj?oc=5",
@@ -174,6 +251,17 @@
     "country": "VN",
     "topic": "Offshore Wind",
     "query_label": "Vietnam offshore wind"
+  },
+  {
+    "id": "60e80522b47f6358",
+    "title": "ASEAN Advances Regional Power Connectivity as All Member States Sign Enhanced MOU on the Power Grid Ahead of Philippine Chairship's Conclusion - ASEAN Main Portal",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMFMzSkIwQ2YyeFpndkpIWjg2S09zUDFmTXFwQTB0VTRhY3RNLXhRZGtJWTJ6RkdHLVZJQ29CMEstNTJSeEtFZlh6OFhUZWpBSW8tak55OF9FeFdCTF96T05jMkhaazh6a3F6aVlleXJId0cySGhYRS1rMWdPZnkybkZRbjc4a0FCU3ltRVlWWnVWNG9hTW83Z3NMX09PMVhnN3drZGVQZDc2Z25oS0VpWmNkamZwSUVoU1p3eklBeUtueFpudHYyUHJuSHlmX2czc1RUNWdvbjFmaEFXS2ZvN2wteWZlSzFKcWVoZkt4cGJJQQ?oc=5",
+    "source": "ASEAN Main Portal",
+    "published": "2026-11-16T06:32:24+00:00",
+    "fetched_at": "2026-11-19T04:03:59.788047+00:00",
+    "country": "ASEAN",
+    "topic": "Policy",
+    "query_label": "ASEAN energy ministers meeting"
   },
   {
     "id": "b319953335874e3e",
@@ -669,6 +757,17 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "8cf34b65e27167cc",
+    "title": "Indonesia eyes offshore wind potential as World Bank highlights 277 GW opportunity - Indonesia Business Post",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUs4TDYxRC1vZ1FXeTdQdFJJQVF1NThGR3VZanR3NllWWVRBaGpiMTZOYTB1UmJ3Vlg0STlfd0hYalVaQkVURVMzYks0dE02cC1uRXViWndadkcwN08xM0xWMXNfQzllYnRvdUlmMTdWZk5mbVJlOWl6YlExMDJmSGp0enA2MnEtMWxmS2lSZU90S3JvZ2ZtTGRnYlRlcmRSUUdKbVk2RlJ6cXJoclRCZmh0NmhxNUJaLXJFcmJGSnQ1eC0tQkR3SGh6bS1QMGs1MG1VX1dadGs1QQ?oc=5",
+    "source": "Indonesia Business Post",
+    "published": "2026-11-06T11:15:52+00:00",
+    "fetched_at": "2026-11-19T04:03:32.658710+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
   },
   {
     "id": "b5172a66b489e807",
@@ -1373,6 +1472,17 @@
     "country": "MY",
     "topic": "Policy",
     "query_label": "Malaysia NETR roadmap"
+  },
+  {
+    "id": "b544ca542982b877",
+    "title": "‘Philippines to be offshore wind powerhouse in Southeast Asia’ - Philstar.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnc2Tm40QVliWWNMS1FKekRVUnNPakhQX3JHWXV5aVlOWkE0OHdaWjdSVXFua3NyUXUyQzQtVDZka3N3TFZua1NJT3E1Tzh6anlyRDFGNkV2VE1KaWlKaU5GSjNQcHpubXQ1cFlOWU9aV2VDT1ZMWURzb3B5Y1pXaDBxQWNfLXBkSmhMMlY1LTV2Z1hKd2pTX0YzMkpfREZHRXhnNWdUczBLb0U?oc=5",
+    "source": "Philstar.com",
+    "published": "2026-10-29T07:00:00+00:00",
+    "fetched_at": "2026-11-19T04:03:23.225743+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
   },
   {
     "id": "97c92b7de6f6263c",
@@ -3168,6 +3278,17 @@
     "query_label": "ASEAN offshore wind"
   },
   {
+    "id": "a5516320ab998ac6",
+    "title": "Visayas grid still on yellow alert Friday MANILA – A yellow alert is up anew for the Visayas grid from 5 p.m. to 6 p.m. on Friday due to low capacity. The National Grid Corp. of the Philippines (NGCP) estimated the grid's available capacity at 2,545 megawatts (M - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWHN3ZVNDUjFSWm9SWXBXX1FDLXE5aGFvYVFIVzNaallydXVxMG1FeC1TV0lhdXF0bE9Td3FLdktWMi1leGFmd21hLTc4QTJCblpsaW04cE9aZkdhUUxrMkY1akt1TXU1LTNzTFJUbWtFdjREamxDeHFkbUR2Y0t6VTlBRU5kZDRac21sRV93SkRwVTNfNGhibklUN3lkdkZOcG8wOHRNUml2Si1IUmI2aGU4N0FXUHBHMmoxYU01RHBZWWVGUlBGMzV6eXF2VjBlMl84bg?oc=5",
+    "source": "Facebook",
+    "published": "2026-10-15T07:00:00+00:00",
+    "fetched_at": "2026-11-19T04:03:30.027598+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "8e26234d246b7bcd",
     "title": "PTSC Marine GS, Pacifico Energy launch surveys for 1.8 GW offshore wind projects - Theinvestor",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelZ1dFpBdURFN3B0ekszV3V3d1ViSWhaT1NiNGl0U3RmS3FrQndKdGN0aHVnbWpMdkRVVGJ0ZEw5ZjZlaXlHXzR1NDJweTIzdnhFblJaVFdJYTJ1c3RtTk40SGpSQjZPZlNfTEpLd0NMRnJNN2N3cldNOW1FWTk3T1plcWdiekhhSk5MZ0MwUkN4eHZsdGwxaTV4YkhBeWh6bnF0U0Q2Y00tOFJ0dTZZUGxCRQ?oc=5",
@@ -4948,6 +5069,17 @@
     "country": "PH",
     "topic": "Interconnector",
     "query_label": "Philippines grid interconnection"
+  },
+  {
+    "id": "3cfb4732b40b4502",
+    "title": "Indonesia must learn from the 2025 Iberian blackout - Institute for Energy Economics and Financial Analysis (IEEFA)",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX0hpREIxS0k4SG4zdFR1MnJyRTI4TDJMc0tENFZ2WHJ5anFNaDhSck5NSEtHcUJFUUZKbXpUS19sM1VxM0pHUnJad0hiWE5CZldJMTFwQllzdGVxcURRU2lMeHczR08zNUJDNmtVTklvLUROZ20tdHNn?oc=5",
+    "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+    "published": "2026-10-05T07:00:00+00:00",
+    "fetched_at": "2026-11-19T04:03:39.408517+00:00",
+    "country": "ID",
+    "topic": "Grid State",
+    "query_label": "Indonesia grid state of network"
   },
   {
     "id": "5097bcfece3609d8",
@@ -16366,137 +16498,5 @@
     "country": "VN",
     "topic": "Offshore Wind",
     "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "3b54979ff3059476",
-    "title": "ACEF 2026 takeaways - Philstar.com",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81QkdtUUVnZUpyYTdhVXhnWXpYRVdsOVpHUlY3RWdzTzNNZ1JhUlpQR3FrZHlIcVYycTNhWnhUUEc4cFliN0gxQzFVOThPbGZyWlRMRkpkMmNZalBTUXFWSDFVaWhiSS1rRDRLMEZrYjdiYXNucG9oRWx1T3PSAYMBQVVfeXFMTWlDOFJ2RVhwQmxkT0lvUXFDNU9wZFBuLTRpR1ZaRkdYaFpYRkIwR1VOdnd2ZDIxbjhlTFJmZ1BKZUlwSE9ZaUQ4MElfUG9wVGRWNEJtUll0cXV2MUxLX0hoMzBCcjh1cXdKeEpYVEU3MWRnLUsyUloyTkRlQ0xPN2RZRlk?oc=5",
-    "source": "Philstar.com",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:29.912452+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "Asia Clean Energy Forum"
-  },
-  {
-    "id": "bd7fab0134456a79",
-    "title": "Cambodia calls for orderly energy transition at ACEF meet in Manila - Khmer Times",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmE1NzlERXBiQnRkSTBSQzdIM29BbmVNUHdlY2YzVzZUSWJIYUFGd0kxMUpTaFp3a0NHdkpIck9yZ1hJMjZjS3JSVDhxNGpmWWUtSDhJc0M1U2pJT2VNX0l1YVhhUl9fd2xlWF9uR0lLaDFnaDluV00wS0dpNUx2b3FnV2ZJTm5KUW1tVTMzZDdqTkNabG1NdmREamhLdE10RVZMQnpDa1IxSnc?oc=5",
-    "source": "Khmer Times",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:29.913064+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "Asia Clean Energy Forum"
-  },
-  {
-    "id": "fbc6c43471514f43",
-    "title": "Envision Sends Off First Batch of 8 MW Turbines for Vietnam’s New Nearshore Wind Farm - offshoreWIND.biz",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHdOa25Nc3ZzeUo5MFR2N2c0dFoxbWh4V0l4ZEZhOEhyZ2dxVHNURmNJaWJ3aEJXd3hpY0JTeDhSckhwTXcwa0RaQTZrZFZITWM1YjFydE91VlRuZTUxQmI3ZG8wT1hobVlUb3RDWVVLblRIdFpOb0o3ejI4T0ZCM1R3cFNFY0hyQUtZcDhKVDRzQjZpd3QtSmdIdTZWVWJ1YnZSVjl6X2FrVjBGY0V3VU04SmNISF92QXZhUHlqUndkWXc?oc=5",
-    "source": "offshoreWIND.biz",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-07-03T05:50:42.521193+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "3b8fb3021ad30600",
-    "title": "Cuban newspaper highlights Việt Nam’s offshore wind energy potential - vietnamnews.vn",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX01Rc01qRTlVX0Q1M3N2SGpFWmRDSFlkV2xNSnBhbzEwR3hteDVnc1NFMDRQc043VjRoVmtxbE5ib0pBajVjd2Rva2l2Q1dVTzduY2pIVXRlSGo2VGF0R3V6Ulhuc3Nqc2lSYnpsLUN3Rm9RMUVCSUVQQ3FfbzRGVS1JYTBDUlNDYjl1MXhRYjluSDZqYlo2NlVOLWRpdk5sRUVHYXBFMjBBQzBRNUN5cmtB?oc=5",
-    "source": "vietnamnews.vn",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-07-03T05:50:42.521287+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "14087823b2e4001f",
-    "title": "Envision Sends Off First Batch of 8 MW Turbines for Vietnam’s New Nearshore Wind Farm - offshorewind.biz",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTZ3NFE4Z3Y0RHpWaTZVTm9mRTJ2MGZVLVhELV8xRENGbHZOVWgxZjRpLUtqYU1DaUJJT1FIcURSVk5mWEdqZHBZb05hbUdQbDFPSG03VDZPNVNCNlVhRlNEMTBrTnZMeDJiVGI3Um92M3R3SktjSm80Z29rWTgycnVUdXVhSjRMcnJFNHZDZVE4YThPSVNzZGhHMGk4cnlOcWQxQVdWSFlOYmpwcHhiR3BkMktBVjFKRnBqRm8zWk8tQQ?oc=5",
-    "source": "offshorewind.biz",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-09-06T00:46:33.908995+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "605891263079a22f",
-    "title": "Envision Sends Off First Batch of 8 MW Turbines for Vietnam’s New Nearshore Wind Farm - Offshore Wind",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkVLUzI1dUJJUWZ5T0R2SmxOQjJGc1BpclNyTWgzRWI2a3pHcEpGTkdjTWYtYkp4cGtWd0R5UjNDak9xTUh6QnBFRVVjTkhWQmZFOEp2Y09iYlZwckdnOFpDMm1sM2x5WFBmUm1lVnRCbzN3OUhRTWl1NlBuWXRfdW1mcjUyam9DajRZN2xqbDByTTQ3TDVrdEk1N052OHZoWW1wSjRlMzQtcVZtV19QRDRhS2ZtSnRBZGhISQ?oc=5",
-    "source": "Offshore Wind",
-    "published": "2026-06-12T07:00:00+00:00",
-    "fetched_at": "2026-09-11T00:54:06.845021+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "35154f684b73ea27",
-    "title": "Philippine Market Movers: An analysis of three high potential areas to accelerate the offshore wind market in the Philippines - RMI",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0ZjLWR3aE9XVlVCNldPVHB1V2ZhcUQ5QklCLVZzM0FzN1RGNDFsaDBFUnhCdzctWUM0TGM3dHB6UDFVWFE5X1R6cWNIRHNHOVU2S2lLSlpUOTJtcEpZV3M0N2kyUHZ6OEk2WlRaSF85SndCb3J1amY3MktYX3Y4MUlJVzVNbTBqTlVjU1NaYk1TMXM?oc=5",
-    "source": "RMI",
-    "published": "2026-06-11T22:09:16+00:00",
-    "fetched_at": "2026-10-29T02:16:10.321359+00:00",
-    "country": "PH",
-    "topic": "Offshore Wind",
-    "query_label": "Philippines offshore wind"
-  },
-  {
-    "id": "9e057d5d4374181f",
-    "title": "CIP, Fecon propose 1-GW Lao wind farm to export power to Vietnam - Theinvestor",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEdMR1RoYXRfV093YWpRbFM4a2ViVDZXTXNaT2VkZkJwcktfTng2T3Zsa0lDNlZKbHR4aU95QTFSZEJMRng4cUlqcWplZzJqMDlqZjR0MXBIcGFES2sxY19ONUR5U0xZTmdsTFctNFF0NWd2aW50Mi1VVUJJeGNMUnp1T1NQZmM0N2ZLc0lJeHd0N3lUUUhwc2ROVFdpYlU?oc=5",
-    "source": "Theinvestor",
-    "published": "2026-06-11T14:40:33+00:00",
-    "fetched_at": "2026-07-03T05:50:42.522440+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "20f3948fc042ca8d",
-    "title": "Vietnam targets up to 17 GW of offshore wind capacity - Vietnam Investment Review - VIR",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNFlUYnE1VEI1V29NYlAxamQyNEJxNy1kZFZYeENaOThWSVVydjg2S0EyVGxIR2hueWlMX3loV2hwRU9sSHpINUtZNXV5S0poVXpaUHkybGRPUXk2MTZFUURKTXZqZTI3c0lycmRMbTc5YUNCazZDbWVoUllrNkxncEM4RElLS0thTVVZcA?oc=5",
-    "source": "Vietnam Investment Review - VIR",
-    "published": "2026-06-11T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:32.940845+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "79ebf2e2b358eda5",
-    "title": "Vietnam courts offshore wind investment to meet rising power demand - Theinvestor",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW9vVm5WdGpzWnl1V3RyX0MtbmJWdTFIYlEtR1hucGFIemNwWXh2eFBBcGoxZE5EVnpDUDBpUjJGTUI5cEtTQUpablkyX3M3eThKYk5YLVBsYVE0T1lQb3d1QWs2ZTF1cnZPVWFYVEp6ckJBamtkcGx1dllIZ2VXdWo5dTdyVS1PdFprVjJWcmJEczRxendoQjQ2UDdyR0dsdUwteQ?oc=5",
-    "source": "Theinvestor",
-    "published": "2026-06-11T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:32.941618+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "86674011f4166156",
-    "title": "Vietnam seeks global investment to build OSW industry and supply chain - Vietnam Investment Review - VIR",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek5vZG1jWU1pWVpYUk9ibkR3TnBLZXZaVFFZYkU5SnBoLWdYU2pqa1ZlclJ6UFY2VlZBcTNvQ3o3TFVuanZLT0s3RHdmblFlb2lmdGtMcmF6TXRVUC1MaWpENGsySks0bW9FZUNBTWstRFY5WVBLd0lHTkprbjB3SmRySTc1OHpHNDR2WEVjTWVZbEctQllscHFDLVZTQUpKb09J?oc=5",
-    "source": "Vietnam Investment Review - VIR",
-    "published": "2026-06-11T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:32.941713+00:00",
-    "country": "VN",
-    "topic": "Offshore Wind",
-    "query_label": "Vietnam offshore wind"
-  },
-  {
-    "id": "e4edc98a55a0df7a",
-    "title": "DOE pushes ‘aggressive’ fuel transition plan - Philstar.com",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0hVZ1BDRkdSZF9IczhOakJPRnRvdlpDaTBoTFlxaVBSSEs2UEtrUzVjdXh5MTNEYmExMEp5anBpRFJaMGZZZnMyTlI4RG5PSV9OMlVLeWVpRVlOYUtaZmhDUDh0cWo0UW85S19SZFlGcXByRUdNdzA4bDBFenpXLWV4NjVNeDJGRWt6Ui1wZERZNlhXZUJsWDNNNNIBogFBVV95cUxQVGFLemJjX2pHRWJMeWZNSzd5WERMdkJGTG9FQTZ6Z0g2YjhWcHo1WngwUmotSjFtY1VjeW9MZHJlaVQtNDFLcUhuLVQ3NTJKWWpzXzNzc0x6bXJvX0FMODdPb1pfakRkNEt5X3NZZTlzSUFyTEhKd3p6OUs0NklBUU82bGRBNWpBZDRKS0VCZS1uUmdrUS1GQUJSbEZTZE92c3c?oc=5",
-    "source": "Philstar.com",
-    "published": "2026-06-11T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:53:54.076645+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippine Energy Plan"
   }
 ]
