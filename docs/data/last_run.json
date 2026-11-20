@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-11-19T04:04:07.621701+00:00",
-  "new_articles": 442,
+  "last_run": "2026-11-20T03:56:10.570467+00:00",
+  "new_articles": 458,
   "total_articles": 1500,
   "queries": [
     {
@@ -16,7 +16,7 @@
     {
       "query": "Vietnam interconnector",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "query": "Vietnam PDP8 power plan",
@@ -51,7 +51,7 @@
     {
       "query": "Malaysia-Singapore interconnector",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "query": "Malaysia NETR roadmap",
@@ -91,7 +91,7 @@
     {
       "query": "Philippines energy policy decision",
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     {
       "query": "Philippines Green Energy Auction",
@@ -106,7 +106,7 @@
     {
       "query": "Indonesia HVDC",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "query": "Indonesia offshore wind",
@@ -126,7 +126,7 @@
     {
       "query": "Indonesia energy ministry decision",
       "status": "ok",
-      "count": 9
+      "count": 20
     },
     {
       "query": "Indonesia JETP",
@@ -175,8 +175,8 @@
     },
     {
       "query": "Laos hydropower export",
-      "status": "ok",
-      "count": 10
+      "status": "empty_or_bad",
+      "detail": "<unknown>:2:252: not well-formed (invalid token)"
     },
     {
       "query": "Cambodia grid",
