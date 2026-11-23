@@ -1,5 +1,49 @@
 [
   {
+    "id": "62503b43ff305457",
+    "title": "Chinese firm building windmills at sea - Daily Tribune",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tYnJXMnJvdEoxcWJTVGpMZElVaTNMX25GTUd3SXNxbl80b041Q2V0ejdya1BjQ2hyZ0o5NXA0eWd5QV9jelg2dzlTTTQwMDU3Q3pYY0hJN1JjMzVMa21sOHBGZXFYUHJVbkJhUHQzbUhRdnpUd3lmc2FTNGU?oc=5",
+    "source": "Daily Tribune",
+    "published": "2026-11-22T19:37:30+00:00",
+    "fetched_at": "2026-11-23T03:38:46.983864+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
+  },
+  {
+    "id": "09d83a7e9dd3ed08",
+    "title": "Libanan hits DOE suspension of higher biodiesel blend; pushes for immediate B5 shift - Manila Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1R3UU10aWh3RU9WV0N0Q3YwNVJ2SzE5cG5KdnVJTGFhLTItY0ZCYnlUZ284NXpzVldOR2dFamZrcDZlY3I4TC1jU1ZZNEJJaVJsZDJKaXcxenlmS1RFSmdGSGRsanVLYVZwdkdTYVVsbDJ3cnJLWFo3UFRJejUxQVlkYUJ4M0NYRkRSc3RnS3lrWE5qaHZqaDFiSk8xMzJwR2QwejliTERnazA3Nm1FQnlB?oc=5",
+    "source": "Manila Bulletin",
+    "published": "2026-11-22T07:42:06+00:00",
+    "fetched_at": "2026-11-23T03:38:50.904732+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippines energy policy decision"
+  },
+  {
+    "id": "4643f30530971f75",
+    "title": "Global offshore wind: Philippines - Norton Rose Fulbright",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlF5S0RNd2IyaHFJNWc3a3kwbzZkZXRrbXRycy1uUVY2YjRwYnFVeEl4bUs1SVZjT1JXOUdoemxDUUx1MVZydTY3OGJ0RlcyUkxjdlFKd0Q3TkJaaENBZlQxellXYmlwNkJDMU1ZMmFNd3NFeXpwWlptbDFwS1lnYmFvOVFLZ3BESWFiSUVnOVRnRk9MQ1JjNzBfN05WTWFiREVF?oc=5",
+    "source": "Norton Rose Fulbright",
+    "published": "2026-11-22T04:08:06+00:00",
+    "fetched_at": "2026-11-23T03:38:46.983560+00:00",
+    "country": "PH",
+    "topic": "Offshore Wind",
+    "query_label": "Philippines offshore wind"
+  },
+  {
+    "id": "8a6259c30c9dc22f",
+    "title": "LOOK: The Visayas grid will be under yellow alert from 5 p.m. to 9 p.m. on Sunday (Nov. 22, 2026), according to the National Grid Corporation of the Philippines (NGCP). A yellow alert is issued when the operating power reserves fall below the required level, i - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUV4dmlRdG1JSV9lbzgyZXNKbUMtZ09CMzlETHcteWs5cFR4U2ctaXFZMTNTS08tOVc5NFh0M0pTdlg3RkVZTkRNQ3ZTWXlvalh0b1l4bjdKdC1xdDRud2gwZjYxQmI3SGg1TUFuS3o2WWc4M0laOE5KWVRZZXFQNWZDdEpibzJCaG9hOFEweXVhdFRiU3hXQTBuV0J3UC1iNm1oNVhlN2ZFNVhzTUJETmlNbUp2VmM1OWctZGlqUmhYNkhha1dCVE1mLXMwN2NxWXdtRA?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-22T02:38:49+00:00",
+    "fetched_at": "2026-11-23T03:38:53.576626+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "cb736e5953c05e4a",
     "title": "Thai Cabinet backs direct EGAT power sales to 200 MW-plus data centres - Nation Thailand",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BeXdhLVF4VmNGZDZnV3V3cTRyN0stWFlsbVgzamN0ZUVtZGlPNjlmdlFmRW9KSlVUa256c0hTc3ZZZXRERklaQnBnSVBNTEVHWHBfVnNHUUdHdTdTMjVndUtKQWpUQVk?oc=5",
@@ -1507,6 +1551,17 @@
     "query_label": "Laos hydropower export"
   },
   {
+    "id": "7a8143605137e0db",
+    "title": "Beyond generation: building the systems for Asia Pacific’s renewable future - Watson Farley & Williams",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRG1Uc1VCeDk5ZFEzT2pDVnlOUldGNzBVUDRUbC0zVFVEMERhb0paUjQyajBaMkR3bmFSX1Y0dWxfQU1ydjZZeHJUNHFia0tGTHpwMFZKWmF5ZHhteXhLRjQ0SzlwRTFvWUZwZDNrcmx2TTNhRVBBMHFPR1BfWC1zUGdyYXFYMFBOZkdzWDlvSzlGcEtMSmMzbkpfRTJMZ21wdXJ0dUV3?oc=5",
+    "source": "Watson Farley & Williams",
+    "published": "2026-11-02T08:00:00+00:00",
+    "fetched_at": "2026-11-23T03:39:02.704043+00:00",
+    "country": "ID",
+    "topic": "Grid State",
+    "query_label": "Indonesia grid state of network"
+  },
+  {
     "id": "17e907f07b6ebbe3",
     "title": "Electricity price just decreased by 2%, boarding houses in Hanoi arbitrarily announce an increase to 4,500 VND/kWh - Laodong.vn",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZhc01uMGN2aEMxMU5ManFwbFNxQ1JUVFdoSDFfSjcwNGFDcTJMYmVBOVNFbEZfM05jLWM4RURxZUpQbUQ0QVB0RUZFU3RFWmxfXzZpcDlvQzgwT1g1Uk1rVHlzTHIyWkhQcW9KaHZfOVVxU3NQN2FwcDBxcEdZX01VdVg4azg5b0k3Z25FOVZzcGF4UEp0UXczUVpvSWhSazNCUHRSMkZNWVBrU3lVRE5haGZBUndUZ29Edw?oc=5",
@@ -1681,6 +1736,17 @@
     "country": "ID",
     "topic": "Offshore Wind",
     "query_label": "Indonesia offshore wind"
+  },
+  {
+    "id": "f05804f583e219fe",
+    "title": "Landbank targets 140 solar-powered branches by 2027 MANILA – State-run Land Bank of the Philippines (Landbank) continues to fast-track its shift to renewable energy and has equipped 82 of its branches and facilities with solar power systems. Landbank o - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVhNSXIyLTJsemhlNnZ0dDhzN2dWYzB2dmR2QUQ1dk5QcTZzVFFBaXFqdHdyZC1JQm1mX1A4eWt5OXZKUnk1WmUzcHBwWm1GWXZhV1ZZUVZsc3A0bDJlb0NtX01YRy1Jcm9mcmczNXhhV2UyeDFuMXB3Wmt3bzJWRGtQNnpjeWlPRVJQYjJGUzF5VFluUWJLSlpyR0hrOTU5VXJuTXBCcXg0X0htTk9oeHZpZ21fWWRtV3RPMWNlN0VqeEhBTEEtRk1UZk5kcjhodDdVRA?oc=5",
+    "source": "Facebook",
+    "published": "2026-10-30T07:00:00+00:00",
+    "fetched_at": "2026-11-23T03:38:49.582319+00:00",
+    "country": "PH",
+    "topic": "Policy",
+    "query_label": "Philippine Energy Plan"
   },
   {
     "id": "94ceacb4895bda2c",
@@ -7161,6 +7227,17 @@
     "query_label": "Philippines grid state of network"
   },
   {
+    "id": "ec8acaf8a5495429",
+    "title": "Latest Updates On Government Initiatives For Hydrogen Projects In Malaysia - Legal 500",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMVdNM1FoYkNzZEJlNm1NNTAwby1weXowV0U4SHc1bGVtOGV1RXFlb3dHQVNhbjhUNnc0bUxwazNXSWhCcWF3bGpqNzdxcnNETWRnQXJmOWdJZlJ2YlE1X0xjUTd4akRnMV84R01FNXRManlKdFlsRmh6Qk9Cdk1nbjdhYlpMdEZfNmZnbUUtYlJHOTl3LS1CZk1vaUEyTlo5RzZNQ1dZbmFtZW1fVmNGdXlkS1NXSEhCSTYwR0xWeW9mcHphVzBxU0F6MmUzSXNtRHF0SGtFMGw3T09lZTBnQ2w4MWk?oc=5",
+    "source": "Legal 500",
+    "published": "2026-09-17T22:21:39+00:00",
+    "fetched_at": "2026-11-23T03:38:41.597576+00:00",
+    "country": "MY",
+    "topic": "Policy",
+    "query_label": "Malaysia NETR roadmap"
+  },
+  {
     "id": "7416efe4ee3f0259",
     "title": "DOE wants Mindoro-Panay power link fast-tracked - The Manila Times",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekt5XzFVVzlhTW5INnhBamcyLUNESHF5RElKSHNTZHRQNkV0Y1BzSE9tUnY3ajlrUEs2VFVaTkZGRl9xbWJBbmFxZHpPLTNGRkVNbWtrdVd0eWlCbzlIN210Q1RjS3UwV09HbzlJNzU1X241R2g5SmtxUFRrc1BkNWtCQkh1WGROTnhXUzhoMmV0N1ZHX2phWTlDY2NBYjkyZHBJYtIBqgFBVV95cUxQRmlQTEtrbWotakY5Y3FQQU9ORHFKS0h0T0VVTS1mdUZwVmxSODlWZ1lnMDMxclVhU0ZsSHlrZmQwRVAxam1jUjRQVkY2TGZOYzRuTnhxb1Rsb2VyM0xxcUl3eDg4WGQ1Vnh0d3RZVF9LT1B2U1BRNEN5OUdTV3JXdTYyeXduelVuNGZ1bGtvZHVwTE44UUgtdWZMeENMNDZuLU50NG5EZks4dw?oc=5",
@@ -10340,6 +10417,17 @@
     "query_label": "Philippines grid state of network"
   },
   {
+    "id": "b1756cef7b4d87b2",
+    "title": "𝗩𝗜𝗦𝗔𝗬𝗔𝗦 𝗚𝗥𝗜𝗗 𝗢𝗡 𝗥𝗘𝗗 𝗔𝗟𝗘𝗥𝗧 🔴 NEWS UPDATE: The National Grid Corporation of the Philippines (NGCP) placed the Visayas grid on red alert today, Aug. 15, from 5:00 p.m. to 8:00 p.m. In an advisory, the NGCP said the red alert is due to the unavaila - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUFzbmdZSGkwYUtNVzlRYlVma0xLenVRMGEyc3pSSktlQTVMSnJMMjBiNW4zWTBsQnlmdmNQeXFtei10b0hfUlo5SmVpZnJLTF9HOFJ6OGNJaTFEMWZWeThoYy1vSGt3RXJXVFFoVkxEUWc0T1RWM1NCZW1kOUh1cDMxRHBodVNCWk1kOWFTZzBBdHZrQ2VTNmVieFpWZ183MC1QQWdGbmNhRDU2ejB3UWRna05fRGtOZjFpbXprTklkQllLV2RpeDlXdFMzZTNP?oc=5",
+    "source": "Facebook",
+    "published": "2026-08-14T07:00:00+00:00",
+    "fetched_at": "2026-11-23T03:38:53.577762+00:00",
+    "country": "PH",
+    "topic": "Grid State",
+    "query_label": "Philippines grid state of network"
+  },
+  {
     "id": "9a9516f542e0b2c2",
     "title": "Red, yellow alerts still up for Visayas, Mindanao grids this Friday - Cebu Daily News",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFAyaV9OVUxnSHRncTJORDlQVDZZRTk0MXNXekp0Tm9DZHBDcDZVTTVaVHhqanF3ZzJnLUNhVExJZGpJcllpaExEZ0JnYi1xX1U3bVpYLW9LdkdqM29sQ2RJdVVkWUdPS09pb0R1OVdyazRMU0FtVnFaRElFTDFMNHJaUzNBME80VGhBYng5QlYwLUZveWMyVlV4RGVXV0VJRGxqbFNNcWxWWknSAbABQVVfeXFMTk9yNE11Yjk1NjVyNE9IUmZGS2Uza1pOamxXQXdDdDBpLVczMFo0QlpyOGlsdDRSZ2pOSEl0czN3UDFjRHkxSEtLa1pPWnZ1WEV5WFJZZ1cwT2x6cG9LYnVTaTE4X3AtVXdOSHdEVm9ndVd4Q0NBWl9tRGpvU0p1c0E4Q3NkRzRIRmVNdWpDWWFlT1Vvczh4U0JUTlVaZjJJMGl5dUdZU1ZoOHp0VEhVdkw?oc=5",
@@ -11152,6 +11240,17 @@
     "country": "ID",
     "topic": "Policy",
     "query_label": "Indonesia JETP"
+  },
+  {
+    "id": "8cff0ce3e05a5fa6",
+    "title": "B.GRIMM Aligns Renewable Targets With Vietnam’s PDP8, Eyes 2,000MW Capacity by 2030 - kaohoon international",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42S3lPRnJKaUVSWHZObUFCeFE3dGxYakJ2X1czTXVzXzNqSGpWcUx1Q1NtZE90M3NpV01hNjZ2TVRPODRJLUp4NUxKV1BQZ0tCcFkxbDV3RkF3dUdMQk1WYg?oc=5",
+    "source": "kaohoon international",
+    "published": "2026-08-05T07:00:00+00:00",
+    "fetched_at": "2026-11-23T03:38:32.379240+00:00",
+    "country": "VN",
+    "topic": "Policy",
+    "query_label": "Vietnam PDP8 power plan"
   },
   {
     "id": "bee4dbd540171168",
@@ -12516,6 +12615,17 @@
     "country": "MY",
     "topic": "Offshore Wind",
     "query_label": "Malaysia offshore wind"
+  },
+  {
+    "id": "1ceb79e8de1f9a94",
+    "title": "Siemens Gamesa Books Two CSOVs from Marco Polo Marine for Taiwan Offshore Wind Work - Offshore Wind",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGx4bk9ncC1UTlFzX1pOWjZrdTFwYVJNd3FEcXZYZVowOXU5UkFxdEJSUENGSWNxMlMxZV9RenJKcmRzbU9uY3lvczlVWFJmaUZnNnVEcERGSTJqTElIZm80Q3VmUlhWOWstSmNLam5yWENVdmJickJYX2JMbkVwbkkwS1hkQVBkZ3dDWUhRekdLdVgxRXhwWnZDdE14b0Mwb2syNFE5NWVkZUVRV3REekticGttMDhra2g2WFF6eFI?oc=5",
+    "source": "Offshore Wind",
+    "published": "2026-07-22T07:00:00+00:00",
+    "fetched_at": "2026-11-23T03:38:56.175369+00:00",
+    "country": "ID",
+    "topic": "Offshore Wind",
+    "query_label": "Indonesia offshore wind"
   },
   {
     "id": "9826c09e76c26162",
@@ -16388,115 +16498,5 @@
     "country": "PH",
     "topic": "Policy",
     "query_label": "Philippines energy policy decision"
-  },
-  {
-    "id": "3bb973a284fed5b9",
-    "title": "Germany, Indonesia deepen energy and economic cooperation - Indonesia Business Post",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGdQOEhVelp0NlVXTXRGWC1MTlk0aFFxS3Y4dGZ5LUhDM2tKOWtrel9KOWhpOUhqVXExMmFJejNzVGhwdDJOeC00ZEU4UGN0bjFwa0pvcXFyc1pKd3E0akh1VWN5NFNTQ2VfMV9MaWxDVFVMWW5uaklNMVRMVWN3X2QzSURfODFuM29ZSnRCbmk0WGtZVzU1YVEyQUZCRlhrQk9SMFZ3eFEtRmlzbVNBR2ZBb0pJVm8?oc=5",
-    "source": "Indonesia Business Post",
-    "published": "2026-06-18T11:45:06+00:00",
-    "fetched_at": "2026-07-02T09:54:06.838989+00:00",
-    "country": "ID",
-    "topic": "Policy",
-    "query_label": "Indonesia JETP"
-  },
-  {
-    "id": "95d8d9816cdcdcbf",
-    "title": "Ministry of Industry and Trade holds second meeting of drafting committee for formulation of Law on Key Industries - moit.gov.vn",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcXpwT1dEd0pmdHpnXzJiT3VwbW9HZWh1cUxhRWY4S2hGQm15YjVYSzVXQVREMFZXaHQ4cVljakozQW5kYV8xT0xVMHJyN0xfY1VSeWhpbmlvQUVsQmNqVVdZWHFRT054MVktQnpGYzNzZE5fQjQyOGVsckZaZWktbGppck0xMk4xdFYtMHFKWkNnek5oQ1g2Mk53eHQycHJDeVhFdGZaYzNFb09KSGp1dlRSb0Z0VnM1OU5yM3NRQ0o2bmhSczhmeUhuMnVRUkRwMlJnbllNZjBNYjVDZHB2eA?oc=5",
-    "source": "moit.gov.vn",
-    "published": "2026-06-18T09:11:34+00:00",
-    "fetched_at": "2026-07-02T09:53:37.399405+00:00",
-    "country": "VN",
-    "topic": "Policy",
-    "query_label": "Vietnam energy policy decision"
-  },
-  {
-    "id": "aa3977497d7aceca",
-    "title": "GEA-All suspension extended for two more months - Inquirer.net",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaTFSM0JUdFAwc2VjRGNvdXRKLXFMYmxCRVNoUU9oSFVNanRQbkJMVUVPcWJONEJVczBtV2RuWnpkMWRaUjdYSmZmSmp3UUpFaWlZMFU5Mkk0UW0xVnFDZzZZNTNMTmUtaWlNQ0N5VkRQSHRDX2NiMFRFQTdpd1JTb0hmVmxBUXZFcFZqa9IBkgFBVV95cUxPTVNKQTJyZHVNLVJLTkVGbWlwUl9jNnJUWXhGTzlsd2Z4NjQzaDByUHB0ZnB0bkhfMEFsVWRMaXFMLWpua0MtaHh4M2JFb0FMQXhaZGEtbDh0dWpjX3h0Mmw4RlVEVWhTcEtlQ1BwbU1GVVRvNW1yb3pSMmxrMkpOV1ktNnVOSHc1TmNzTlVrZEpDdw?oc=5",
-    "source": "Inquirer.net",
-    "published": "2026-06-18T08:26:00+00:00",
-    "fetched_at": "2026-07-02T09:53:57.023075+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines Green Energy Auction"
-  },
-  {
-    "id": "60ad92bae1bad0e2",
-    "title": "The 44th Senior Officials Meeting on Energy (44th SOME) and Its Associated Meetings - ASEAN Main Portal",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzRTTTRkNUg1bk4tVnduVGtZUEhDcDg2OTkzQTRuek5fWlFveVRZZzc5bFJZcGJaQ1pLUGhQbXVHellyRXFBN2k3UzVsOWNQQ0tKZHVxNnhPcHhnZVNtQWgyZ3BJWHJxQlpvSzREcDRHUENmN0F2TmctNXR1cnk0U0Z4cGUyQUFLV2lVWFZuaEIxdnljVE84ZzNJRGpFRmZJdHc?oc=5",
-    "source": "ASEAN Main Portal",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-07-02T09:54:28.649658+00:00",
-    "country": "ASEAN",
-    "topic": "Policy",
-    "query_label": "ASEAN energy ministers meeting"
-  },
-  {
-    "id": "cdbaeb0cd88efc7c",
-    "title": "Here’s How NRDC Is Fighting Back Against the Trump Administration in Court - NRDC",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDFQUXBDOU84dHdZSWFGRVRyN0VUb0R5OTZfcTRwTTZCR3RhNlM0aEZra2NjbHZ0bW1QNTNqOG1RN3B0SUEzWUI4Tm95ckt3c3JBOHJSOVJEVE9LSzY5M1dGWFdENTVxRmFOcmFqY0p4eFFpVnNjNDhLVFh1VGxDTVBmQXBqMWkz?oc=5",
-    "source": "NRDC",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-07-05T00:07:41.494358+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines energy policy decision"
-  },
-  {
-    "id": "38f197db1db47888",
-    "title": "Wind developers seek funding support for offshore wind ports - BusinessWorld Online",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUZYY2o5SnkyMzNBWGlkU01IaFJST3IyU1VGemo0b1pFdWVYZHotYTFGVDNRaVdXT0g5djV1NlBhbFFHUXNRMzBGVHBjeXhoY1lQQmFjQklHSWlzMWV1LThHXzZrclNhYWZEX2RfUkdHc3dtN2FybzktTGxNdm5xU04tb3UtMFdGQVhpNEVJcDJmU0RpT0x4WjJXVS1EWlhMdTBjUEd5UmlyMVhTMlh2V3VSdmI?oc=5",
-    "source": "BusinessWorld Online",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-07-07T07:58:13.953364+00:00",
-    "country": "PH",
-    "topic": "Offshore Wind",
-    "query_label": "Philippines offshore wind"
-  },
-  {
-    "id": "dce9405c9d68c718",
-    "title": "Special green energy auction for waste-to-energy suspended - BusinessWorld Online",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEhpaUJPY0FVYWg1WXlJVjY2SGxTSktERXhmUFZhUl9tN0NIbFhKMFA5VE15bmx0NXJaclYzTS10cGVXOG42cXFOLXY2ckJ4UlppX1dCZVNfVVBERHpIeUp4b0dmMmlkNl9ZQTVNbDlhNkFOd1ZqdGZLN20xYzJVMkQ2a0g1WExVcTRrbExwSVhWVDlfS0JaNzNRQW1rVm1KeDh2TkxUYy05eXNhcHBj?oc=5",
-    "source": "BusinessWorld Online",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-08-09T23:38:12.257557+00:00",
-    "country": "PH",
-    "topic": "Policy",
-    "query_label": "Philippines Green Energy Auction"
-  },
-  {
-    "id": "f8353a5b9c90768e",
-    "title": "Iran-Qatar Electricity Grid Interconnection Plan Shows Pragmatism in the Shadow of War - Stimson Center",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTdZcDMzZGgxUXFoUGZ5Y1djcG14TTR6cURrQjU3OWhTRmE2V0gwdGVsQnJ4V0xxOXhreFI2bUJmTm9NbnNPa2lkeW0tRlc1d1E0RkxXZ1dOWWdSN1RZSzlNOWM2UjI3YV9rMFl1d2VJT1F0WG9ucEtLUDdmSllHYUZxQUlsQjJFZzJGVlk5SHFla19GQ0FYd2xzN2lzNUZkTllnZWhaRHNPclhtNVJVNnVyNXZjYU0?oc=5",
-    "source": "Stimson Center",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-09-04T00:54:23.442201+00:00",
-    "country": "MM",
-    "topic": "Grid State",
-    "query_label": "Myanmar energy"
-  },
-  {
-    "id": "09aeef9eea65b69e",
-    "title": "Indonesia's Data Center Market Hits Its Power Ceiling - globaldatacenterhub.com",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16YzdZZzVXcjI4dlhhSXdVNzdwZ3p4Q1pLVlRDaU9lcXpwQmJaMXFPYlVMaUppaVR4R3VFVmF4clZuVDc2NV9wb01FSDk1dTRQNUMyMFZYTHdCMG5RWkJTdEYxMWJZWkR4Y2I4ck9YZWdFak12OUdUMzZuN2g?oc=5",
-    "source": "globaldatacenterhub.com",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-09-30T01:57:39.872764+00:00",
-    "country": "ID",
-    "topic": "Grid State",
-    "query_label": "Indonesia grid state of network"
-  },
-  {
-    "id": "00b30c39a4d0edb2",
-    "title": "German energy minister unwilling to let TotalEnergies return offshore wind sites - Upstream Online",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQlAwS2tUdEh6enlJV0FyTGE3aGY5eW1teFVQMXpxSV9kLWVIbUhfckgzOTlGS1MzR0F5c2RyMnJVZ29mS0QxMDZhX3hJdER5ZHFUXzVaMHFia2g1cG94NTBlUEF6RWRxcTJVLW5QMWZkTnVfNmluT3NqQ3oyUFJiUGZJeHYwNlRScjYzN0dZSkoybW9oLW9wUXp5TVZiN3JJQ1BjZ3JjbURkeUpPTDVFdnhhVzRjSWhYN1FxZlJVekltdDhlNGE4UDJIU3Z5dlFrclJOY2lHQk8?oc=5",
-    "source": "Upstream Online",
-    "published": "2026-06-18T07:00:00+00:00",
-    "fetched_at": "2026-10-11T01:45:41.954923+00:00",
-    "country": "MY",
-    "topic": "Offshore Wind",
-    "query_label": "Malaysia offshore wind"
   }
 ]
